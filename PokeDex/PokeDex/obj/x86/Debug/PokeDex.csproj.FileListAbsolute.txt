@@ -211,3 +211,4 @@ C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Pr
 C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x86\Debug\qualifiers.txt.intermediate
 C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x86\Debug\PokeDex.csprojAssemblyReference.cache
