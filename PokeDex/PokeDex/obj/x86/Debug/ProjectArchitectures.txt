@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\PokeDex.csproj;x86
+=======
+C:\Users\Dakota L. Miller\Desktop\Team-Name-Project\PokeDex\PokeDex\PokeDex.csproj;x86
+>>>>>>> DLMs-Work

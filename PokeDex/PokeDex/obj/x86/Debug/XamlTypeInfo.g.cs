@@ -189,6 +189,7 @@ namespace PokeDex.PokeDex_XamlTypeInfo
 
         private void InitTypeTables()
         {
+<<<<<<< HEAD
             _typeNameTable = new string[3];
             _typeNameTable[0] = "PokeDex.MainPage";
             _typeNameTable[1] = "Windows.UI.Xaml.Controls.Page";
@@ -198,6 +199,19 @@ namespace PokeDex.PokeDex_XamlTypeInfo
             _typeTable[0] = typeof(global::PokeDex.MainPage);
             _typeTable[1] = typeof(global::Windows.UI.Xaml.Controls.Page);
             _typeTable[2] = typeof(global::Windows.UI.Xaml.Controls.UserControl);
+=======
+            _typeNameTable = new string[4];
+            _typeNameTable[0] = "PokeDex.MainPage";
+            _typeNameTable[1] = "Windows.UI.Xaml.Controls.Page";
+            _typeNameTable[2] = "Windows.UI.Xaml.Controls.UserControl";
+            _typeNameTable[3] = "PokeDex.SelectedPokemonPage";
+
+            _typeTable = new global::System.Type[4];
+            _typeTable[0] = typeof(global::PokeDex.MainPage);
+            _typeTable[1] = typeof(global::Windows.UI.Xaml.Controls.Page);
+            _typeTable[2] = typeof(global::Windows.UI.Xaml.Controls.UserControl);
+            _typeTable[3] = typeof(global::PokeDex.SelectedPokemonPage);
+>>>>>>> DLMs-Work
         }
 
         private int LookupTypeIndexByName(string typeName)
@@ -233,6 +247,10 @@ namespace PokeDex.PokeDex_XamlTypeInfo
         }
 
         private object Activate_0_MainPage() { return new global::PokeDex.MainPage(); }
+<<<<<<< HEAD
+=======
+        private object Activate_3_SelectedPokemonPage() { return new global::PokeDex.SelectedPokemonPage(); }
+>>>>>>> DLMs-Work
 
         private global::Windows.UI.Xaml.Markup.IXamlType CreateXamlType(int typeIndex)
         {
@@ -258,6 +276,16 @@ namespace PokeDex.PokeDex_XamlTypeInfo
             case 2:   //  Windows.UI.Xaml.Controls.UserControl
                 xamlType = new global::PokeDex.PokeDex_XamlTypeInfo.XamlSystemBaseType(typeName, type);
                 break;
+<<<<<<< HEAD
+=======
+
+            case 3:   //  PokeDex.SelectedPokemonPage
+                userType = new global::PokeDex.PokeDex_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_3_SelectedPokemonPage;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+>>>>>>> DLMs-Work
             }
             return xamlType;
         }

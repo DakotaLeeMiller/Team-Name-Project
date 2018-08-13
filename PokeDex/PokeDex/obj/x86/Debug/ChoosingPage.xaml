@@ -8,6 +8,7 @@
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
     <Viewbox>
+<<<<<<< HEAD
         <Grid x:ConnectionId='2' x:Name="BackGrid">
             <Grid x:ConnectionId='3' x:Name="LeftSide"
                   Background="AliceBlue"
@@ -58,6 +59,9 @@
                 </Canvas>
 
             </Grid>
+=======
+        <Grid>
+>>>>>>> DLMs-Work
 
         </Grid>
     </Viewbox>
