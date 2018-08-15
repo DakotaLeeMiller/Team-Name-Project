@@ -1,0 +1,450 @@
+﻿<Page
+    x:Class="PokeDex.SelectedPokemonPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:PokeDex"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <ScrollViewer>
+        <RelativePanel Height="3000">
+
+            <Rectangle Fill="AliceBlue"
+                       RelativePanel.AlignBottomWithPanel="True"
+                       RelativePanel.AlignLeftWithPanel="True"
+                       RelativePanel.AlignRightWithPanel="True"
+                       RelativePanel.AlignTopWithPanel="True"/>
+
+            <Button x:ConnectionId='2' x:Name="back"
+                    Width="200"
+                    Height="75"
+                    Background="LightGray"
+                    Foreground="Black"
+                    Content="Back"
+                    FontSize="50"
+                    Margin="50,30,0,0"/>
+
+            <TextBlock x:ConnectionId='3' x:Name="legendary"
+                         Width="200"
+                         FontSize="30"
+                         Foreground="Black"
+                         Text="Legendary: "
+                         RelativePanel.RightOf="back"
+                         Margin="75,30,0,0"/>
+
+            <RadioButton x:ConnectionId='4' x:Name="legendaryChecked"
+                         Content="Legendary"
+                         IsEnabled="False"
+                         RelativePanel.RightOf="legendary"
+                         GroupName="legendary"
+                         Margin="-30,40,0,0"/>
+
+            <Image x:ConnectionId='5' x:Name="pokemonImg"
+                   Width="500"
+                   Height="500"
+                   Source="Assets/Gen_I/000MissingNo.png"
+                   Margin="50,150,0,0"/>
+
+            <Rectangle x:ConnectionId='6' x:Name="NameBox"
+                       Height="250"
+                       Width="850"
+                       RelativePanel.RightOf="pokemonImg"
+                       Margin="50,100,0,0"
+                       Fill="Red"
+                       Stroke="Black"
+                       StrokeThickness="5"/>
+
+            <Rectangle x:ConnectionId='7' x:Name="CategoryBox"
+                       Height="115"
+                       Width="840"
+                       RelativePanel.RightOf="pokemonImg"
+                       Margin="55,230,0,0"
+                       Fill="White"/>
+
+            <TextBlock x:ConnectionId='8' x:Name="pokemonName"
+                       Height="125"
+                       Width="625"
+                       Text="MissingNo"
+                       Foreground="White"
+                       RelativePanel.RightOf="pokemonImg"
+                       Margin="275,100,0,0"
+                       FontSize="70"/>
+
+            <TextBlock x:ConnectionId='9' x:Name="pokemonNumber"
+                       Height="125"
+                       Width="125"
+                       Text="???"
+                       Foreground="White"
+                       RelativePanel.RightOf="pokemonImg"
+                       Margin="150,100,0,0"
+                       FontSize="70"/>
+
+            <TextBlock x:ConnectionId='10' x:Name="pokemonCategory"
+                       Height="125"
+                       Width="750"
+                       Text="Glitched Pokemon"
+                       Foreground="Gray"
+                       RelativePanel.RightOf="pokemonImg"
+                       RelativePanel.Below="pokemonName"
+                       Margin="150,0,0,0"
+                       FontSize="70"/>
+
+            <Image x:ConnectionId='11' x:Name="type1"
+                   Source="Assets/Types/Unknown.png"
+                   Width="300"
+                   Height="100"
+                   RelativePanel.RightOf="pokemonImg"
+                   RelativePanel.Below="pokemonCategory"
+                   Margin="150,50,0,0"/>
+
+            <Image x:ConnectionId='12' x:Name="type2"
+                   Source="Assets/Types/Unknown.png"
+                   Width="300"
+                   Height="100"
+                   RelativePanel.RightOf="type1"
+                   RelativePanel.Below="pokemonCategory"
+                   Margin="50,50,0,0"/>
+
+
+            <Rectangle x:ConnectionId='13' x:Name="HeightWeightBox"
+                       Fill="White"
+                       Stroke="Black"
+                       StrokeThickness="5"
+                       Width="700"
+                       Height="150"
+                       RelativePanel.RightOf="pokemonImg"
+                       RelativePanel.Below="type1"
+                       Margin="125,50,0,0"/>
+
+            <TextBlock x:ConnectionId='14' x:Name="Height"
+                       Width="80"
+                       Height="75"
+                       RelativePanel.RightOf="pokemonImg"
+                       RelativePanel.Below="type1"
+                       Margin="175,50,0,0"
+                       Text="HT"
+                       Foreground="Gray"
+                       FontSize="50"/>
+            <TextBlock x:ConnectionId='15' x:Name="Weight"
+                       Width="80"
+                       Height="75"
+                       RelativePanel.RightOf="pokemonImg"
+                       RelativePanel.Below="Height"
+                       Margin="175,0,0,0"
+                       Text="WT"
+                       Foreground="Gray"
+                       FontSize="50"/>
+
+            <TextBlock x:ConnectionId='16' x:Name="meters"
+                       Text="m"
+                       FontSize="50"
+                       Foreground="Gray"
+                       TextAlignment="Right"
+                       Width="40"
+                       Height="75"
+                       Margin="5,50,0,0"
+                       RelativePanel.Below="type1"
+                       RelativePanel.RightOf="HeightInputField"/>
+            <TextBlock x:ConnectionId='17' x:Name="kilos"
+                       Text="kg"
+                       FontSize="50"
+                       Foreground="Gray"
+                       TextAlignment="Right"
+                       Width="50"
+                       Height="75"
+                       Margin="2.5,0,0,0"
+                       RelativePanel.Below="meters"
+                       RelativePanel.RightOf="HeightInputField"/>
+
+            <TextBlock x:ConnectionId='18' x:Name="HeightInputField"
+                       Width="480"
+                       Height="75"
+                       RelativePanel.RightOf="pokemonImg"
+                       RelativePanel.Below="type1"
+                       Margin="280,50,0,0"
+                       Text="0.0"
+                       Foreground="Gray"
+                       FontSize="50"
+                       TextAlignment="Right"/>
+            <TextBlock x:ConnectionId='19' x:Name="WeightInputField"
+                       Width="480"
+                       Height="75"
+                       RelativePanel.RightOf="pokemonImg"
+                       RelativePanel.Below="Height"
+                       Margin="280,0,0,0"
+                       Text="0.0"
+                       Foreground="Gray"
+                       FontSize="50"
+                       TextAlignment="Right"/>
+
+            <Rectangle x:ConnectionId='20' x:Name="pokedexEntryBox1"
+                       Fill="Red"
+                       Stroke="Black"
+                       StrokeThickness="5"
+                       RelativePanel.Below="HeightWeightBox"
+                       Margin="100,450,0,0"
+                       Width="1250"
+                       Height="350"/>
+            <Rectangle x:ConnectionId='21' x:Name="pokedexEntryBox2"
+                       Fill="White"
+                       RelativePanel.Below="HeightWeightBox"
+                       Margin="150,455,0,0"
+                       Width="1150"
+                       Height="340"/>
+
+            <TextBlock x:ConnectionId='22' x:Name="pokedexEntryInput"
+                    RelativePanel.Below="HeightWeightBox"
+                    Margin="175,455,0,0"
+                    Width="1100"
+                    Height="340"
+                    FontSize="35"
+                    TextWrapping="Wrap"
+                    Text="abcdefghijklmnopqrstuvwxyz1234567890 0987654321zyxwvutsrqponmlkjihgfedcba"
+                    Foreground="Gray"/>
+
+            <Rectangle x:ConnectionId='23' x:Name="evolutionChartBox1"
+                       Fill="Red"
+                       Stroke="Black"
+                       StrokeThickness="5"
+                       RelativePanel.Below="pokedexEntryBox1"
+                       Margin="100,100.6,0,0"
+                       Width="1250"
+                       Height="550"/>
+            <Rectangle x:ConnectionId='24' x:Name="evolutionChartBox2"
+                       Fill="White"
+                       RelativePanel.Below="pokedexEntryBox1"
+                       Margin="150,105,0,0"
+                       Width="1150"
+                       Height="540"/>
+
+            <Image x:ConnectionId='25' x:Name="evo1"
+                   RelativePanel.Below="pokedexEntryBox1"
+                   Width="300"
+                   Height="300"
+                   Margin="200,200,0,0"
+                   Source="Assets/Gen_I/000MissingNo.png"/>
+            <Image x:ConnectionId='26' x:Name="evo2"
+                   RelativePanel.Below="pokedexEntryBox1"
+                   RelativePanel.RightOf="evo1"
+                   Width="300"
+                   Height="300"
+                   Margin="50,200,0,0"
+                   Source="Assets/Gen_I/000MissingNo.png"/>
+            <Image x:ConnectionId='27' x:Name="evo3"
+                   RelativePanel.Below="pokedexEntryBox1"
+                   RelativePanel.RightOf="evo2"
+                   Width="300"
+                   Height="300"
+                   Margin="100,200,0,0"
+                   Source="Assets/Gen_I/000MissingNo.png"/>
+
+            <Rectangle x:ConnectionId='28' x:Name="abilityBox"
+                       Stroke="Black"
+                       StrokeThickness="5"
+                       Width="1000"
+                       Height="150"
+                       Fill="White"
+                       RelativePanel.Above="pokedexEntryBox1"
+                       Margin="225,189,0,-200"/>
+            <TextBlock x:ConnectionId='29' x:Name="potentialAbilities"
+                       RelativePanel.Above="pokedexEntryBox1"
+                       Margin="235,189,0,-100"
+                       Foreground="Gray"
+                       FontSize="35"
+                       Width="150"
+                       Height="50"
+                       Text="Abilities:"/>
+
+            <TextBlock x:ConnectionId='30' x:Name="abilities"
+                       RelativePanel.Below="potentialAbilities"
+                       Margin="250,100,0,0"
+                       Width="960"
+                       Height="100"
+                       Foreground="Gray"
+                       FontSize="50"
+                       Text="Ability 1, Ability 2, Hidden Ability"/>
+
+            <Rectangle x:ConnectionId='31' x:Name="genderRatioBox"
+                       Stroke="Black"
+                       StrokeThickness="5"
+                       Width="1000"
+                       Height="150"
+                       Fill="White"
+                       RelativePanel.Below="abilityBox"
+                       Margin="225,250,0,0"/>
+            <TextBlock x:ConnectionId='32' x:Name="male"
+                       RelativePanel.Below="abilityBox"
+                       Margin="405,275,0,0"
+                       Foreground="Blue"
+                       FontSize="75"
+                       Width="350"
+                       Height="100"
+                       Text="% male, "/>
+            <TextBlock x:ConnectionId='33' x:Name="female"
+                       RelativePanel.Below="abilityBox"
+                       Margin="835,275,0,0"
+                       Foreground="DeepPink"
+                       FontSize="75"
+                       Width="350"
+                       Height="100"
+                       Text="% female"/>
+
+            <TextBlock x:ConnectionId='34' x:Name="maleRatio"
+                       RelativePanel.Below="abilityBox"
+                       Margin="235,275,0,0"
+                       Width="150"
+                       Height="100"
+                       Foreground="Blue"
+                       FontSize="75"
+                       Text="100"
+                       TextAlignment="Right"/>
+            <TextBlock x:ConnectionId='35' x:Name="femaleRatio"
+                       RelativePanel.Below="abilityBox"
+                       Margin="660,275,0,0"
+                       Width="150"
+                       Height="100"
+                       Foreground="DeepPink"
+                       FontSize="75"
+                       Text="100"
+                       TextAlignment="Right"/>
+
+            <RelativePanel RelativePanel.Below="evolutionChartBox1"
+                           Margin="250,0,0,0">
+                <Rectangle x:ConnectionId='40' x:Name="baseStatsBox"
+                           Fill="White"
+                           Stroke="Black"
+                           StrokeThickness="5"
+                           Width="800"
+                           Height="550"
+                           Margin="100,110,0,0"/>
+
+                <TextBlock x:ConnectionId='41' x:Name="hitPoints"
+                           Foreground="Black"
+                           FontSize="40"
+                           Text="HitPoints:"
+                           Margin="150,150,0,0"/>
+                <TextBlock x:ConnectionId='42' x:Name="attack"
+                           Foreground="Black"
+                           FontSize="40"
+                           RelativePanel.Below="hitPoints"
+                           Text="Attack:"
+                           Margin="150,25,0,0"/>
+                <TextBlock x:ConnectionId='43' x:Name="defense"
+                           Foreground="Black"
+                           FontSize="40"
+                           RelativePanel.Below="attack"
+                           Text="Defense:"
+                           Margin="150,25,0,0"/>
+                <TextBlock x:ConnectionId='44' x:Name="specialAttack"
+                           Foreground="Black"
+                           FontSize="40"
+                           RelativePanel.Below="defense"
+                           Text="Special Attack:"
+                           Margin="150,25,0,0"/>
+                <TextBlock x:ConnectionId='45' x:Name="specialDefense"
+                           Foreground="Black"
+                           FontSize="40"
+                           RelativePanel.Below="specialAttack"
+                           Text="Special Defense:"
+                           Margin="150,25,0,0"/>
+                <TextBlock x:ConnectionId='46' x:Name="speed"
+                           Foreground="Black"
+                           FontSize="40"
+                           RelativePanel.Below="specialDefense"
+                           Text="Speed:"
+                           Margin="150,25,0,0"/>
+
+                <TextBlock x:ConnectionId='47' x:Name="hitPointsStat"
+                           Foreground="Gray"
+                           FontSize="40"
+                           Width="250"
+                           RelativePanel.RightOf="hitPoints"
+                           TextAlignment="Right"
+                           Text="100000"
+                           Margin="175,150,0,0"/>
+                <TextBlock x:ConnectionId='48' x:Name="attackStat"
+                           Foreground="Gray"
+                           FontSize="40"
+                           Width="250"
+                           RelativePanel.RightOf="attack"
+                           RelativePanel.Below="hitPointsStat"
+                           TextAlignment="Right"
+                           Text="100000"
+                           Margin="220,25,0,0"/>
+                <TextBlock x:ConnectionId='49' x:Name="defenseStat"
+                           Foreground="Gray"
+                           FontSize="40"
+                           Width="250"
+                           RelativePanel.RightOf="defense"
+                           RelativePanel.Below="attackStat"
+                           TextAlignment="Right"
+                           Text="100000"
+                           Margin="185,25,0,0"/>
+                <TextBlock x:ConnectionId='50' x:Name="specialAttackStat"
+                           Foreground="Gray"
+                           FontSize="40"
+                           Width="250"
+                           RelativePanel.RightOf="specialAttack"
+                           RelativePanel.Below="defenseStat"
+                           TextAlignment="Right"
+                           Text="100000"
+                           Margin="85,25,0,0"/>
+                <TextBlock x:ConnectionId='51' x:Name="specialDefenseStat"
+                           Foreground="Gray"
+                           FontSize="40"
+                           Width="250"
+                           RelativePanel.RightOf="specialDefense"
+                           RelativePanel.Below="specialAttackStat"
+                           TextAlignment="Right"
+                           Text="100000"
+                           Margin="50,25,0,0"/>
+                <TextBlock x:ConnectionId='52' x:Name="speedStat"
+                           Foreground="Gray"
+                           FontSize="40"
+                           Width="250"
+                           RelativePanel.RightOf="speed"
+                           RelativePanel.Below="specialDefenseStat"
+                           TextAlignment="Right"
+                           Text="100000"
+                           Margin="220,25,0,0"/>
+            </RelativePanel>
+
+            <TextBlock x:ConnectionId='36' x:Name="evoAction1"
+                       Foreground="Black"
+                       FontSize="40"
+                       Width="250"
+                       RelativePanel.Below="pokedexEntryBox1"
+                       Text="LevelUp"
+                       TextAlignment="Center"
+                       Margin="400,500,0,0"/>
+            <TextBlock x:ConnectionId='37' x:Name="evoAction2"
+                       Foreground="Black"
+                       FontSize="40"
+                       Width="250"
+                       RelativePanel.Below="pokedexEntryBox1"
+                       Text="Trade"
+                       TextAlignment="Center"
+                       Margin="775,500,0,0"/>
+
+            <TextBlock x:ConnectionId='38' x:Name="evoRequirement1"
+                       Foreground="Black"
+                       FontSize="40"
+                       Width="250"
+                       RelativePanel.Below="evoAction1"
+                       Text="101"
+                       TextAlignment="Center"
+                       Margin="400,20,0,0"/>
+            <TextBlock x:ConnectionId='39' x:Name="evoRequirement2"
+                       Foreground="Black"
+                       FontSize="40"
+                       Width="250"
+                       RelativePanel.Below="evoAction2"
+                       Text="With Rare Candy"
+                       TextAlignment="Center"
+                       Margin="775,20,0,0"/>
+        </RelativePanel>
+    </ScrollViewer>
+</Page>
+
