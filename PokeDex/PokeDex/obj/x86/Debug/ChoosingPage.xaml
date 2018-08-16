@@ -13,7 +13,7 @@
                   Background="AliceBlue"
                   HorizontalAlignment="Left"
                   Height="990" Width="980"
-                  Margin="-498,0,0,0" VerticalAlignment="Center">
+                  VerticalAlignment="Center">
 
                 <Rectangle x:ConnectionId='4' x:Name="TitleRect" Height="100" Width="500" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Margin="10,10,470,880" Fill="Red" RadiusX="10" RadiusY="10">
                     
