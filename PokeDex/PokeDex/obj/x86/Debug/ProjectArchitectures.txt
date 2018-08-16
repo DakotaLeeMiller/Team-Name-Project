@@ -1,1 +1,1 @@
-C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\PokeDex.csproj;x86
+C:\Users\Joshua Harrington\Desktop\GitHub\Team-Name-Project\PokeDex\PokeDex\PokeDex.csproj;x86

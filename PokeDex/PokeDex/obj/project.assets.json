@@ -27494,24 +27494,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Luna McClain\\.nuget\\packages\\": {},
+    "C:\\Users\\Joshua Harrington\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Luna McClain\\Desktop\\Class Work Assignments\\Introduction to Software Projects\\Team-Name-Project\\PokeDex\\PokeDex\\PokeDex.csproj",
+      "projectUniqueName": "C:\\Users\\Joshua Harrington\\Desktop\\GitHub\\Team-Name-Project\\PokeDex\\PokeDex\\PokeDex.csproj",
       "projectName": "PokeDex",
-      "projectPath": "C:\\Users\\Luna McClain\\Desktop\\Class Work Assignments\\Introduction to Software Projects\\Team-Name-Project\\PokeDex\\PokeDex\\PokeDex.csproj",
-      "packagesPath": "C:\\Users\\Luna McClain\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Luna McClain\\Desktop\\Class Work Assignments\\Introduction to Software Projects\\Team-Name-Project\\PokeDex\\PokeDex\\obj\\",
+      "projectPath": "C:\\Users\\Joshua Harrington\\Desktop\\GitHub\\Team-Name-Project\\PokeDex\\PokeDex\\PokeDex.csproj",
+      "packagesPath": "C:\\Users\\Joshua Harrington\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Joshua Harrington\\Desktop\\GitHub\\Team-Name-Project\\PokeDex\\PokeDex\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Luna McClain\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Joshua Harrington\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

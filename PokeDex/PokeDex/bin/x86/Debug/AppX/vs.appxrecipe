@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>FAP-O-MATIC</Machine>
-    <WindowsUser>Luna McClain</WindowsUser>
+    <Machine>DESKTOP-5CRMV2D</Machine>
+    <WindowsUser>Joshua Harrington</WindowsUser>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
     <TargetOsVersion>10.0</TargetOsVersion>
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>be339a2d-f31f-48fb-b706-6eac5ff054b7</PackageIdentityName>
     <PackageIdentityPublisher>CN=Joshua Harrington</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Joshua Harrington\Desktop\GitHub\Team-Name-Project\PokeDex\PokeDex\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,8 +18,8 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>4D76E8C8BD9970C418D076E27E6E956B47F837E2F2F6B44099512D23616BC0B1</RegisteredManifestChecksum>
+    <LayoutDir>C:\Users\Joshua Harrington\Desktop\GitHub\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>8285609478EEBB50F4EA9B5706257732D49588343F8B158FDCD9E488A8939FA7</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>be339a2d-f31f-48fb-b706-6eac5ff054b7_1.0.0.0_x86__bxhyr9k0pbjvm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>be339a2d-f31f-48fb-b706-6eac5ff054b7_bxhyr9k0pbjvm!App</RegisteredUserModeAppID>
     <RegisteredPackageID>be339a2d-f31f-48fb-b706-6eac5ff054b7</RegisteredPackageID>
@@ -28,16 +28,16 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Joshua Harrington\Desktop\GitHub\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-08-11T00:46:52.240</Modified>
+      <Modified>2018-08-16T00:12:45.629</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\PokeDex.exe">
+    <AppxPackagedFile Include="C:\Users\Joshua Harrington\Desktop\GitHub\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\PokeDex.exe">
       <PackagePath>entrypoint\PokeDex.exe</PackagePath>
-      <Modified>2018-08-11T00:46:50.672</Modified>
+      <Modified>2018-08-16T00:12:43.801</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -91,7 +91,7 @@
       <PackagePath>System.dll</PackagePath>
       <Modified>2016-07-02T00:10:48.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\microsoft.visualbasic\10.0.1\lib\netcore50\Microsoft.VisualBasic.dll">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.visualbasic\10.0.1\lib\netcore50\Microsoft.VisualBasic.dll">
       <PackagePath>Microsoft.VisualBasic.dll</PackagePath>
       <Modified>2016-06-12T05:13:10.000</Modified>
     </AppxPackagedFile>
@@ -219,19 +219,19 @@
       <PackagePath>System.Collections.NonGeneric.dll</PackagePath>
       <Modified>2016-06-12T05:13:22.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.collections.specialized\4.0.1\lib\netstandard1.3\System.Collections.Specialized.dll">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.collections.specialized\4.0.1\lib\netstandard1.3\System.Collections.Specialized.dll">
       <PackagePath>System.Collections.Specialized.dll</PackagePath>
       <Modified>2016-06-12T05:13:22.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.componentmodel\4.0.1\lib\netcore50\System.ComponentModel.dll">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.componentmodel\4.0.1\lib\netcore50\System.ComponentModel.dll">
       <PackagePath>System.ComponentModel.dll</PackagePath>
       <Modified>2016-06-12T05:13:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.componentmodel.annotations\4.1.0\lib\netcore50\System.ComponentModel.Annotations.dll">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.componentmodel.annotations\4.1.0\lib\netcore50\System.ComponentModel.Annotations.dll">
       <PackagePath>System.ComponentModel.Annotations.dll</PackagePath>
       <Modified>2016-06-12T05:13:22.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.componentmodel.eventbasedasync\4.0.11\lib\netcore50\System.ComponentModel.EventBasedAsync.dll">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.componentmodel.eventbasedasync\4.0.11\lib\netcore50\System.ComponentModel.EventBasedAsync.dll">
       <PackagePath>System.ComponentModel.EventBasedAsync.dll</PackagePath>
       <Modified>2016-06-12T05:13:20.000</Modified>
     </AppxPackagedFile>
@@ -275,7 +275,7 @@
       <PackagePath>System.IO.IsolatedStorage.dll</PackagePath>
       <Modified>2016-06-12T05:13:48.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.io.unmanagedmemorystream\4.0.1\lib\netstandard1.3\System.IO.UnmanagedMemoryStream.dll">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.io.unmanagedmemorystream\4.0.1\lib\netstandard1.3\System.IO.UnmanagedMemoryStream.dll">
       <PackagePath>System.IO.UnmanagedMemoryStream.dll</PackagePath>
       <Modified>2016-06-12T05:13:50.000</Modified>
     </AppxPackagedFile>
@@ -303,7 +303,7 @@
       <PackagePath>System.Net.Http.Rtc.dll</PackagePath>
       <Modified>2016-06-12T05:13:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.net.nameresolution\4.0.0\runtimes\win\lib\netcore50\System.Net.NameResolution.dll">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.net.nameresolution\4.0.0\runtimes\win\lib\netcore50\System.Net.NameResolution.dll">
       <PackagePath>System.Net.NameResolution.dll</PackagePath>
       <Modified>2016-06-12T05:13:58.000</Modified>
     </AppxPackagedFile>
@@ -311,11 +311,11 @@
       <PackagePath>System.Net.NetworkInformation.dll</PackagePath>
       <Modified>2016-06-12T05:14:04.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.net.requests\4.0.11\runtimes\win\lib\netstandard1.3\System.Net.Requests.dll">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.net.requests\4.0.11\runtimes\win\lib\netstandard1.3\System.Net.Requests.dll">
       <PackagePath>System.Net.Requests.dll</PackagePath>
       <Modified>2016-06-12T05:14:02.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.net.webheadercollection\4.0.1\lib\netstandard1.3\System.Net.WebHeaderCollection.dll">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.net.webheadercollection\4.0.1\lib\netstandard1.3\System.Net.WebHeaderCollection.dll">
       <PackagePath>System.Net.WebHeaderCollection.dll</PackagePath>
       <Modified>2016-06-12T05:14:08.000</Modified>
     </AppxPackagedFile>
@@ -327,7 +327,7 @@
       <PackagePath>System.Net.WebSockets.Client.dll</PackagePath>
       <Modified>2017-11-20T21:34:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.numerics.vectors\4.1.1\lib\portable-net45+win8+wp8+wpa81\System.Numerics.Vectors.dll">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.numerics.vectors\4.1.1\lib\portable-net45+win8+wp8+wpa81\System.Numerics.Vectors.dll">
       <PackagePath>System.Numerics.Vectors.dll</PackagePath>
       <Modified>2016-06-12T05:14:10.000</Modified>
     </AppxPackagedFile>
@@ -351,7 +351,7 @@
       <PackagePath>System.Reflection.Context.dll</PackagePath>
       <Modified>2016-06-12T05:14:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.reflection.dispatchproxy\4.0.1\lib\netstandard1.3\System.Reflection.DispatchProxy.dll">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.reflection.dispatchproxy\4.0.1\lib\netstandard1.3\System.Reflection.DispatchProxy.dll">
       <PackagePath>System.Reflection.DispatchProxy.dll</PackagePath>
       <Modified>2016-06-12T05:14:14.000</Modified>
     </AppxPackagedFile>
@@ -403,7 +403,7 @@
       <PackagePath>System.Runtime.WindowsRuntime.UI.Xaml.dll</PackagePath>
       <Modified>2016-06-12T05:14:32.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.security.claims\4.0.1\lib\netstandard1.3\System.Security.Claims.dll">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.security.claims\4.0.1\lib\netstandard1.3\System.Security.Claims.dll">
       <PackagePath>System.Security.Claims.dll</PackagePath>
       <Modified>2016-06-12T05:14:40.000</Modified>
     </AppxPackagedFile>
@@ -475,7 +475,7 @@
       <PackagePath>System.Threading.Tasks.Extensions.dll</PackagePath>
       <Modified>2016-06-12T05:14:52.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.threading.tasks.parallel\4.0.1\lib\netcore50\System.Threading.Tasks.Parallel.dll">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.threading.tasks.parallel\4.0.1\lib\netcore50\System.Threading.Tasks.Parallel.dll">
       <PackagePath>System.Threading.Tasks.Parallel.dll</PackagePath>
       <Modified>2016-06-12T05:14:54.000</Modified>
     </AppxPackagedFile>
@@ -495,72 +495,72 @@
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
       <Modified>2016-06-12T05:15:04.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\Joshua Harrington\Desktop\GitHub\Team-Name-Project\PokeDex\PokeDex\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2018-08-07T00:03:33.630</Modified>
+      <Modified>2018-08-04T00:14:04.292</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\XMLFile1.xml">
+    <AppxPackagedFile Include="C:\Users\Joshua Harrington\Desktop\GitHub\Team-Name-Project\PokeDex\PokeDex\XMLFile1.xml">
       <PackagePath>XMLFile1.xml</PackagePath>
-      <Modified>2018-08-10T00:25:45.948</Modified>
+      <Modified>2018-08-10T00:23:42.358</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Joshua Harrington\Desktop\GitHub\Team-Name-Project\PokeDex\PokeDex\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2018-08-07T00:03:33.579</Modified>
+      <Modified>2018-08-04T00:14:04.220</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Joshua Harrington\Desktop\GitHub\Team-Name-Project\PokeDex\PokeDex\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-08-07T00:03:33.583</Modified>
+      <Modified>2018-08-04T00:14:04.224</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Joshua Harrington\Desktop\GitHub\Team-Name-Project\PokeDex\PokeDex\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-08-07T00:03:33.585</Modified>
+      <Modified>2018-08-04T00:14:04.241</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Joshua Harrington\Desktop\GitHub\Team-Name-Project\PokeDex\PokeDex\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-08-07T00:03:33.589</Modified>
+      <Modified>2018-08-04T00:14:04.246</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\Joshua Harrington\Desktop\GitHub\Team-Name-Project\PokeDex\PokeDex\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-08-07T00:03:33.594</Modified>
+      <Modified>2018-08-04T00:14:04.250</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\Joshua Harrington\Desktop\GitHub\Team-Name-Project\PokeDex\PokeDex\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-08-07T00:03:33.595</Modified>
+      <Modified>2018-08-04T00:14:04.254</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Joshua Harrington\Desktop\GitHub\Team-Name-Project\PokeDex\PokeDex\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-08-07T00:03:33.600</Modified>
+      <Modified>2018-08-04T00:14:04.258</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\PokeDex.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Joshua Harrington\Desktop\GitHub\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\PokeDex.xr.xml">
       <PackagePath>PokeDex.xr.xml</PackagePath>
-      <Modified>2018-08-11T00:40:19.800</Modified>
+      <Modified>2018-08-16T00:01:56.155</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\Joshua Harrington\Desktop\GitHub\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2018-08-11T00:46:50.498</Modified>
+      <Modified>2018-08-16T00:12:43.625</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\ChoosingPage.xbf">
+    <AppxPackagedFile Include="C:\Users\Joshua Harrington\Desktop\GitHub\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\ChoosingPage.xbf">
       <PackagePath>ChoosingPage.xbf</PackagePath>
-      <Modified>2018-08-11T00:46:50.499</Modified>
+      <Modified>2018-08-16T00:12:43.626</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17134.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2018-04-20T04:01:52.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Joshua Harrington\Desktop\GitHub\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-08-11T00:46:51.898</Modified>
+      <Modified>2018-08-16T00:12:45.286</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\Core\PokeDex.exe">
+    <AppxPackagedFile Include="C:\Users\Joshua Harrington\Desktop\GitHub\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\Core\PokeDex.exe">
       <PackagePath>PokeDex.exe</PackagePath>
-      <Modified>2018-08-11T00:46:52.233</Modified>
+      <Modified>2018-08-16T00:12:45.623</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
