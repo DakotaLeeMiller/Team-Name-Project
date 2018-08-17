@@ -34,27 +34,15 @@
                        HorizontalAlignment="Stretch"
                        VerticalAlignment="Stretch" />
 
-                <ListBox x:ConnectionId='6' Name="ThePokemon" HorizontalAlignment="Left" Margin="515,0,0,0" VerticalAlignment="Center" Width="426">
-                </ListBox>
+                <ListView x:ConnectionId='6' Name="ThePokemon" HorizontalAlignment="Left" Margin="515,0,0,0" VerticalAlignment="Center" Width="426" Opacity="0.6" Background="AliceBlue">
+                    
+                </ListView>
 
                 <Canvas x:ConnectionId='7' x:Name="Controls"
                         Background="Red" 
                         Margin="946,1,-502,-1" 
                         HorizontalAlignment="Stretch" 
                         VerticalAlignment="Stretch">
-
-                    <!--<Button Content="Select Pokemon"
-                            FontSize="40"
-                            Foreground="White"
-                            Background="LightSlateGray"
-                            HorizontalAlignment="Left" 
-                            Canvas.Left="109" Canvas.Top="166" 
-                            VerticalAlignment="Center" 
-                            Height="106" Width="321" 
-                            Margin="0,0,0,0"/>-->
-
-
-
                 </Canvas>
 
             </Grid>

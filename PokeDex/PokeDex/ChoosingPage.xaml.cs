@@ -24,6 +24,7 @@ namespace PokeDex
     /// </summary>
     public sealed partial class MainPage : Page
     {
+        List<string> Pokemon = new List<string>();
         public MainPage()
         {
             this.InitializeComponent();
@@ -31,15 +32,13 @@ namespace PokeDex
             {
                 CreateListItems(i);
             }
+
+            ThePokemon.ItemsSource = Pokemon;
         }
 
         public void CreateListItems(int i)
         {
-            ListBoxItem PokemonBar = new ListBoxItem();
-            PokemonBar.Width = 400;
-            PokemonBar.Background = new SolidColorBrush(Colors.Gray);
-            PokemonBar.Content = $"Pokemon {i}";
-            ThePokemon.Items.Add(PokemonBar);
+            Pokemon.Add($"Pokemon {i}");
         }
     }
 }
