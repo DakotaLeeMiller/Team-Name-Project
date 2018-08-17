@@ -1,7 +1,7 @@
 WinMetadata\Windows.winmd
-<<<<<<< HEAD
-=======
+Assets\Gen_I\000.png
 Assets\Gen_I\000MissingNo.png
+Assets\Gen_I\001.png
 Assets\Gen_I\001Bulbasaur.png
 Assets\Gen_I\002Ivysaur.png
 Assets\Gen_I\003Venusaur.png
@@ -153,15 +153,12 @@ Assets\Gen_I\148Dragonair.png
 Assets\Gen_I\149Dragonite.png
 Assets\Gen_I\150Mewtwo.png
 Assets\Gen_I\151Mew.png
->>>>>>> DLMs-Work
 Assets\LockScreenLogo.scale-200.png
 Assets\SplashScreen.scale-200.png
 Assets\Square150x150Logo.scale-200.png
 Assets\Square44x44Logo.scale-200.png
 Assets\Square44x44Logo.targetsize-24_altform-unplated.png
 Assets\StoreLogo.png
-<<<<<<< HEAD
-=======
 Assets\Types\Bug.png
 Assets\Types\Dragon.png
 Assets\Types\Electric.png
@@ -178,14 +175,9 @@ Assets\Types\Psychic.png
 Assets\Types\Rock.png
 Assets\Types\Unknown.png
 Assets\Types\Water.png
->>>>>>> DLMs-Work
 Assets\Wide310x150Logo.scale-200.png
 App.xbf
 ChoosingPage.xbf
 PokeDex.xr.xml
-<<<<<<< HEAD
-=======
 SelectedPokemonPage.xbf
->>>>>>> DLMs-Work
 Properties\Default.rd.xml
-XMLFile1.xml

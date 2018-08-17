@@ -27494,40 +27494,24 @@
     ]
   },
   "packageFolders": {
-<<<<<<< HEAD
-    "C:\\Users\\Luna McClain\\.nuget\\packages\\": {},
-=======
     "C:\\Users\\Dakota L. Miller\\.nuget\\packages\\": {},
->>>>>>> DLMs-Work
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\Users\\Luna McClain\\Desktop\\Class Work Assignments\\Introduction to Software Projects\\Team-Name-Project\\PokeDex\\PokeDex\\PokeDex.csproj",
+      "projectUniqueName": "C:\\Users\\Dakota L. Miller\\source\\repos\\PokeDex\\PokeDex\\PokeDex.csproj",
       "projectName": "PokeDex",
-      "projectPath": "C:\\Users\\Luna McClain\\Desktop\\Class Work Assignments\\Introduction to Software Projects\\Team-Name-Project\\PokeDex\\PokeDex\\PokeDex.csproj",
-      "packagesPath": "C:\\Users\\Luna McClain\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Luna McClain\\Desktop\\Class Work Assignments\\Introduction to Software Projects\\Team-Name-Project\\PokeDex\\PokeDex\\obj\\",
-=======
-      "projectUniqueName": "C:\\Users\\Dakota L. Miller\\Desktop\\Team-Name-Project\\PokeDex\\PokeDex\\PokeDex.csproj",
-      "projectName": "PokeDex",
-      "projectPath": "C:\\Users\\Dakota L. Miller\\Desktop\\Team-Name-Project\\PokeDex\\PokeDex\\PokeDex.csproj",
+      "projectPath": "C:\\Users\\Dakota L. Miller\\source\\repos\\PokeDex\\PokeDex\\PokeDex.csproj",
       "packagesPath": "C:\\Users\\Dakota L. Miller\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dakota L. Miller\\Desktop\\Team-Name-Project\\PokeDex\\PokeDex\\obj\\",
->>>>>>> DLMs-Work
+      "outputPath": "C:\\Users\\Dakota L. Miller\\source\\repos\\PokeDex\\PokeDex\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
       ],
       "configFilePaths": [
-<<<<<<< HEAD
-        "C:\\Users\\Luna McClain\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
         "C:\\Users\\Dakota L. Miller\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> DLMs-Work
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

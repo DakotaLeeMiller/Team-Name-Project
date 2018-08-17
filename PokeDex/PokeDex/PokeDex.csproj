@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProjectGuid>{F31015DE-90B5-4ED1-8ADC-DE2823E6F31E}</ProjectGuid>
+    <ProjectGuid>{7DD00765-7344-4FE5-A323-3778D48310AE}</ProjectGuid>
     <OutputType>AppContainerExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>PokeDex</RootNamespace>
@@ -110,6 +110,14 @@
     <None Include="PokeDex_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assets\Gen_I\000.png" />
+    <Content Include="Assets\Gen_I\001.png" />
+    <Content Include="Assets\Types\Bug.png" />
+    <Content Include="Assets\Types\Dragon.png" />
+    <Content Include="Assets\Types\Electric.png" />
+    <Content Include="Assets\Types\Fighting.png" />
+    <Content Include="Assets\Types\Fire.png" />
+    <Content Include="Assets\Types\Flying.png" />
     <Content Include="Assets\Gen_I\000MissingNo.png" />
     <Content Include="Assets\Gen_I\001Bulbasaur.png" />
     <Content Include="Assets\Gen_I\002Ivysaur.png" />
@@ -262,12 +270,6 @@
     <Content Include="Assets\Gen_I\149Dragonite.png" />
     <Content Include="Assets\Gen_I\150Mewtwo.png" />
     <Content Include="Assets\Gen_I\151Mew.png" />
-    <Content Include="Assets\Types\Bug.png" />
-    <Content Include="Assets\Types\Dragon.png" />
-    <Content Include="Assets\Types\Electric.png" />
-    <Content Include="Assets\Types\Fighting.png" />
-    <Content Include="Assets\Types\Fire.png" />
-    <Content Include="Assets\Types\Flying.png" />
     <Content Include="Assets\Types\Ghost.png" />
     <Content Include="Assets\Types\Grass.png" />
     <Content Include="Assets\Types\Ground.png" />
@@ -286,7 +288,6 @@
     <Content Include="Assets\Square44x44Logo.targetsize-24_altform-unplated.png" />
     <Content Include="Assets\StoreLogo.png" />
     <Content Include="Assets\Wide310x150Logo.scale-200.png" />
-    <Content Include="XMLFile1.xml" />
   </ItemGroup>
   <ItemGroup>
     <ApplicationDefinition Include="App.xaml">
