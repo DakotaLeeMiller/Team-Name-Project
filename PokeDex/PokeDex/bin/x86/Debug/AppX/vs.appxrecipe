@@ -31,13 +31,21 @@
     <AppXManifest Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+<<<<<<< HEAD
       <Modified>2018-08-16T23:53:55.012</Modified>
+=======
+      <Modified>2018-08-11T00:46:52.240</Modified>
+>>>>>>> 01b843548a7c5d3318bc781377668673d124ef61
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\bin\x86\Debug\PokeDex.exe">
       <PackagePath>entrypoint\PokeDex.exe</PackagePath>
+<<<<<<< HEAD
       <Modified>2018-08-16T23:53:53.398</Modified>
+=======
+      <Modified>2018-08-11T00:46:50.672</Modified>
+>>>>>>> 01b843548a7c5d3318bc781377668673d124ef61
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -1215,19 +1223,31 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\bin\x86\Debug\PokeDex.xr.xml">
       <PackagePath>PokeDex.xr.xml</PackagePath>
+<<<<<<< HEAD
       <Modified>2018-08-16T23:49:13.681</Modified>
+=======
+      <Modified>2018-08-11T00:40:19.800</Modified>
+>>>>>>> 01b843548a7c5d3318bc781377668673d124ef61
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
+<<<<<<< HEAD
       <Modified>2018-08-16T23:53:52.814</Modified>
+=======
+      <Modified>2018-08-11T00:46:50.498</Modified>
+>>>>>>> 01b843548a7c5d3318bc781377668673d124ef61
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\bin\x86\Debug\ChoosingPage.xbf">
       <PackagePath>ChoosingPage.xbf</PackagePath>
+<<<<<<< HEAD
       <Modified>2018-08-16T23:53:52.815</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\bin\x86\Debug\SelectedPokemonPage.xbf">
       <PackagePath>SelectedPokemonPage.xbf</PackagePath>
       <Modified>2018-08-16T23:53:52.815</Modified>
+=======
+      <Modified>2018-08-11T00:46:50.499</Modified>
+>>>>>>> 01b843548a7c5d3318bc781377668673d124ef61
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17134.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -1236,11 +1256,19 @@
     <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+<<<<<<< HEAD
       <Modified>2018-08-15T00:23:45.098</Modified>
+=======
+      <Modified>2018-08-11T00:46:51.898</Modified>
+>>>>>>> 01b843548a7c5d3318bc781377668673d124ef61
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\bin\x86\Debug\Core\PokeDex.exe">
       <PackagePath>PokeDex.exe</PackagePath>
+<<<<<<< HEAD
       <Modified>2018-08-16T23:53:54.996</Modified>
+=======
+      <Modified>2018-08-11T00:46:52.233</Modified>
+>>>>>>> 01b843548a7c5d3318bc781377668673d124ef61
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
