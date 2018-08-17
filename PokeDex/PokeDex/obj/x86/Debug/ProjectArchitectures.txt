@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 C:\Users\Joshua Harrington\Desktop\GitHub\Team-Name-Project\PokeDex\PokeDex\PokeDex.csproj;x86
+=======
+C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\PokeDex.csproj;x86
+>>>>>>> master

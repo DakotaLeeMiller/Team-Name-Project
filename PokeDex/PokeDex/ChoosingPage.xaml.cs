@@ -25,12 +25,18 @@ namespace PokeDex
     /// </summary>
     public sealed partial class MainPage : Page
     {
+        public ImageSource Img { get; set; }
+
+        private List<string> pokemonImageSources = new List<string>();
+        private System.Text.StringBuilder sb = new System.Text.StringBuilder();
+
         public MainPage()
         {
             BitmapImage One = new BitmapImage(new Uri("ms-appx:///Assets/1.png"));
 
             this.InitializeComponent();
-            for(int i = 0; i < 152; i++)
+
+            for (int i = 0; i < 152; i++)
             {
                 CreateListItems(i);
 
@@ -46,8 +52,12 @@ namespace PokeDex
 
             }
 
+<<<<<<< HEAD
 
 
+=======
+            InitializeImageSOurces();
+>>>>>>> master
         }
 
 
@@ -74,6 +84,45 @@ namespace PokeDex
             
 
 
+        }
+
+        private void SelectPokemon_Click(object sender, RoutedEventArgs e)
+        {
+            this.Frame.Navigate(typeof(SelectedPokemonPage));
+        }
+
+        private void ThePokemon_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            int m = ThePokemon.SelectedIndex;
+
+            Img = new BitmapImage(new Uri(pokemonImageSources[m]));
+
+            DisplayPokemon.Source = Img;
+
+            //DisplayPokemon.Source = new BitmapImage(new Uri(test[m]));
+        }
+
+        private void InitializeImageSOurces()
+        {
+            //Change to incorporate dll!!!
+            for (int t = 0; t < 2; t++)
+            {
+                sb.Append("ms-appx:///");
+                sb.Append("Assets/Gen_I/");
+
+                if (t <= 9)
+                {
+                    sb.Append("00");
+                }
+
+                sb.Append(t);
+
+                sb.Append(".png");
+
+                pokemonImageSources.Add(sb.ToString());
+
+                sb.Clear();
+            }
         }
     }
 }
