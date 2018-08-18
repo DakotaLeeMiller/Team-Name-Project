@@ -1,0 +1,66 @@
+﻿<Page
+    x:Class="PokeDex.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:PokeDex"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <Viewbox>
+        <Grid x:Name="BackGrid">
+            <Grid x:Name="LeftSide"
+                  Background="AliceBlue"
+                  HorizontalAlignment="Left"
+                  Height="990" Width="980"
+                  VerticalAlignment="Center">
+
+                <Rectangle x:Name="TitleRect" Height="100" Width="500" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Margin="10,10,470,880" Fill="Red" RadiusX="10" RadiusY="10">
+                    
+                </Rectangle>
+
+                <TextBlock x:Name="Title"
+                         Height="100"
+                         Width="500"
+                         Text="Kanto PokeDex"
+                         FontSize="50"
+                         Foreground="White" HorizontalAlignment="Stretch" Margin="10,10,470,880" VerticalAlignment="Stretch"/>
+
+
+                <Rectangle Fill="Red" Margin="40,192,544,284" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/>
+
+                <Image x:Name="ImageSpot"
+                    Margin="63,206,568,302"
+                       Source="Assets/004Charmander.png"
+                       HorizontalAlignment="Stretch"
+                       VerticalAlignment="Stretch" />
+
+
+                <ListBox Name="ThePokemon" HorizontalAlignment="Left" Margin="515,0,0,0" VerticalAlignment="Center" Width="426">
+                </ListBox>
+
+                <Canvas x:Name="Controls"
+                        Background="Red" 
+                        Margin="946,1,-502,-1" 
+                        HorizontalAlignment="Stretch" 
+                        VerticalAlignment="Stretch">
+
+                    <!--<Button Content="Select Pokemon"
+                            FontSize="40"
+                            Foreground="White"
+                            Background="LightSlateGray"
+                            HorizontalAlignment="Left" 
+                            Canvas.Left="109" Canvas.Top="166" 
+                            VerticalAlignment="Center" 
+                            Height="106" Width="321" 
+                            Margin="0,0,0,0"/>-->
+
+
+
+                </Canvas>
+
+            </Grid>
+
+        </Grid>
+    </Viewbox>
+</Page>
