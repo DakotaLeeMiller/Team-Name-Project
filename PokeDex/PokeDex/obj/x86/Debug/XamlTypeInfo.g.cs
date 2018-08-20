@@ -7,30 +7,23 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-
 namespace PokeDex
 {
     public partial class App : global::Windows.UI.Xaml.Markup.IXamlMetadataProvider
     {
-        private global::PokeDex.PokeDex_XamlTypeInfo.XamlMetaDataProvider __appProvider;
-        private global::PokeDex.PokeDex_XamlTypeInfo.XamlMetaDataProvider _AppProvider
-        {
-            get
-            {
-                if (__appProvider == null)
-                {
-                    __appProvider = new global::PokeDex.PokeDex_XamlTypeInfo.XamlMetaDataProvider();
-                }
-                return __appProvider;
-            }
-        }
+    private global::PokeDex.PokeDex_XamlTypeInfo.XamlTypeInfoProvider _provider;
 
         /// <summary>
         /// GetXamlType(Type)
         /// </summary>
         public global::Windows.UI.Xaml.Markup.IXamlType GetXamlType(global::System.Type type)
         {
-            return _AppProvider.GetXamlType(type);
+
+            if(_provider == null)
+            {
+                _provider = new global::PokeDex.PokeDex_XamlTypeInfo.XamlTypeInfoProvider();
+            }
+            return _provider.GetXamlTypeByType(type);
         }
 
         /// <summary>
@@ -38,56 +31,11 @@ namespace PokeDex
         /// </summary>
         public global::Windows.UI.Xaml.Markup.IXamlType GetXamlType(string fullName)
         {
-            return _AppProvider.GetXamlType(fullName);
-        }
-
-        /// <summary>
-        /// GetXmlnsDefinitions()
-        /// </summary>
-        public global::Windows.UI.Xaml.Markup.XmlnsDefinition[] GetXmlnsDefinitions()
-        {
-            return _AppProvider.GetXmlnsDefinitions();
-        }
-    }
-}
-
-namespace PokeDex.PokeDex_XamlTypeInfo
-{
-    /// <summary>
-    /// Main class for providing metadata for the app or library
-    /// </summary>
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Windows.UI.Xaml.Build.Tasks"," 10.0.17.0")]
-    [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-    public sealed class XamlMetaDataProvider : global::Windows.UI.Xaml.Markup.IXamlMetadataProvider
-    {
-        private global::PokeDex.PokeDex_XamlTypeInfo.XamlTypeInfoProvider _provider = null;
-
-        private global::PokeDex.PokeDex_XamlTypeInfo.XamlTypeInfoProvider Provider
-        {
-            get
+            if(_provider == null)
             {
-                if (_provider == null)
-                {
-                    _provider = new global::PokeDex.PokeDex_XamlTypeInfo.XamlTypeInfoProvider();
-                }
-                return _provider;
+                _provider = new global::PokeDex.PokeDex_XamlTypeInfo.XamlTypeInfoProvider();
             }
-        }
-
-        /// <summary>
-        /// GetXamlType(Type)
-        /// </summary>
-        public global::Windows.UI.Xaml.Markup.IXamlType GetXamlType(global::System.Type type)
-        {
-            return Provider.GetXamlTypeByType(type);
-        }
-
-        /// <summary>
-        /// GetXamlType(String)
-        /// </summary>
-        public global::Windows.UI.Xaml.Markup.IXamlType GetXamlType(string fullName)
-        {
-            return Provider.GetXamlTypeByName(fullName);
+            return _provider.GetXamlTypeByName(fullName);
         }
 
         /// <summary>
@@ -98,30 +46,30 @@ namespace PokeDex.PokeDex_XamlTypeInfo
             return new global::Windows.UI.Xaml.Markup.XmlnsDefinition[0];
         }
     }
+}
 
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Windows.UI.Xaml.Build.Tasks"," 10.0.17.0")]
+namespace PokeDex.PokeDex_XamlTypeInfo
+{
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Windows.UI.Xaml.Build.Tasks"," 14.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     internal partial class XamlTypeInfoProvider
     {
         public global::Windows.UI.Xaml.Markup.IXamlType GetXamlTypeByType(global::System.Type type)
         {
             global::Windows.UI.Xaml.Markup.IXamlType xamlType;
-            lock (_xamlTypeCacheByType) 
-            { 
-                if (_xamlTypeCacheByType.TryGetValue(type, out xamlType))
-                {
-                    return xamlType;
-                }
-                int typeIndex = LookupTypeIndexByType(type);
-                if(typeIndex != -1)
-                {
-                    xamlType = CreateXamlType(typeIndex);
-                }
-                if (xamlType != null)
-                {
-                    _xamlTypeCacheByName.Add(xamlType.FullName, xamlType);
-                    _xamlTypeCacheByType.Add(xamlType.UnderlyingType, xamlType);
-                }
+            if (_xamlTypeCacheByType.TryGetValue(type, out xamlType))
+            {
+                return xamlType;
+            }
+            int typeIndex = LookupTypeIndexByType(type);
+            if(typeIndex != -1)
+            {
+                xamlType = CreateXamlType(typeIndex);
+            }
+            if (xamlType != null)
+            {
+                _xamlTypeCacheByName.Add(xamlType.FullName, xamlType);
+                _xamlTypeCacheByType.Add(xamlType.UnderlyingType, xamlType);
             }
             return xamlType;
         }
@@ -133,22 +81,19 @@ namespace PokeDex.PokeDex_XamlTypeInfo
                 return null;
             }
             global::Windows.UI.Xaml.Markup.IXamlType xamlType;
-            lock (_xamlTypeCacheByType)
+            if (_xamlTypeCacheByName.TryGetValue(typeName, out xamlType))
             {
-                if (_xamlTypeCacheByName.TryGetValue(typeName, out xamlType))
-                {
-                    return xamlType;
-                }
-                int typeIndex = LookupTypeIndexByName(typeName);
-                if(typeIndex != -1)
-                {
-                    xamlType = CreateXamlType(typeIndex);
-                }
-                if (xamlType != null)
-                {
-                    _xamlTypeCacheByName.Add(xamlType.FullName, xamlType);
-                    _xamlTypeCacheByType.Add(xamlType.UnderlyingType, xamlType);
-                }
+                return xamlType;
+            }
+            int typeIndex = LookupTypeIndexByName(typeName);
+            if(typeIndex != -1)
+            {
+                xamlType = CreateXamlType(typeIndex);
+            }
+            if (xamlType != null)
+            {
+                _xamlTypeCacheByName.Add(xamlType.FullName, xamlType);
+                _xamlTypeCacheByType.Add(xamlType.UnderlyingType, xamlType);
             }
             return xamlType;
         }
@@ -160,17 +105,14 @@ namespace PokeDex.PokeDex_XamlTypeInfo
                 return null;
             }
             global::Windows.UI.Xaml.Markup.IXamlMember xamlMember;
-            lock (_xamlMembers)
+            if (_xamlMembers.TryGetValue(longMemberName, out xamlMember))
             {
-                if (_xamlMembers.TryGetValue(longMemberName, out xamlMember))
-                {
-                    return xamlMember;
-                }
-                xamlMember = CreateXamlMember(longMemberName);
-                if (xamlMember != null)
-                {
-                    _xamlMembers.Add(longMemberName, xamlMember);
-                }
+                return xamlMember;
+            }
+            xamlMember = CreateXamlMember(longMemberName);
+            if (xamlMember != null)
+            {
+                _xamlMembers.Add(longMemberName, xamlMember);
             }
             return xamlMember;
         }
@@ -272,7 +214,8 @@ namespace PokeDex.PokeDex_XamlTypeInfo
         }
     }
 
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Windows.UI.Xaml.Build.Tasks"," 10.0.17.0")]
+
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Windows.UI.Xaml.Build.Tasks"," 14.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     internal class XamlSystemBaseType : global::Windows.UI.Xaml.Markup.IXamlType
     {
@@ -318,9 +261,8 @@ namespace PokeDex.PokeDex_XamlTypeInfo
     internal delegate object Activator();
     internal delegate void AddToCollection(object instance, object item);
     internal delegate void AddToDictionary(object instance, object key, object item);
-    internal delegate object CreateFromStringMethod(string args);
 
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Windows.UI.Xaml.Build.Tasks"," 10.0.17.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Windows.UI.Xaml.Build.Tasks"," 14.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     internal class XamlUserType : global::PokeDex.PokeDex_XamlTypeInfo.XamlSystemBaseType
     {
@@ -403,16 +345,12 @@ namespace PokeDex.PokeDex_XamlTypeInfo
 
         override public void RunInitializer() 
         {
-            global::System.Runtime.CompilerServices.RuntimeHelpers.RunClassConstructor(UnderlyingType.TypeHandle);
+            System.Runtime.CompilerServices.RuntimeHelpers.RunClassConstructor(UnderlyingType.TypeHandle);
         }
 
         override public object CreateFromString(string input)
         {
-            if (CreateFromStringMethod != null)
-            {
-                return this.CreateFromStringMethod(input);
-            }
-            else if (_enumValues != null)
+            if (_enumValues != null)
             {
                 int value = 0;
 
@@ -467,7 +405,7 @@ namespace PokeDex.PokeDex_XamlTypeInfo
         public Activator Activator { get; set; }
         public AddToCollection CollectionAdd { get; set; }
         public AddToDictionary DictionaryAdd { get; set; }
-        public CreateFromStringMethod CreateFromStringMethod {get; set; }
+
 
         public void SetContentPropertyName(string contentPropertyName)
         {
@@ -531,7 +469,7 @@ namespace PokeDex.PokeDex_XamlTypeInfo
     internal delegate object Getter(object instance);
     internal delegate void Setter(object instance, object value);
 
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Windows.UI.Xaml.Build.Tasks"," 10.0.17.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Windows.UI.Xaml.Build.Tasks"," 14.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     internal class XamlMember : global::Windows.UI.Xaml.Markup.IXamlMember
     {

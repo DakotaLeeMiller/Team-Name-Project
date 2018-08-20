@@ -29,12 +29,11 @@
 
                 <Rectangle Fill="Red" Margin="40,192,544,284" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/>
 
-                <Image x:Name="ImageSpot"
-                    Margin="63,206,568,302"
-                       Source="Assets/1.png"
-                       HorizontalAlignment="Stretch"
-                       VerticalAlignment="Stretch" />
-
+                <Image Name="pokemonImage"
+                       Width="350" Height="350"
+                       HorizontalAlignment="Left"
+                       VerticalAlignment="Top"
+                       Margin="62 265 0 0"/>
 
                 <ListBox Name="ThePokemon" HorizontalAlignment="Left" Margin="515,0,0,0" VerticalAlignment="Center" Width="426">
                 </ListBox>
