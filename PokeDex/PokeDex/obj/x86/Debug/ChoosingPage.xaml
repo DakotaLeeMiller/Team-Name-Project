@@ -7,6 +7,8 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+
     <Viewbox>
         <Grid x:ConnectionId='2' x:Name="BackGrid">
             <Grid x:ConnectionId='3' x:Name="LeftSide"
@@ -15,38 +17,60 @@
                   Height="990" Width="980"
                   Margin="-498,0,0,0" VerticalAlignment="Center">
 
-                <Rectangle x:ConnectionId='4' x:Name="TitleRect" Height="100" Width="500" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Margin="10,10,470,880" Fill="Red" RadiusX="10" RadiusY="10">
-                    
-                </Rectangle>
+                <Rectangle x:ConnectionId='4' x:Name="TitleRect" Height="100" Width="500" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Margin="10,10,470,880" Fill="Red" RadiusX="10" RadiusY="10"/>
 
                 <TextBlock x:ConnectionId='5' x:Name="Title"
                          Height="100"
                          Width="500"
                          Text="Kanto PokeDex"
                          FontSize="50"
-                         Foreground="White" HorizontalAlignment="Stretch" Margin="10,10,470,880" VerticalAlignment="Stretch"/>
+                         Foreground="White" HorizontalAlignment="Stretch" Margin="20,10,470,880" VerticalAlignment="Stretch"/>
 
 
                 <Rectangle Fill="Red" Margin="40,192,544,284" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/>
 
-                <Image Margin="63,206,568,302"
-                       
+                <Image x:ConnectionId='6' x:Name="DisplayPokemon"
+                       Margin="63,206,568,302"
                        HorizontalAlignment="Stretch"
-                       VerticalAlignment="Stretch" />
+                       VerticalAlignment="Stretch"
+                       Source="{Binding Img}"/>
 
+<<<<<<< HEAD
                 <ListView x:ConnectionId='6' Name="ThePokemon" HorizontalAlignment="Left" Margin="515,0,0,0" VerticalAlignment="Center" Width="426" Opacity="0.6" Background="AliceBlue">
                     
                 </ListView>
+=======
+                <ListBox x:ConnectionId='7' Name="ThePokemon" 
+                         HorizontalAlignment="Left" 
+                         Margin="515,0,0,0" 
+                         VerticalAlignment="Center" 
+                         Width="426"
+                                                                       >
+                </ListBox>
+>>>>>>> master
 
-                <Canvas x:ConnectionId='7' x:Name="Controls"
+                <Canvas x:ConnectionId='8' x:Name="Controls"
                         Background="Red" 
                         Margin="946,1,-502,-1" 
                         HorizontalAlignment="Stretch" 
                         VerticalAlignment="Stretch">
+<<<<<<< HEAD
+=======
+
+                    <Button x:ConnectionId='9' x:Name="SelectPokemon"
+                            Content="Select Pokemon"
+                            FontSize="40"
+                            Foreground="White"
+                            Background="LightSlateGray"
+                            HorizontalAlignment="Left" 
+                            Canvas.Left="109" Canvas.Top="166" 
+                            VerticalAlignment="Center" 
+                            Height="106" Width="321" 
+                            Margin="0,0,0,0"
+                                                       />
+>>>>>>> master
                 </Canvas>
-
             </Grid>
-
         </Grid>
     </Viewbox>
 </Page>

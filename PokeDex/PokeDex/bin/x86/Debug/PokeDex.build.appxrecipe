@@ -1,31 +1,31 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>FAP-O-MATIC</Machine>
-    <WindowsUser>Luna McClain</WindowsUser>
+    <Machine>DESKTOP-PMS23RU</Machine>
+    <WindowsUser>Dakota L. Miller</WindowsUser>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
     <TargetOsVersion>10.0</TargetOsVersion>
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
     <SolutionConfiguration>Debug|x86</SolutionConfiguration>
     <PackageArchitecture>x86</PackageArchitecture>
-    <PackageIdentityName>be339a2d-f31f-48fb-b706-6eac5ff054b7</PackageIdentityName>
-    <PackageIdentityPublisher>CN=Joshua Harrington</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x86\Debug\</IntermediateOutputPath>
+    <PackageIdentityName>d106f15e-5039-45d1-9c93-2184c38d2f82</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Dakota L. Miller</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\bin\x86\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\PokeDex.exe">
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\bin\x86\Debug\PokeDex.exe">
       <PackagePath>entrypoint\PokeDex.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
@@ -67,7 +67,7 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.netcore.portable.compatibility\1.0.2\lib\netcore50\System.dll">
       <PackagePath>System.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\microsoft.visualbasic\10.0.1\lib\netcore50\Microsoft.VisualBasic.dll">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.visualbasic\10.0.1\lib\netcore50\Microsoft.VisualBasic.dll">
       <PackagePath>Microsoft.VisualBasic.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.any.system.collections\4.0.11\lib\netcore50\System.Collections.dll">
@@ -163,16 +163,16 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.collections.nongeneric\4.0.1\lib\netstandard1.3\System.Collections.NonGeneric.dll">
       <PackagePath>System.Collections.NonGeneric.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.collections.specialized\4.0.1\lib\netstandard1.3\System.Collections.Specialized.dll">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.collections.specialized\4.0.1\lib\netstandard1.3\System.Collections.Specialized.dll">
       <PackagePath>System.Collections.Specialized.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.componentmodel\4.0.1\lib\netcore50\System.ComponentModel.dll">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.componentmodel\4.0.1\lib\netcore50\System.ComponentModel.dll">
       <PackagePath>System.ComponentModel.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.componentmodel.annotations\4.1.0\lib\netcore50\System.ComponentModel.Annotations.dll">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.componentmodel.annotations\4.1.0\lib\netcore50\System.ComponentModel.Annotations.dll">
       <PackagePath>System.ComponentModel.Annotations.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.componentmodel.eventbasedasync\4.0.11\lib\netcore50\System.ComponentModel.EventBasedAsync.dll">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.componentmodel.eventbasedasync\4.0.11\lib\netcore50\System.ComponentModel.EventBasedAsync.dll">
       <PackagePath>System.ComponentModel.EventBasedAsync.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.data.common\4.1.0\lib\netstandard1.2\System.Data.Common.dll">
@@ -205,7 +205,7 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.io.isolatedstorage\4.0.1\lib\netcore50\System.IO.IsolatedStorage.dll">
       <PackagePath>System.IO.IsolatedStorage.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.io.unmanagedmemorystream\4.0.1\lib\netstandard1.3\System.IO.UnmanagedMemoryStream.dll">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.io.unmanagedmemorystream\4.0.1\lib\netstandard1.3\System.IO.UnmanagedMemoryStream.dll">
       <PackagePath>System.IO.UnmanagedMemoryStream.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.linq\4.1.0\lib\netcore50\System.Linq.dll">
@@ -226,16 +226,16 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.net.http.rtc\4.0.1\runtimes\win\lib\netcore50\System.Net.Http.Rtc.dll">
       <PackagePath>System.Net.Http.Rtc.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.net.nameresolution\4.0.0\runtimes\win\lib\netcore50\System.Net.NameResolution.dll">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.net.nameresolution\4.0.0\runtimes\win\lib\netcore50\System.Net.NameResolution.dll">
       <PackagePath>System.Net.NameResolution.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.net.networkinformation\4.1.0\runtimes\win\lib\netcore50\System.Net.NetworkInformation.dll">
       <PackagePath>System.Net.NetworkInformation.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.net.requests\4.0.11\runtimes\win\lib\netstandard1.3\System.Net.Requests.dll">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.net.requests\4.0.11\runtimes\win\lib\netstandard1.3\System.Net.Requests.dll">
       <PackagePath>System.Net.Requests.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.net.webheadercollection\4.0.1\lib\netstandard1.3\System.Net.WebHeaderCollection.dll">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.net.webheadercollection\4.0.1\lib\netstandard1.3\System.Net.WebHeaderCollection.dll">
       <PackagePath>System.Net.WebHeaderCollection.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.net.websockets\4.0.0\lib\netstandard1.3\System.Net.WebSockets.dll">
@@ -244,7 +244,7 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.net.websockets.client\4.0.2\runtimes\win\lib\netcore50\System.Net.WebSockets.Client.dll">
       <PackagePath>System.Net.WebSockets.Client.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.numerics.vectors\4.1.1\lib\portable-net45+win8+wp8+wpa81\System.Numerics.Vectors.dll">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.numerics.vectors\4.1.1\lib\portable-net45+win8+wp8+wpa81\System.Numerics.Vectors.dll">
       <PackagePath>System.Numerics.Vectors.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.numerics.vectors.windowsruntime\4.0.1\lib\uap10.0\System.Numerics.Vectors.WindowsRuntime.dll">
@@ -262,7 +262,7 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.reflection.context\4.0.1\lib\netcore50\System.Reflection.Context.dll">
       <PackagePath>System.Reflection.Context.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.reflection.dispatchproxy\4.0.1\lib\netstandard1.3\System.Reflection.DispatchProxy.dll">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.reflection.dispatchproxy\4.0.1\lib\netstandard1.3\System.Reflection.DispatchProxy.dll">
       <PackagePath>System.Reflection.DispatchProxy.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.reflection.emit\4.0.1\lib\netcore50\System.Reflection.Emit.dll">
@@ -301,7 +301,7 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.runtime.windowsruntime.ui.xaml\4.0.1\runtimes\win8\lib\netstandard1.3\System.Runtime.WindowsRuntime.UI.Xaml.dll">
       <PackagePath>System.Runtime.WindowsRuntime.UI.Xaml.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.security.claims\4.0.1\lib\netstandard1.3\System.Security.Claims.dll">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.security.claims\4.0.1\lib\netstandard1.3\System.Security.Claims.dll">
       <PackagePath>System.Security.Claims.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.security.cryptography.algorithms\4.2.0\runtimes\win\lib\netcore50\System.Security.Cryptography.Algorithms.dll">
@@ -355,7 +355,7 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.threading.tasks.extensions\4.0.0\lib\portable-net45+win8+wp8+wpa81\System.Threading.Tasks.Extensions.dll">
       <PackagePath>System.Threading.Tasks.Extensions.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.threading.tasks.parallel\4.0.1\lib\netcore50\System.Threading.Tasks.Parallel.dll">
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.threading.tasks.parallel\4.0.1\lib\netcore50\System.Threading.Tasks.Parallel.dll">
       <PackagePath>System.Threading.Tasks.Parallel.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.xml.readerwriter\4.0.11\lib\netcore50\System.Xml.ReaderWriter.dll">
@@ -370,56 +370,566 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.xml.xmlserializer\4.0.11\lib\netcore50\System.Xml.XmlSerializer.dll">
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\Properties\Default.rd.xml">
-      <PackagePath>Properties\Default.rd.xml</PackagePath>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\000.png">
+      <PackagePath>Assets\Gen_I\000.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\XMLFile1.xml">
-      <PackagePath>XMLFile1.xml</PackagePath>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\001.png">
+      <PackagePath>Assets\Gen_I\001.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Types\Bug.png">
+      <PackagePath>Assets\Types\Bug.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Types\Dragon.png">
+      <PackagePath>Assets\Types\Dragon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Types\Electric.png">
+      <PackagePath>Assets\Types\Electric.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Types\Fighting.png">
+      <PackagePath>Assets\Types\Fighting.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Types\Fire.png">
+      <PackagePath>Assets\Types\Fire.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Types\Flying.png">
+      <PackagePath>Assets\Types\Flying.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\000MissingNo.png">
+      <PackagePath>Assets\Gen_I\000MissingNo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\001Bulbasaur.png">
+      <PackagePath>Assets\Gen_I\001Bulbasaur.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\002Ivysaur.png">
+      <PackagePath>Assets\Gen_I\002Ivysaur.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\003Venusaur.png">
+      <PackagePath>Assets\Gen_I\003Venusaur.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\004Charmander.png">
+      <PackagePath>Assets\Gen_I\004Charmander.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\005Charmeleon.png">
+      <PackagePath>Assets\Gen_I\005Charmeleon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\006Charizard.png">
+      <PackagePath>Assets\Gen_I\006Charizard.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\007Squirtle.png">
+      <PackagePath>Assets\Gen_I\007Squirtle.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\008Wartortle.png">
+      <PackagePath>Assets\Gen_I\008Wartortle.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\009Blastoise.png">
+      <PackagePath>Assets\Gen_I\009Blastoise.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\010Caterpie.png">
+      <PackagePath>Assets\Gen_I\010Caterpie.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\011Metapod.png">
+      <PackagePath>Assets\Gen_I\011Metapod.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\012Butterfree.png">
+      <PackagePath>Assets\Gen_I\012Butterfree.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\013Weedle.png">
+      <PackagePath>Assets\Gen_I\013Weedle.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\014Kakuna.png">
+      <PackagePath>Assets\Gen_I\014Kakuna.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\015Beedrill.png">
+      <PackagePath>Assets\Gen_I\015Beedrill.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\016Pidgey.png">
+      <PackagePath>Assets\Gen_I\016Pidgey.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\017Pidgeotto.png">
+      <PackagePath>Assets\Gen_I\017Pidgeotto.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\018Pidgeot.png">
+      <PackagePath>Assets\Gen_I\018Pidgeot.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\019Rattata.png">
+      <PackagePath>Assets\Gen_I\019Rattata.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\020Raticate.png">
+      <PackagePath>Assets\Gen_I\020Raticate.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\021Spearow.png">
+      <PackagePath>Assets\Gen_I\021Spearow.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\022Fearow.png">
+      <PackagePath>Assets\Gen_I\022Fearow.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\023Ekans.png">
+      <PackagePath>Assets\Gen_I\023Ekans.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\024Arbok.png">
+      <PackagePath>Assets\Gen_I\024Arbok.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\025Pikachu.png">
+      <PackagePath>Assets\Gen_I\025Pikachu.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\026Raichu.png">
+      <PackagePath>Assets\Gen_I\026Raichu.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\027Sandshrew.png">
+      <PackagePath>Assets\Gen_I\027Sandshrew.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\028Sandslash.png">
+      <PackagePath>Assets\Gen_I\028Sandslash.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\029NidoranF.png">
+      <PackagePath>Assets\Gen_I\029NidoranF.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\030Nidorina.png">
+      <PackagePath>Assets\Gen_I\030Nidorina.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\031Nidoqueen.png">
+      <PackagePath>Assets\Gen_I\031Nidoqueen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\032NidoranM.png">
+      <PackagePath>Assets\Gen_I\032NidoranM.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\033Nidorino.png">
+      <PackagePath>Assets\Gen_I\033Nidorino.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\034Nidoking.png">
+      <PackagePath>Assets\Gen_I\034Nidoking.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\035Clefairy.png">
+      <PackagePath>Assets\Gen_I\035Clefairy.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\036Clefable.png">
+      <PackagePath>Assets\Gen_I\036Clefable.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\037Vulpix.png">
+      <PackagePath>Assets\Gen_I\037Vulpix.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\038Ninetales.png">
+      <PackagePath>Assets\Gen_I\038Ninetales.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\039Jigglypuff.png">
+      <PackagePath>Assets\Gen_I\039Jigglypuff.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\040Wigglytuff.png">
+      <PackagePath>Assets\Gen_I\040Wigglytuff.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\041Zubat.png">
+      <PackagePath>Assets\Gen_I\041Zubat.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\042Golbat.png">
+      <PackagePath>Assets\Gen_I\042Golbat.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\043Oddish.png">
+      <PackagePath>Assets\Gen_I\043Oddish.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\044Gloom.png">
+      <PackagePath>Assets\Gen_I\044Gloom.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\045Vileplume.png">
+      <PackagePath>Assets\Gen_I\045Vileplume.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\046Paras.png">
+      <PackagePath>Assets\Gen_I\046Paras.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\047Parasect.png">
+      <PackagePath>Assets\Gen_I\047Parasect.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\048Venonat.png">
+      <PackagePath>Assets\Gen_I\048Venonat.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\049Venomoth.png">
+      <PackagePath>Assets\Gen_I\049Venomoth.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\050Diglett.png">
+      <PackagePath>Assets\Gen_I\050Diglett.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\051Dugtrio.png">
+      <PackagePath>Assets\Gen_I\051Dugtrio.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\052Meowth.png">
+      <PackagePath>Assets\Gen_I\052Meowth.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\053Persian.png">
+      <PackagePath>Assets\Gen_I\053Persian.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\054Psyduck.png">
+      <PackagePath>Assets\Gen_I\054Psyduck.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\055Golduck.png">
+      <PackagePath>Assets\Gen_I\055Golduck.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\056Mankey.png">
+      <PackagePath>Assets\Gen_I\056Mankey.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\057Primeape.png">
+      <PackagePath>Assets\Gen_I\057Primeape.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\058Growlithe.png">
+      <PackagePath>Assets\Gen_I\058Growlithe.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\059Arcanine.png">
+      <PackagePath>Assets\Gen_I\059Arcanine.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\060Poliwag.png">
+      <PackagePath>Assets\Gen_I\060Poliwag.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\061Poliwhirl.png">
+      <PackagePath>Assets\Gen_I\061Poliwhirl.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\062Poliwrath.png">
+      <PackagePath>Assets\Gen_I\062Poliwrath.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\063Abra.png">
+      <PackagePath>Assets\Gen_I\063Abra.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\064Kadabra.png">
+      <PackagePath>Assets\Gen_I\064Kadabra.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\065Alakazam.png">
+      <PackagePath>Assets\Gen_I\065Alakazam.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\066Machop.png">
+      <PackagePath>Assets\Gen_I\066Machop.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\067Machoke.png">
+      <PackagePath>Assets\Gen_I\067Machoke.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\068Machamp.png">
+      <PackagePath>Assets\Gen_I\068Machamp.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\069Bellsprout.png">
+      <PackagePath>Assets\Gen_I\069Bellsprout.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\070Weepinbell.png">
+      <PackagePath>Assets\Gen_I\070Weepinbell.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\071Victreebel.png">
+      <PackagePath>Assets\Gen_I\071Victreebel.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\072Tentacool.png">
+      <PackagePath>Assets\Gen_I\072Tentacool.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\073Tentacruel.png">
+      <PackagePath>Assets\Gen_I\073Tentacruel.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\074Geodude.png">
+      <PackagePath>Assets\Gen_I\074Geodude.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\075Graveler.png">
+      <PackagePath>Assets\Gen_I\075Graveler.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\076Golem.png">
+      <PackagePath>Assets\Gen_I\076Golem.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\077Ponyta.png">
+      <PackagePath>Assets\Gen_I\077Ponyta.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\078Rapidash.png">
+      <PackagePath>Assets\Gen_I\078Rapidash.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\079Slowpoke.png">
+      <PackagePath>Assets\Gen_I\079Slowpoke.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\080Slowbro.png">
+      <PackagePath>Assets\Gen_I\080Slowbro.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\081Magnemite.png">
+      <PackagePath>Assets\Gen_I\081Magnemite.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\082Magneton.png">
+      <PackagePath>Assets\Gen_I\082Magneton.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\083Farfetch%27d.png">
+      <PackagePath>Assets\Gen_I\083Farfetch%27d.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\084Doduo.png">
+      <PackagePath>Assets\Gen_I\084Doduo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\085Dodrio.png">
+      <PackagePath>Assets\Gen_I\085Dodrio.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\086Seel.png">
+      <PackagePath>Assets\Gen_I\086Seel.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\087Dewgong.png">
+      <PackagePath>Assets\Gen_I\087Dewgong.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\088Grimer.png">
+      <PackagePath>Assets\Gen_I\088Grimer.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\089Muk.png">
+      <PackagePath>Assets\Gen_I\089Muk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\090Shellder.png">
+      <PackagePath>Assets\Gen_I\090Shellder.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\091Cloyster.png">
+      <PackagePath>Assets\Gen_I\091Cloyster.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\092Gastly.png">
+      <PackagePath>Assets\Gen_I\092Gastly.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\093Haunter.png">
+      <PackagePath>Assets\Gen_I\093Haunter.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\094Gengar.png">
+      <PackagePath>Assets\Gen_I\094Gengar.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\095Onix.png">
+      <PackagePath>Assets\Gen_I\095Onix.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\096Drowzee.png">
+      <PackagePath>Assets\Gen_I\096Drowzee.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\097Hypno.png">
+      <PackagePath>Assets\Gen_I\097Hypno.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\098Krabby.png">
+      <PackagePath>Assets\Gen_I\098Krabby.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\099Kingler.png">
+      <PackagePath>Assets\Gen_I\099Kingler.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\100Voltorb.png">
+      <PackagePath>Assets\Gen_I\100Voltorb.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\101Electrode.png">
+      <PackagePath>Assets\Gen_I\101Electrode.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\102Exeggcute.png">
+      <PackagePath>Assets\Gen_I\102Exeggcute.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\103Exeggutor.png">
+      <PackagePath>Assets\Gen_I\103Exeggutor.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\104Cubone.png">
+      <PackagePath>Assets\Gen_I\104Cubone.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\105Marowak.png">
+      <PackagePath>Assets\Gen_I\105Marowak.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\106Hitmonlee.png">
+      <PackagePath>Assets\Gen_I\106Hitmonlee.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\107Hitmonchan.png">
+      <PackagePath>Assets\Gen_I\107Hitmonchan.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\108Lickitung.png">
+      <PackagePath>Assets\Gen_I\108Lickitung.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\109Koffing.png">
+      <PackagePath>Assets\Gen_I\109Koffing.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\110Weezing.png">
+      <PackagePath>Assets\Gen_I\110Weezing.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\111Rhyhorn.png">
+      <PackagePath>Assets\Gen_I\111Rhyhorn.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\112Rhydon.png">
+      <PackagePath>Assets\Gen_I\112Rhydon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\113Chansey.png">
+      <PackagePath>Assets\Gen_I\113Chansey.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\114Tangela.png">
+      <PackagePath>Assets\Gen_I\114Tangela.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\115Kangaskhan.png">
+      <PackagePath>Assets\Gen_I\115Kangaskhan.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\116Horsea.png">
+      <PackagePath>Assets\Gen_I\116Horsea.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\117Seadra.png">
+      <PackagePath>Assets\Gen_I\117Seadra.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\118Goldeen.png">
+      <PackagePath>Assets\Gen_I\118Goldeen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\119Seaking.png">
+      <PackagePath>Assets\Gen_I\119Seaking.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\120Staryu.png">
+      <PackagePath>Assets\Gen_I\120Staryu.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\121Starmie.png">
+      <PackagePath>Assets\Gen_I\121Starmie.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\122Mr._Mime.png">
+      <PackagePath>Assets\Gen_I\122Mr._Mime.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\123Scyther.png">
+      <PackagePath>Assets\Gen_I\123Scyther.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\124Jynx.png">
+      <PackagePath>Assets\Gen_I\124Jynx.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\125Electabuzz.png">
+      <PackagePath>Assets\Gen_I\125Electabuzz.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\126Magmar.png">
+      <PackagePath>Assets\Gen_I\126Magmar.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\127Pinsir.png">
+      <PackagePath>Assets\Gen_I\127Pinsir.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\128Tauros.png">
+      <PackagePath>Assets\Gen_I\128Tauros.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\129Magikarp.png">
+      <PackagePath>Assets\Gen_I\129Magikarp.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\130Gyarados.png">
+      <PackagePath>Assets\Gen_I\130Gyarados.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\131Lapras.png">
+      <PackagePath>Assets\Gen_I\131Lapras.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\132Ditto.png">
+      <PackagePath>Assets\Gen_I\132Ditto.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\133Eevee.png">
+      <PackagePath>Assets\Gen_I\133Eevee.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\134Vaporeon.png">
+      <PackagePath>Assets\Gen_I\134Vaporeon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\135Jolteon.png">
+      <PackagePath>Assets\Gen_I\135Jolteon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\136Flareon.png">
+      <PackagePath>Assets\Gen_I\136Flareon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\137Porygon.png">
+      <PackagePath>Assets\Gen_I\137Porygon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\138Omanyte.png">
+      <PackagePath>Assets\Gen_I\138Omanyte.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\139Omastar.png">
+      <PackagePath>Assets\Gen_I\139Omastar.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\140Kabuto.png">
+      <PackagePath>Assets\Gen_I\140Kabuto.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\141Kabutops.png">
+      <PackagePath>Assets\Gen_I\141Kabutops.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\142Aerodactyl.png">
+      <PackagePath>Assets\Gen_I\142Aerodactyl.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\143Snorlax.png">
+      <PackagePath>Assets\Gen_I\143Snorlax.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\144Articuno.png">
+      <PackagePath>Assets\Gen_I\144Articuno.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\145Zapdos.png">
+      <PackagePath>Assets\Gen_I\145Zapdos.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\146Moltres.png">
+      <PackagePath>Assets\Gen_I\146Moltres.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\147Dratini.png">
+      <PackagePath>Assets\Gen_I\147Dratini.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\148Dragonair.png">
+      <PackagePath>Assets\Gen_I\148Dragonair.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\149Dragonite.png">
+      <PackagePath>Assets\Gen_I\149Dragonite.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\150Mewtwo.png">
+      <PackagePath>Assets\Gen_I\150Mewtwo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Gen_I\151Mew.png">
+      <PackagePath>Assets\Gen_I\151Mew.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Types\Ghost.png">
+      <PackagePath>Assets\Types\Ghost.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Types\Grass.png">
+      <PackagePath>Assets\Types\Grass.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Types\Ground.png">
+      <PackagePath>Assets\Types\Ground.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Types\Ice.png">
+      <PackagePath>Assets\Types\Ice.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Types\Normal.png">
+      <PackagePath>Assets\Types\Normal.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Types\Poison.png">
+      <PackagePath>Assets\Types\Poison.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Types\Psychic.png">
+      <PackagePath>Assets\Types\Psychic.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Types\Rock.png">
+      <PackagePath>Assets\Types\Rock.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Types\Unknown.png">
+      <PackagePath>Assets\Types\Unknown.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Types\Water.png">
+      <PackagePath>Assets\Types\Water.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\PokeDex.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\bin\x86\Debug\PokeDex.xr.xml">
       <PackagePath>PokeDex.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\ChoosingPage.xbf">
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\bin\x86\Debug\ChoosingPage.xbf">
       <PackagePath>ChoosingPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\bin\x86\Debug\SelectedPokemonPage.xbf">
+      <PackagePath>SelectedPokemonPage.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17134.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\Core\PokeDex.exe">
+    <AppxPackagedFile Include="C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\bin\x86\Debug\Core\PokeDex.exe">
       <PackagePath>PokeDex.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
