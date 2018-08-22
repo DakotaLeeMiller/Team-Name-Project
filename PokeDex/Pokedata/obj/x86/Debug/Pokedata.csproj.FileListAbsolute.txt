@@ -1,6 +1,7 @@
 C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\Pokedata\bin\x86\Debug\Pokedata.dll
 C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\Pokedata\bin\x86\Debug\Pokedata.pdb
 C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\Pokedata\bin\x86\Debug\Pokedata.pri
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\Pokedata\obj\x86\Debug\Pokedata.csprojAssemblyReference.cache
 C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\Pokedata\obj\x86\Debug\Pokedata.csproj.CoreCompileInputs.cache
 C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\Pokedata\obj\x86\Debug\Pokedata.dll
 C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\Pokedata\obj\x86\Debug\Pokedata.pdb

@@ -250,5 +250,10 @@ namespace Pokedata
         public static Ability WonderGuard = new Ability("Wonder Guard", "Only supereffective moves will hit");
         public static Ability WonderSkin = new Ability("Wonder Skin", "Makes status-changing moves more likely to miss");
         public static Ability ZenMode = new Ability("Zen Mode", "Changes form when HP drops below half");
+
+        public override string ToString()
+        {
+            return Name;
+        }
     }
 }

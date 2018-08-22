@@ -7004,54 +7004,24 @@
     ]
   },
   "packageFolders": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-    "C:\\Users\\Luna McClain\\.nuget\\packages\\": {},
-=======
     "C:\\Users\\Jacob Mabey\\.nuget\\packages\\": {},
->>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
-=======
-    "C:\\Users\\Jacob Mabey\\.nuget\\packages\\": {},
->>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\Users\\Luna McClain\\Desktop\\Class Work Assignments\\Introduction to Software Projects\\Team-Name-Project\\PokeDex\\PokeDex\\PokeDex.csproj",
-      "projectName": "PokeDex",
-      "projectPath": "C:\\Users\\Luna McClain\\Desktop\\Class Work Assignments\\Introduction to Software Projects\\Team-Name-Project\\PokeDex\\PokeDex\\PokeDex.csproj",
-      "packagesPath": "C:\\Users\\Luna McClain\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Luna McClain\\Desktop\\Class Work Assignments\\Introduction to Software Projects\\Team-Name-Project\\PokeDex\\PokeDex\\obj\\",
-=======
-=======
->>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
       "projectUniqueName": "C:\\Users\\Jacob Mabey\\Documents\\Intro Software Projects\\Team-Name-Project\\PokeDex\\PokeDex\\PokeDex.csproj",
       "projectName": "PokeDex",
       "projectPath": "C:\\Users\\Jacob Mabey\\Documents\\Intro Software Projects\\Team-Name-Project\\PokeDex\\PokeDex\\PokeDex.csproj",
       "packagesPath": "C:\\Users\\Jacob Mabey\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Jacob Mabey\\Documents\\Intro Software Projects\\Team-Name-Project\\PokeDex\\PokeDex\\obj\\",
-<<<<<<< HEAD
->>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
-=======
->>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
       ],
       "configFilePaths": [
-<<<<<<< HEAD
-<<<<<<< HEAD
-        "C:\\Users\\Luna McClain\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
         "C:\\Users\\Jacob Mabey\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
-=======
-        "C:\\Users\\Jacob Mabey\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

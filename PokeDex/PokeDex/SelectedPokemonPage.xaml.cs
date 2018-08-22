@@ -23,11 +23,27 @@ namespace PokeDex
     /// </summary>
     public sealed partial class SelectedPokemonPage : Page
     {
-        private Pokemon SelectedPokemon { get; set; }
+        private Pokemon selectedPokemon;
+        public Pokemon SelectedPokemon
+        {
+            get => selectedPokemon;
+            set
+            {
+                selectedPokemon = value;
+                if (selectedPokemon.GenderRatio == null)
+                {
+                    maleRatio.Text = "NaN";
+                    femaleRatio.Text = "NaN";
+                }
+                if (selectedPokemon.EvolveFrom == null) evolveFromPokemonButton.IsEnabled = false;
+                if (selectedPokemon.EvolveTo == null) evolveToPokemonButton.IsEnabled = false;
+            }
+        }
 
         public SelectedPokemonPage()
         {
             this.InitializeComponent();
+            this.Height = 720.0;
         }
 
         protected override void OnNavigatedTo(NavigationEventArgs e)

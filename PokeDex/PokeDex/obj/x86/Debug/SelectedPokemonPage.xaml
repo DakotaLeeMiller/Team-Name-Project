@@ -8,16 +8,17 @@
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d"
-    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Width="1400">
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Width="1400" Height="3000">
     <Page.Resources>
         <conv:DexNumberToStringConverter x:ConnectionId='2' x:Name="DexNumberConverter"/>
         <conv:TypeToTypeImageConverter x:ConnectionId='3' x:Name="TypeConverter"/>
+        <conv:ListToAbilitiesConverter x:ConnectionId='4' x:Name="ListToAbilitiesConverter"/>
     </Page.Resources>
 
     <Grid>
         <ScrollViewer>
             <RelativePanel Height="3000" Background="AliceBlue">
-                <Button x:ConnectionId='4' Name="back"
+                <Button x:ConnectionId='5' Name="back"
                     Width="200"
                     Height="75"
                     Content="Back"
@@ -25,7 +26,7 @@
                     Margin="50 30 0 0"
                                             />
 
-                <RadioButton x:ConnectionId='5' x:Name="legendaryChecked"
+                <RadioButton x:ConnectionId='6' x:Name="legendaryChecked"
                         IsEnabled="False"
                         Foreground="Black"
                         Content="Legendary"
@@ -38,13 +39,13 @@
                     </RadioButton.RenderTransform>
                 </RadioButton>
 
-                <Rectangle x:ConnectionId='6' Name="pokemonImg"
+                <Rectangle x:ConnectionId='7' Name="pokemonImg"
                            Width="500" Height="500"
                            Margin="50,150,0,0"
                            RadiusX="50" RadiusY="50"
                            Stroke="Black" StrokeThickness="8">
                     <Rectangle.Fill>
-                        <ImageBrush x:ConnectionId='54'                                                   >
+                        <ImageBrush x:ConnectionId='55'                                                   >
                             <ImageBrush.RelativeTransform>
                                 <CompositeTransform CenterX="0.5" CenterY="0.5" ScaleX="0.8" ScaleY="0.8"/>
                             </ImageBrush.RelativeTransform>
@@ -52,7 +53,7 @@
                     </Rectangle.Fill>
                 </Rectangle>
 
-                <Grid x:ConnectionId='7' Name="NameAndCategoryGrid"
+                <Grid x:ConnectionId='8' Name="NameAndCategoryGrid"
                       Width="650" Height="200"
                       Margin="700 150 0 0">
                     <Grid.ColumnDefinitions>
@@ -68,14 +69,14 @@
                     <Rectangle Grid.ColumnSpan="4" Grid.Row="0" Fill="Red" Stroke="Black" StrokeThickness="2"/>
                     <Rectangle Grid.ColumnSpan="4" Grid.Row="1" Fill="White" Stroke="Black" StrokeThickness="2"/>
 
-                    <TextBlock x:ConnectionId='51' x:Name="pokemonNumber"
+                    <TextBlock x:ConnectionId='52' x:Name="pokemonNumber"
                                                                                                             
                     Foreground="White"
                     FontSize="70"
                     HorizontalAlignment="Stretch" VerticalAlignment="Center"
                     HorizontalTextAlignment="Center"/>
 
-                    <TextBlock x:ConnectionId='52' x:Name="pokemonName"
+                    <TextBlock x:ConnectionId='53' x:Name="pokemonName"
                                                         
                     Foreground="White"
                     FontSize="70"
@@ -84,7 +85,7 @@
                     Margin="20 0 0 0"
                     Grid.ColumnSpan="3" Grid.Column="1"/>
 
-                    <TextBlock x:ConnectionId='53' x:Name="pokemonCategory"
+                    <TextBlock x:ConnectionId='54' x:Name="pokemonCategory"
                                                             
                     Foreground="SlateGray"
                     FontSize="50"
@@ -95,7 +96,7 @@
                 </Grid>
 
 
-                <Grid x:ConnectionId='8' Name="TypesGrid"
+                <Grid x:ConnectionId='9' Name="TypesGrid"
                       Width="650"
                       Margin="700 375 0 0">
                     <Grid.ColumnDefinitions>
@@ -103,19 +104,19 @@
                         <ColumnDefinition Width="1*"/>
                     </Grid.ColumnDefinitions>
 
-                    <Image x:ConnectionId='49' x:Name="type1"
+                    <Image x:ConnectionId='50' x:Name="type1"
                                                                                                                          
                         Width="150"
                         HorizontalAlignment="Center"
                         Grid.Column="0"/>
-                    <Image x:ConnectionId='50' x:Name="type2"
+                    <Image x:ConnectionId='51' x:Name="type2"
                                                                                                                          
                         Width="150"
                         HorizontalAlignment="Center"
                         Grid.Column="1"/>
                 </Grid>
 
-                <Grid x:ConnectionId='9' Name="HeightWeightGrid"
+                <Grid x:ConnectionId='10' Name="HeightWeightGrid"
                       Width="650" Height="150"
                       BorderBrush="Black"
                       BorderThickness="5"
@@ -132,23 +133,23 @@
                     </Grid.RowDefinitions>
                     <Rectangle Grid.ColumnSpan="3" Grid.RowSpan="2" Grid.Row="0" Fill="White" Stroke="Black" StrokeThickness="2"/>
 
-                    <TextBlock x:ConnectionId='45' x:Name="HeightLabel"
+                    <TextBlock x:ConnectionId='46' x:Name="HeightLabel"
                         Text=" Height"
                         Foreground="Gray"
                         FontSize="50"/>
-                    <TextBlock x:ConnectionId='46' x:Name="WeightLabel"
+                    <TextBlock x:ConnectionId='47' x:Name="WeightLabel"
                         Text=" Weight"
                         Foreground="Gray"
                         FontSize="50"
                         Grid.Row="1"/>
 
-                    <TextBlock x:ConnectionId='47' x:Name="HeightValue"
+                    <TextBlock x:ConnectionId='48' x:Name="HeightValue"
                                                               
                         Foreground="Gray"
                         FontSize="50"
                         TextAlignment="Right"
                         Grid.Column="1"/>
-                    <TextBlock x:ConnectionId='48' x:Name="WeightValue"
+                    <TextBlock x:ConnectionId='49' x:Name="WeightValue"
                                                               
                         Foreground="Gray"
                         FontSize="50"
@@ -167,14 +168,14 @@
                         Grid.Column="2" Grid.Row="1"/>
                 </Grid>
 
-                <Rectangle x:ConnectionId='10' x:Name="abilityBox"
+                <Rectangle x:ConnectionId='11' x:Name="abilityBox"
                     Stroke="Black"
                     StrokeThickness="5"
                     Width="1000"
                     Height="150"
                     Fill="White"
                     Margin="225,700,0,-200"/>
-                <TextBlock x:ConnectionId='11' x:Name="potentialAbilities"
+                <TextBlock x:ConnectionId='12' x:Name="potentialAbilities"
                     Margin="235,700,0,-100"
                     Foreground="Gray"
                     FontSize="35"
@@ -182,16 +183,16 @@
                     Height="50"
                     Text="Abilities:"/>
 
-                <TextBlock x:ConnectionId='12' x:Name="abilities"
+                <TextBlock x:ConnectionId='13' x:Name="abilities"
                     RelativePanel.Below="potentialAbilities"
-                    Margin="250,789,0,0"
+                    Margin="245,89,0,0"
                     Width="960"
                     Height="100"
-                    Foreground="Gray"
+                    Foreground="DeepSkyBlue"
                     FontSize="50"
-                                                             />
+                                                                                                                  />
 
-                <Rectangle x:ConnectionId='13' x:Name="genderRatioBox"
+                <Rectangle x:ConnectionId='14' x:Name="genderRatioBox"
                     Stroke="Black"
                     StrokeThickness="5"
                     Width="1000"
@@ -199,7 +200,7 @@
                     Fill="White"
                     RelativePanel.Below="abilityBox"
                     Margin="225,300,0,0"/>
-                <TextBlock x:ConnectionId='14' x:Name="male"
+                <TextBlock x:ConnectionId='15' x:Name="male"
                     RelativePanel.Below="abilityBox"
                     Margin="405,325,0,0"
                     Foreground="Blue"
@@ -207,7 +208,7 @@
                     Width="350"
                     Height="100"
                     Text="% male, "/>
-                <TextBlock x:ConnectionId='15' x:Name="female"
+                <TextBlock x:ConnectionId='16' x:Name="female"
                     RelativePanel.Below="abilityBox"
                     Margin="835,325,0,0"
                     Foreground="DeepPink"
@@ -216,7 +217,7 @@
                     Height="100"
                     Text="% female"/>
 
-                <TextBlock x:ConnectionId='16' x:Name="maleRatio"
+                <TextBlock x:ConnectionId='17' x:Name="maleRatio"
                     RelativePanel.Below="abilityBox"
                     Margin="235,325,0,0"
                     Width="150"
@@ -225,7 +226,7 @@
                     FontSize="75"
                                                                     
                     TextAlignment="Right"/>
-                <TextBlock x:ConnectionId='17' x:Name="femaleRatio"
+                <TextBlock x:ConnectionId='18' x:Name="femaleRatio"
                     RelativePanel.Below="abilityBox"
                     Margin="660,325,0,0"
                     Width="150"
@@ -236,7 +237,7 @@
                     TextAlignment="Right"/>
 
 
-                <Grid x:ConnectionId='18' Name="pokemonEntryBox"
+                <Grid x:ConnectionId='19' Name="pokemonEntryBox"
                       Width="1250" Height="400"
                       Margin="75 1200 0 0"
                       Background="red"
@@ -244,7 +245,7 @@
                       BorderThickness="5">
                     <Rectangle Fill="White" Margin="46 0 46 0"/>
 
-                    <TextBlock x:ConnectionId='44'                                            
+                    <TextBlock x:ConnectionId='45'                                            
                                Foreground="Gray"
                                FontSize="40"
                                TextWrapping="Wrap"
@@ -254,7 +255,7 @@
                                Margin="46 0 46 0"/>
                 </Grid>
 
-                <Grid x:ConnectionId='19' Name="evolutionChartBox"
+                <Grid x:ConnectionId='20' Name="evolutionChartBox"
                       Width="1250" Height="400"
                       Margin="75 1650 0 0"
                       Background="red"
@@ -271,14 +272,15 @@
                     </Grid.ColumnDefinitions>
                     <Rectangle Fill="White" Grid.Column="1" Grid.ColumnSpan="5"/>
 
-                    <HyperlinkButton x:ConnectionId='32'                               
+                    <HyperlinkButton x:ConnectionId='33' Name="evolveFromPokemonButton"
+                                                         
                            Width="230" Height="230"
                            Grid.Column="1">
-                        <Image x:ConnectionId='43'                                                         
+                        <Image x:ConnectionId='44'                                                         
                            HorizontalAlignment="Stretch"
                            VerticalAlignment="Stretch"/>
                     </HyperlinkButton>
-                    <TextBlock x:ConnectionId='33'                                                
+                    <TextBlock x:ConnectionId='34'                                                
                                FontSize="30" Foreground="DarkGray"
                                TextAlignment="Center"
                                HorizontalAlignment="Stretch"
@@ -289,18 +291,18 @@
                     <StackPanel Grid.Column="2"
                                 HorizontalAlignment="Stretch"
                                 VerticalAlignment="Center">
-                        <TextBlock x:ConnectionId='41'                                                      
+                        <TextBlock x:ConnectionId='42'                                                      
                                FontSize="30" TextAlignment="Center" Foreground="SlateGray"/>
-                        <TextBlock x:ConnectionId='42'                                                           
+                        <TextBlock x:ConnectionId='43'                                                           
                                FontSize="30" TextAlignment="Center" Foreground="SlateGray"/>
                     </StackPanel>
 
-                    <Image x:ConnectionId='34'                                              
+                    <Image x:ConnectionId='35'                                              
                            HorizontalAlignment="Stretch"
                            VerticalAlignment="Stretch"
                            Width="230" Height="230"
                            Grid.Column="3"/>
-                    <TextBlock x:ConnectionId='35'                                     
+                    <TextBlock x:ConnectionId='36'                                     
                                FontSize="30" Foreground="DarkGray"
                                TextAlignment="Center"
                                HorizontalAlignment="Stretch"
@@ -311,20 +313,21 @@
                     <StackPanel Grid.Column="4"
                                 HorizontalAlignment="Stretch"
                                 VerticalAlignment="Center">
-                        <TextBlock x:ConnectionId='39'                                                    
+                        <TextBlock x:ConnectionId='40'                                                    
                                FontSize="30" TextAlignment="Center" Foreground="SlateGray"/>
-                        <TextBlock x:ConnectionId='40'                                                         
+                        <TextBlock x:ConnectionId='41'                                                         
                                FontSize="30" TextAlignment="Center" Foreground="SlateGray"/>
                     </StackPanel>
 
-                    <HyperlinkButton x:ConnectionId='36'                             
+                    <HyperlinkButton x:ConnectionId='37' Name="evolveToPokemonButton"
+                                                       
                            Width="230" Height="230"
                            Grid.Column="5">
-                        <Image x:ConnectionId='38'                                                       
+                        <Image x:ConnectionId='39'                                                       
                            HorizontalAlignment="Stretch"
                            VerticalAlignment="Stretch"/>
                     </HyperlinkButton>
-                    <TextBlock x:ConnectionId='37'                                              
+                    <TextBlock x:ConnectionId='38'                                              
                                FontSize="30" Foreground="DarkGray"
                                TextAlignment="Center"
                                HorizontalAlignment="Stretch"
@@ -339,95 +342,89 @@
                                BorderBrush="Black" BorderThickness="5"
                                Width="800">
 
-                    <TextBlock x:ConnectionId='20' x:Name="hitPoints"
-                        Foreground="Black"
-                        FontSize="40"
-                        Text="HitPoints:"
-                        Margin="20 20 0 0"/>
-                    <TextBlock x:ConnectionId='21' x:Name="attack"
-                        Foreground="Black"
-                        FontSize="40"
-                        RelativePanel.Below="hitPoints"
-                        Text="Attack:"
-                        Margin="20 0"/>
-                    <TextBlock x:ConnectionId='22' x:Name="defense"
-                        Foreground="Black"
-                        FontSize="40"
-                        RelativePanel.Below="attack"
-                        Text="Defense:"
-                        Margin="20 0"/>
-                    <TextBlock x:ConnectionId='23' x:Name="specialAttack"
-                        Foreground="Black"
-                        FontSize="40"
-                        RelativePanel.Below="defense"
-                        Text="Special Attack:"
-                        Margin="20 0"/>
-                    <TextBlock x:ConnectionId='24' x:Name="specialDefense"
-                        Foreground="Black"
-                        FontSize="40"
-                        RelativePanel.Below="specialAttack"
-                        Text="Special Defense:"
-                        Margin="20 0"/>
-                    <TextBlock x:ConnectionId='25' x:Name="speed"
-                        Foreground="Black"
-                        FontSize="40"
-                        RelativePanel.Below="specialDefense"
-                        Text="Speed:"
-                        Margin="20 0"/>
+                    <TextBlock x:ConnectionId='21' x:Name="hitPoints"
+                               Foreground="Black"
+                               FontSize="40"
+                               Text="HitPoints:"
+                               Margin="20 20 0 0"/>
+                    <TextBlock x:ConnectionId='22' x:Name="attack"
+                               Foreground="Black"
+                               FontSize="40"
+                               RelativePanel.Below="hitPoints"
+                               Text="Attack:"
+                               Margin="20 0"/>
+                    <TextBlock x:ConnectionId='23' x:Name="defense"
+                               Foreground="Black"
+                               FontSize="40"
+                               RelativePanel.Below="attack"
+                               Text="Defense:"
+                               Margin="20 0"/>
+                    <TextBlock x:ConnectionId='24' x:Name="specialAttack"
+                               Foreground="Black"
+                               FontSize="40"
+                               RelativePanel.Below="defense"
+                               Text="Special Attack:"
+                               Margin="20 0"/>
+                    <TextBlock x:ConnectionId='25' x:Name="specialDefense"
+                               Foreground="Black"
+                               FontSize="40"
+                               RelativePanel.Below="specialAttack"
+                               Text="Special Defense:"
+                               Margin="20 0"/>
+                    <TextBlock x:ConnectionId='26' x:Name="speed"
+                               Foreground="Black"
+                               FontSize="40"
+                               RelativePanel.Below="specialDefense"
+                               Text="Speed:"
+                               Margin="20 0"/>
 
-                    <TextBlock x:ConnectionId='26' x:Name="hitPointsStat"
-                        Foreground="Gray"
-                        FontSize="40"
-                        Width="250"
-                        RelativePanel.RightOf="hitPoints"
-                        TextAlignment="Right"
-                                                                    
-                        Margin="300 20"/>
-                    <TextBlock x:ConnectionId='27' x:Name="attackStat"
-                        Foreground="Gray"
-                        FontSize="40"
-                        Width="250"
-                        RelativePanel.RightOf="attack"
-                        RelativePanel.Below="hitPointsStat"
-                        TextAlignment="Right"
-                                                                        
-                        Margin="347.2 0"/>
-                    <TextBlock x:ConnectionId='28' x:Name="defenseStat"
-                        Foreground="Gray"
-                        FontSize="40"
-                        Width="250"
-                        RelativePanel.RightOf="defense"
-                        RelativePanel.Below="attackStat"
-                        TextAlignment="Right"
-                                                                         
-                        Margin="315.6 0"/>
-                    <TextBlock x:ConnectionId='29' x:Name="specialAttackStat"
-                        Foreground="Gray"
-                        FontSize="40"
-                        Width="250"
-                        RelativePanel.RightOf="specialAttack"
-                        RelativePanel.Below="defenseStat"
-                        TextAlignment="Right"
+                    <TextBlock x:ConnectionId='27' x:Name="hitPointsStat"
+                               Foreground="Gray"
+                               FontSize="40"
+                               Width="250"
+                               TextAlignment="Right"
+                                                                           
+                               Margin="250 20 0 0"/>
+                    <TextBlock x:ConnectionId='28' x:Name="attackStat"
+                               Foreground="Gray"
+                               FontSize="40"
+                               Width="250"
+                               RelativePanel.Below="hitPointsStat"
+                               TextAlignment="Right"
                                                                                
-                        Margin="212.4 0"/>
-                    <TextBlock x:ConnectionId='30' x:Name="specialDefenseStat"
-                        Foreground="Gray"
-                        FontSize="40"
-                        Width="250"
-                        RelativePanel.RightOf="specialDefense"
-                        RelativePanel.Below="specialAttackStat"
-                        TextAlignment="Right"
+                               Margin="250 0"/>
+                    <TextBlock x:ConnectionId='29' x:Name="defenseStat"
+                               Foreground="Gray"
+                               FontSize="40"
+                               Width="250"
+                               RelativePanel.Below="attackStat"
+                               TextAlignment="Right"
                                                                                 
-                        Margin="180.8 0"/>
-                    <TextBlock x:ConnectionId='31' x:Name="speedStat"
-                        Foreground="Gray"
-                        FontSize="40"
-                        Width="250"
-                        RelativePanel.RightOf="speed"
-                        RelativePanel.Below="specialDefenseStat"
-                        TextAlignment="Right"
-                                                                       
-                        Margin="348.4 0"/>
+                               Margin="250 0"/>
+                    <TextBlock x:ConnectionId='30' x:Name="specialAttackStat"
+                               Foreground="Gray"
+                               FontSize="40"
+                               Width="250"
+                               RelativePanel.Below="defenseStat"
+                               TextAlignment="Right"
+                                                                                      
+                               Margin="250 0"/>
+                    <TextBlock x:ConnectionId='31' x:Name="specialDefenseStat"
+                               Foreground="Gray"
+                               FontSize="40"
+                               Width="250"
+                               RelativePanel.Below="specialAttackStat"
+                               TextAlignment="Right"
+                                                                                       
+                               Margin="250 0"/>
+                    <TextBlock x:ConnectionId='32' x:Name="speedStat"
+                               Foreground="Gray"
+                               FontSize="40"
+                               Width="250"
+                               RelativePanel.Below="specialDefenseStat"
+                               TextAlignment="Right"
+                                                                              
+                               Margin="250 0"/>
                 </RelativePanel>
             </RelativePanel>
         </ScrollViewer>

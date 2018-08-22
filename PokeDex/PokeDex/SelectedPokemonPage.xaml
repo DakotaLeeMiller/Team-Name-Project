@@ -8,10 +8,11 @@
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d"
-    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Width="1400">
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Width="1400" Height="3000">
     <Page.Resources>
         <conv:DexNumberToStringConverter x:Name="DexNumberConverter"/>
         <conv:TypeToTypeImageConverter x:Name="TypeConverter"/>
+        <conv:ListToAbilitiesConverter x:Name="ListToAbilitiesConverter"/>
     </Page.Resources>
 
     <Grid>
@@ -184,12 +185,12 @@
 
                 <TextBlock x:Name="abilities"
                     RelativePanel.Below="potentialAbilities"
-                    Margin="250,789,0,0"
+                    Margin="245,89,0,0"
                     Width="960"
                     Height="100"
-                    Foreground="Gray"
+                    Foreground="DeepSkyBlue"
                     FontSize="50"
-                    Text="{x:Bind SelectedPokemon.Abilities}"/>
+                    Text="{x:Bind SelectedPokemon.Abilities, Converter={StaticResource ListToAbilitiesConverter}}"/>
 
                 <Rectangle x:Name="genderRatioBox"
                     Stroke="Black"
@@ -271,7 +272,8 @@
                     </Grid.ColumnDefinitions>
                     <Rectangle Fill="White" Grid.Column="1" Grid.ColumnSpan="5"/>
 
-                    <HyperlinkButton Click="EvolveFromPokemonClick"
+                    <HyperlinkButton Name="evolveFromPokemonButton"
+                           Click="EvolveFromPokemonClick"
                            Width="230" Height="230"
                            Grid.Column="1">
                         <Image Source="{x:Bind SelectedPokemon.EvolveFrom.ImageSource}"
@@ -317,7 +319,8 @@
                                FontSize="30" TextAlignment="Center" Foreground="SlateGray"/>
                     </StackPanel>
 
-                    <HyperlinkButton Click="EvolveToPokemonClick"
+                    <HyperlinkButton Name="evolveToPokemonButton"
+                           Click="EvolveToPokemonClick"
                            Width="230" Height="230"
                            Grid.Column="5">
                         <Image Source="{x:Bind SelectedPokemon.EvolveTo.ImageSource}"
@@ -340,94 +343,88 @@
                                Width="800">
 
                     <TextBlock x:Name="hitPoints"
-                        Foreground="Black"
-                        FontSize="40"
-                        Text="HitPoints:"
-                        Margin="20 20 0 0"/>
+                               Foreground="Black"
+                               FontSize="40"
+                               Text="HitPoints:"
+                               Margin="20 20 0 0"/>
                     <TextBlock x:Name="attack"
-                        Foreground="Black"
-                        FontSize="40"
-                        RelativePanel.Below="hitPoints"
-                        Text="Attack:"
-                        Margin="20 0"/>
+                               Foreground="Black"
+                               FontSize="40"
+                               RelativePanel.Below="hitPoints"
+                               Text="Attack:"
+                               Margin="20 0"/>
                     <TextBlock x:Name="defense"
-                        Foreground="Black"
-                        FontSize="40"
-                        RelativePanel.Below="attack"
-                        Text="Defense:"
-                        Margin="20 0"/>
+                               Foreground="Black"
+                               FontSize="40"
+                               RelativePanel.Below="attack"
+                               Text="Defense:"
+                               Margin="20 0"/>
                     <TextBlock x:Name="specialAttack"
-                        Foreground="Black"
-                        FontSize="40"
-                        RelativePanel.Below="defense"
-                        Text="Special Attack:"
-                        Margin="20 0"/>
+                               Foreground="Black"
+                               FontSize="40"
+                               RelativePanel.Below="defense"
+                               Text="Special Attack:"
+                               Margin="20 0"/>
                     <TextBlock x:Name="specialDefense"
-                        Foreground="Black"
-                        FontSize="40"
-                        RelativePanel.Below="specialAttack"
-                        Text="Special Defense:"
-                        Margin="20 0"/>
+                               Foreground="Black"
+                               FontSize="40"
+                               RelativePanel.Below="specialAttack"
+                               Text="Special Defense:"
+                               Margin="20 0"/>
                     <TextBlock x:Name="speed"
-                        Foreground="Black"
-                        FontSize="40"
-                        RelativePanel.Below="specialDefense"
-                        Text="Speed:"
-                        Margin="20 0"/>
+                               Foreground="Black"
+                               FontSize="40"
+                               RelativePanel.Below="specialDefense"
+                               Text="Speed:"
+                               Margin="20 0"/>
 
                     <TextBlock x:Name="hitPointsStat"
-                        Foreground="Gray"
-                        FontSize="40"
-                        Width="250"
-                        RelativePanel.RightOf="hitPoints"
-                        TextAlignment="Right"
-                        Text="{x:Bind SelectedPokemon.BaseStats.HP}"
-                        Margin="300 20"/>
+                               Foreground="Gray"
+                               FontSize="40"
+                               Width="250"
+                               TextAlignment="Right"
+                               Text="{x:Bind SelectedPokemon.BaseStats.HP}"
+                               Margin="250 20 0 0"/>
                     <TextBlock x:Name="attackStat"
-                        Foreground="Gray"
-                        FontSize="40"
-                        Width="250"
-                        RelativePanel.RightOf="attack"
-                        RelativePanel.Below="hitPointsStat"
-                        TextAlignment="Right"
-                        Text="{x:Bind SelectedPokemon.BaseStats.Attack}"
-                        Margin="347.2 0"/>
+                               Foreground="Gray"
+                               FontSize="40"
+                               Width="250"
+                               RelativePanel.Below="hitPointsStat"
+                               TextAlignment="Right"
+                               Text="{x:Bind SelectedPokemon.BaseStats.Attack}"
+                               Margin="250 0"/>
                     <TextBlock x:Name="defenseStat"
-                        Foreground="Gray"
-                        FontSize="40"
-                        Width="250"
-                        RelativePanel.RightOf="defense"
-                        RelativePanel.Below="attackStat"
-                        TextAlignment="Right"
-                        Text="{x:Bind SelectedPokemon.BaseStats.Defense}"
-                        Margin="315.6 0"/>
+                               Foreground="Gray"
+                               FontSize="40"
+                               Width="250"
+                               RelativePanel.Below="attackStat"
+                               TextAlignment="Right"
+                               Text="{x:Bind SelectedPokemon.BaseStats.Defense}"
+                               Margin="250 0"/>
                     <TextBlock x:Name="specialAttackStat"
-                        Foreground="Gray"
-                        FontSize="40"
-                        Width="250"
-                        RelativePanel.RightOf="specialAttack"
-                        RelativePanel.Below="defenseStat"
-                        TextAlignment="Right"
-                        Text="{x:Bind SelectedPokemon.BaseStats.SpecialAttack}"
-                        Margin="212.4 0"/>
+                               Foreground="Gray"
+                               FontSize="40"
+                               Width="250"
+                               RelativePanel.Below="defenseStat"
+                               TextAlignment="Right"
+                               Text="{x:Bind SelectedPokemon.BaseStats.SpecialAttack}"
+                               Margin="250 0"/>
                     <TextBlock x:Name="specialDefenseStat"
-                        Foreground="Gray"
-                        FontSize="40"
-                        Width="250"
-                        RelativePanel.RightOf="specialDefense"
-                        RelativePanel.Below="specialAttackStat"
-                        TextAlignment="Right"
-                        Text="{x:Bind SelectedPokemon.BaseStats.SpecialDefense}"
-                        Margin="180.8 0"/>
+                               Foreground="Gray"
+                               FontSize="40"
+                               Width="250"
+                               RelativePanel.Below="specialAttackStat"
+                               TextAlignment="Right"
+                               Text="{x:Bind SelectedPokemon.BaseStats.SpecialDefense}"
+                               Margin="250 0"/>
                     <TextBlock x:Name="speedStat"
-                        Foreground="Gray"
-                        FontSize="40"
-                        Width="250"
-                        RelativePanel.RightOf="speed"
-                        RelativePanel.Below="specialDefenseStat"
-                        TextAlignment="Right"
-                        Text="{x:Bind SelectedPokemon.BaseStats.Speed}"
-                        Margin="348.4 0"/>
+                               Foreground="Gray"
+                               FontSize="40"
+                               Width="250"
+                               RelativePanel.Below="specialDefenseStat"
+                               TextAlignment="Right"
+                               Text="{x:Bind SelectedPokemon.BaseStats.Speed}"
+                               Margin="250 0"/>
                 </RelativePanel>
             </RelativePanel>
         </ScrollViewer>

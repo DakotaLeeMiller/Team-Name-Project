@@ -34,4 +34,25 @@ namespace PokeDex.Converters
             throw new NotSupportedException();
         }
     }
+
+    public class ListToAbilitiesConverter : IValueConverter
+    {
+        public object Convert(object value, Type targetType, object parameter, string language)
+        {
+            string listOfAbilities = "";
+            foreach (Ability ability in value as List<Ability>)
+            {
+                listOfAbilities += ability.ToString();
+                if (ability != (value as List<Ability>).Last())
+                    listOfAbilities += " | ";
+            }
+
+            return listOfAbilities;
+        }
+
+        public object ConvertBack(object value, Type targetType, object parameter, string language)
+        {
+            throw new NotSupportedException();
+        }
+    }
 }
