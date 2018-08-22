@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿#pragma checksum "C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\SelectedPokemonPage.xaml" "{406ea660-64cf-4c82-b6f0-42d48172a799}" "78A18A8E1AC7891833C676ECFC7AEC67"
+=======
+﻿#pragma checksum "C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\SelectedPokemonPage.xaml" "{406ea660-64cf-4c82-b6f0-42d48172a799}" "7FBAE9E4866FAE460AC4AB11FB33078B"
+>>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
 =======
 ﻿#pragma checksum "C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\SelectedPokemonPage.xaml" "{406ea660-64cf-4c82-b6f0-42d48172a799}" "7FBAE9E4866FAE460AC4AB11FB33078B"
 >>>>>>> a9481a128bbdd59b016491ed3c632f986306c681

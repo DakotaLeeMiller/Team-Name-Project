@@ -218,6 +218,7 @@ C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\obj\x86\Debug\SelectedPok
 C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\obj\x86\Debug\ChoosingPage.xbf
 C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\obj\x86\Debug\SelectedPokemonPage.xbf
 <<<<<<< HEAD
+<<<<<<< HEAD
 C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\App.xbf
 C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\ChoosingPage.xbf
 C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\SelectedPokemonPage.xbf
@@ -438,6 +439,8 @@ C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Pr
 C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x86\Debug\ProjectArchitectures.txt
 =======
+=======
+>>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
 C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\App.xbf
 C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\ChoosingPage.xbf
 C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\SelectedPokemonPage.xbf
@@ -732,4 +735,7 @@ C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex
 C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x86\Debug\FxResources.System.Threading.Thread.SR.resw
 C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x86\Debug\FxResources.System.Transactions.Local.SR.resw
 C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x86\Debug\FxResources.System.ValueTuple.SR.resw
+<<<<<<< HEAD
+>>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
+=======
 >>>>>>> a9481a128bbdd59b016491ed3c632f986306c681

@@ -2,8 +2,13 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <Machine>FAP-O-MATIC</Machine>
     <WindowsUser>Luna McClain</WindowsUser>
+=======
+    <Machine>DESKTOP-37VHRS1</Machine>
+    <WindowsUser>Jacob Mabey</WindowsUser>
+>>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
 =======
     <Machine>DESKTOP-37VHRS1</Machine>
     <WindowsUser>Jacob Mabey</WindowsUser>
@@ -16,7 +21,11 @@
     <PackageIdentityName>d106f15e-5039-45d1-9c93-2184c38d2f82</PackageIdentityName>
     <PackageIdentityPublisher>CN=Dakota L. Miller</PackageIdentityPublisher>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <IntermediateOutputPath>C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x86\Debug\</IntermediateOutputPath>
+=======
+    <IntermediateOutputPath>C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x86\Debug\</IntermediateOutputPath>
+>>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
 =======
     <IntermediateOutputPath>C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x86\Debug\</IntermediateOutputPath>
 >>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
@@ -28,8 +37,13 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <LayoutDir>C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\AppX</LayoutDir>
     <RegisteredManifestChecksum>96A8757B5615CE1E7175F28835EEACB50EEF09D6A3A4ED0FF434FBA849AE8909</RegisteredManifestChecksum>
+=======
+    <LayoutDir>C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>D76D5DEF2E1D35A11CD35E214A21D9B1F86CA24D510C7B068FE6DCCFD5D3C15B</RegisteredManifestChecksum>
+>>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
 =======
     <LayoutDir>C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\AppX</LayoutDir>
     <RegisteredManifestChecksum>D76D5DEF2E1D35A11CD35E214A21D9B1F86CA24D510C7B068FE6DCCFD5D3C15B</RegisteredManifestChecksum>
@@ -43,6 +57,7 @@
   </PropertyGroup>
   <ItemGroup>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <AppXManifest Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
@@ -53,6 +68,18 @@
     <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\PokeDex.exe">
       <PackagePath>entrypoint\PokeDex.exe</PackagePath>
       <Modified>2018-08-22T00:07:28.285</Modified>
+=======
+    <AppXManifest Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\Core\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-21T01:13:43.525</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\PokeDex.exe">
+      <PackagePath>entrypoint\PokeDex.exe</PackagePath>
+      <Modified>2018-08-21T01:13:42.770</Modified>
+>>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
 =======
     <AppXManifest Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
@@ -103,9 +130,15 @@
       <Modified>2018-07-20T16:48:00.000</Modified>
     </AppxPackagedFile>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\microsoft.visualbasic\10.0.1\lib\netcore50\Microsoft.VisualBasic.dll">
       <PackagePath>Microsoft.VisualBasic.dll</PackagePath>
       <Modified>2016-06-12T05:13:10.000</Modified>
+=======
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Collections.Specialized.dll">
+      <PackagePath>System.Collections.Specialized.dll</PackagePath>
+      <Modified>2018-07-20T16:48:00.000</Modified>
+>>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
 =======
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Collections.Specialized.dll">
       <PackagePath>System.Collections.Specialized.dll</PackagePath>
@@ -175,6 +208,7 @@
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Diagnostics.Debug.dll">
       <PackagePath>System.Diagnostics.Debug.dll</PackagePath>
       <Modified>2018-07-20T16:48:00.000</Modified>
+<<<<<<< HEAD
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Diagnostics.DiagnosticSource.dll">
       <PackagePath>System.Diagnostics.DiagnosticSource.dll</PackagePath>
@@ -188,6 +222,21 @@
       <PackagePath>System.Diagnostics.Process.dll</PackagePath>
       <Modified>2018-07-20T16:48:00.000</Modified>
     </AppxPackagedFile>
+=======
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Diagnostics.DiagnosticSource.dll">
+      <PackagePath>System.Diagnostics.DiagnosticSource.dll</PackagePath>
+      <Modified>2018-07-20T16:48:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Diagnostics.FileVersionInfo.dll">
+      <PackagePath>System.Diagnostics.FileVersionInfo.dll</PackagePath>
+      <Modified>2018-07-20T16:48:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Diagnostics.Process.dll">
+      <PackagePath>System.Diagnostics.Process.dll</PackagePath>
+      <Modified>2018-07-20T16:48:00.000</Modified>
+    </AppxPackagedFile>
+>>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Diagnostics.StackTrace.dll">
       <PackagePath>System.Diagnostics.StackTrace.dll</PackagePath>
       <Modified>2018-07-20T16:48:00.000</Modified>
@@ -220,6 +269,7 @@
       <PackagePath>System.Dynamic.Runtime.dll</PackagePath>
       <Modified>2018-07-20T16:48:00.000</Modified>
     </AppxPackagedFile>
+<<<<<<< HEAD
 <<<<<<< HEAD
     <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.collections.specialized\4.0.1\lib\netstandard1.3\System.Collections.Specialized.dll">
       <PackagePath>System.Collections.Specialized.dll</PackagePath>
@@ -290,12 +340,70 @@
       <PackagePath>System.IO.Pipes.dll</PackagePath>
       <Modified>2018-07-20T16:48:00.000</Modified>
     </AppxPackagedFile>
+=======
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Globalization.Calendars.dll">
+      <PackagePath>System.Globalization.Calendars.dll</PackagePath>
+      <Modified>2018-07-20T16:48:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Globalization.Extensions.dll">
+      <PackagePath>System.Globalization.Extensions.dll</PackagePath>
+      <Modified>2018-07-20T16:48:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Globalization.dll">
+      <PackagePath>System.Globalization.dll</PackagePath>
+      <Modified>2018-07-20T16:48:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.IO.Compression.FileSystem.dll">
+      <PackagePath>System.IO.Compression.FileSystem.dll</PackagePath>
+      <Modified>2018-07-20T16:48:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.IO.Compression.ZipFile.dll">
+      <PackagePath>System.IO.Compression.ZipFile.dll</PackagePath>
+      <Modified>2018-07-20T16:48:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.IO.Compression.dll">
+      <PackagePath>System.IO.Compression.dll</PackagePath>
+      <Modified>2018-07-20T16:48:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.IO.FileSystem.DriveInfo.dll">
+      <PackagePath>System.IO.FileSystem.DriveInfo.dll</PackagePath>
+      <Modified>2018-07-20T16:48:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.IO.FileSystem.Primitives.dll">
+      <PackagePath>System.IO.FileSystem.Primitives.dll</PackagePath>
+      <Modified>2018-07-20T16:48:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.IO.FileSystem.Watcher.dll">
+      <PackagePath>System.IO.FileSystem.Watcher.dll</PackagePath>
+      <Modified>2018-07-20T16:48:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.IO.FileSystem.dll">
+      <PackagePath>System.IO.FileSystem.dll</PackagePath>
+      <Modified>2018-07-20T16:48:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.IO.IsolatedStorage.dll">
+      <PackagePath>System.IO.IsolatedStorage.dll</PackagePath>
+      <Modified>2018-07-20T16:48:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.IO.MemoryMappedFiles.dll">
+      <PackagePath>System.IO.MemoryMappedFiles.dll</PackagePath>
+      <Modified>2018-07-20T16:48:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.IO.Pipes.dll">
+      <PackagePath>System.IO.Pipes.dll</PackagePath>
+      <Modified>2018-07-20T16:48:00.000</Modified>
+    </AppxPackagedFile>
+>>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.IO.Ports.dll">
       <PackagePath>System.IO.Ports.dll</PackagePath>
       <Modified>2018-07-20T16:48:00.000</Modified>
     </AppxPackagedFile>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.io.unmanagedmemorystream\4.0.1\lib\netstandard1.3\System.IO.UnmanagedMemoryStream.dll">
+=======
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.IO.UnmanagedMemoryStream.dll">
+>>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
 =======
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.IO.UnmanagedMemoryStream.dll">
 >>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
@@ -329,6 +437,7 @@
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Net.Http.dll">
       <PackagePath>System.Net.Http.dll</PackagePath>
       <Modified>2018-07-20T16:48:00.000</Modified>
+<<<<<<< HEAD
     </AppxPackagedFile>
 <<<<<<< HEAD
     <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.net.nameresolution\4.0.0\runtimes\win\lib\netcore50\System.Net.NameResolution.dll">
@@ -337,11 +446,21 @@
       <PackagePath>System.Net.HttpListener.dll</PackagePath>
       <Modified>2018-07-20T16:48:00.000</Modified>
     </AppxPackagedFile>
+=======
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Net.HttpListener.dll">
+      <PackagePath>System.Net.HttpListener.dll</PackagePath>
+      <Modified>2018-07-20T16:48:00.000</Modified>
+    </AppxPackagedFile>
+>>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Net.Mail.dll">
       <PackagePath>System.Net.Mail.dll</PackagePath>
       <Modified>2018-07-20T16:48:00.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Net.NameResolution.dll">
+<<<<<<< HEAD
+>>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
+=======
 >>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
       <PackagePath>System.Net.NameResolution.dll</PackagePath>
       <Modified>2018-07-20T16:48:00.000</Modified>
@@ -349,6 +468,7 @@
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Net.NetworkInformation.dll">
       <PackagePath>System.Net.NetworkInformation.dll</PackagePath>
       <Modified>2018-07-20T16:48:00.000</Modified>
+<<<<<<< HEAD
     </AppxPackagedFile>
 <<<<<<< HEAD
     <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.net.requests\4.0.11\runtimes\win\lib\netstandard1.3\System.Net.Requests.dll">
@@ -357,11 +477,21 @@
       <PackagePath>System.Net.Ping.dll</PackagePath>
       <Modified>2018-07-20T16:48:00.000</Modified>
     </AppxPackagedFile>
+=======
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Net.Ping.dll">
+      <PackagePath>System.Net.Ping.dll</PackagePath>
+      <Modified>2018-07-20T16:48:00.000</Modified>
+    </AppxPackagedFile>
+>>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Net.Primitives.dll">
       <PackagePath>System.Net.Primitives.dll</PackagePath>
       <Modified>2018-07-20T16:48:00.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Net.Requests.dll">
+<<<<<<< HEAD
+>>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
+=======
 >>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
       <PackagePath>System.Net.Requests.dll</PackagePath>
       <Modified>2018-07-20T16:48:00.000</Modified>
@@ -369,6 +499,7 @@
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Net.Security.dll">
       <PackagePath>System.Net.Security.dll</PackagePath>
       <Modified>2018-07-20T16:48:00.000</Modified>
+<<<<<<< HEAD
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Net.ServicePoint.dll">
       <PackagePath>System.Net.ServicePoint.dll</PackagePath>
@@ -377,6 +508,13 @@
 <<<<<<< HEAD
     <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.net.webheadercollection\4.0.1\lib\netstandard1.3\System.Net.WebHeaderCollection.dll">
 =======
+=======
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Net.ServicePoint.dll">
+      <PackagePath>System.Net.ServicePoint.dll</PackagePath>
+      <Modified>2018-07-20T16:48:00.000</Modified>
+    </AppxPackagedFile>
+>>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Net.Sockets.dll">
       <PackagePath>System.Net.Sockets.dll</PackagePath>
       <Modified>2018-07-20T16:48:00.000</Modified>
@@ -386,6 +524,9 @@
       <Modified>2018-07-20T16:48:00.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Net.WebHeaderCollection.dll">
+<<<<<<< HEAD
+>>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
+=======
 >>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
       <PackagePath>System.Net.WebHeaderCollection.dll</PackagePath>
       <Modified>2018-07-20T16:48:00.000</Modified>
@@ -399,9 +540,15 @@
       <Modified>2018-07-20T16:48:00.000</Modified>
     </AppxPackagedFile>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.numerics.vectors\4.1.1\lib\portable-net45+win8+wp8+wpa81\System.Numerics.Vectors.dll">
       <PackagePath>System.Numerics.Vectors.dll</PackagePath>
       <Modified>2016-06-12T05:14:10.000</Modified>
+=======
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Net.WebSockets.dll">
+      <PackagePath>System.Net.WebSockets.dll</PackagePath>
+      <Modified>2018-07-20T16:48:00.000</Modified>
+>>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
 =======
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Net.WebSockets.dll">
       <PackagePath>System.Net.WebSockets.dll</PackagePath>
@@ -419,11 +566,19 @@
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Numerics.Vectors.dll">
       <PackagePath>System.Numerics.Vectors.dll</PackagePath>
       <Modified>2018-07-20T16:48:00.000</Modified>
+<<<<<<< HEAD
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Numerics.dll">
       <PackagePath>System.Numerics.dll</PackagePath>
       <Modified>2018-07-20T16:48:00.000</Modified>
     </AppxPackagedFile>
+=======
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Numerics.dll">
+      <PackagePath>System.Numerics.dll</PackagePath>
+      <Modified>2018-07-20T16:48:00.000</Modified>
+    </AppxPackagedFile>
+>>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.ObjectModel.dll">
       <PackagePath>System.ObjectModel.dll</PackagePath>
       <Modified>2018-07-20T16:48:00.000</Modified>
@@ -435,6 +590,7 @@
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Private.ServiceModel.dll">
       <PackagePath>System.Private.ServiceModel.dll</PackagePath>
       <Modified>2018-07-20T16:48:02.000</Modified>
+<<<<<<< HEAD
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Private.Uri.dll">
       <PackagePath>System.Private.Uri.dll</PackagePath>
@@ -444,6 +600,17 @@
       <PackagePath>System.Private.Xml.Linq.dll</PackagePath>
       <Modified>2018-07-20T16:48:00.000</Modified>
     </AppxPackagedFile>
+=======
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Private.Uri.dll">
+      <PackagePath>System.Private.Uri.dll</PackagePath>
+      <Modified>2018-07-20T16:48:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Private.Xml.Linq.dll">
+      <PackagePath>System.Private.Xml.Linq.dll</PackagePath>
+      <Modified>2018-07-20T16:48:00.000</Modified>
+    </AppxPackagedFile>
+>>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Private.Xml.dll">
       <PackagePath>System.Private.Xml.dll</PackagePath>
       <Modified>2018-07-20T16:48:00.000</Modified>
@@ -453,7 +620,11 @@
       <Modified>2018-07-20T16:48:00.000</Modified>
     </AppxPackagedFile>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.reflection.dispatchproxy\4.0.1\lib\netstandard1.3\System.Reflection.DispatchProxy.dll">
+=======
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Reflection.DispatchProxy.dll">
+>>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
 =======
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Reflection.DispatchProxy.dll">
 >>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
@@ -479,11 +650,19 @@
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Reflection.Metadata.dll">
       <PackagePath>System.Reflection.Metadata.dll</PackagePath>
       <Modified>2018-07-20T16:48:00.000</Modified>
+<<<<<<< HEAD
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Reflection.Primitives.dll">
       <PackagePath>System.Reflection.Primitives.dll</PackagePath>
       <Modified>2018-07-20T16:48:00.000</Modified>
     </AppxPackagedFile>
+=======
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Reflection.Primitives.dll">
+      <PackagePath>System.Reflection.Primitives.dll</PackagePath>
+      <Modified>2018-07-20T16:48:00.000</Modified>
+    </AppxPackagedFile>
+>>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Reflection.TypeExtensions.dll">
       <PackagePath>System.Reflection.TypeExtensions.dll</PackagePath>
       <Modified>2018-07-20T16:48:00.000</Modified>
@@ -507,6 +686,7 @@
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.CompilerServices.VisualC.dll">
       <PackagePath>System.Runtime.CompilerServices.VisualC.dll</PackagePath>
       <Modified>2018-07-20T16:48:00.000</Modified>
+<<<<<<< HEAD
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.Extensions.dll">
       <PackagePath>System.Runtime.Extensions.dll</PackagePath>
@@ -516,6 +696,17 @@
       <PackagePath>System.Runtime.Handles.dll</PackagePath>
       <Modified>2018-07-20T16:48:00.000</Modified>
     </AppxPackagedFile>
+=======
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.Extensions.dll">
+      <PackagePath>System.Runtime.Extensions.dll</PackagePath>
+      <Modified>2018-07-20T16:48:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.Handles.dll">
+      <PackagePath>System.Runtime.Handles.dll</PackagePath>
+      <Modified>2018-07-20T16:48:00.000</Modified>
+    </AppxPackagedFile>
+>>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.InteropServices.RuntimeInformation.dll">
       <PackagePath>System.Runtime.InteropServices.RuntimeInformation.dll</PackagePath>
       <Modified>2018-07-20T16:48:00.000</Modified>
@@ -561,8 +752,11 @@
       <Modified>2018-07-20T16:48:00.000</Modified>
     </AppxPackagedFile>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.security.claims\4.0.1\lib\netstandard1.3\System.Security.Claims.dll">
 =======
+=======
+>>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
       <Modified>2018-07-20T16:48:00.000</Modified>
@@ -572,6 +766,9 @@
       <Modified>2018-07-20T16:48:00.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Security.Claims.dll">
+<<<<<<< HEAD
+>>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
+=======
 >>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
       <PackagePath>System.Security.Claims.dll</PackagePath>
       <Modified>2018-07-20T16:48:00.000</Modified>
@@ -599,6 +796,7 @@
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Security.Cryptography.X509Certificates.dll">
       <PackagePath>System.Security.Cryptography.X509Certificates.dll</PackagePath>
       <Modified>2018-07-20T16:48:00.000</Modified>
+<<<<<<< HEAD
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Security.Principal.Windows.dll">
       <PackagePath>System.Security.Principal.Windows.dll</PackagePath>
@@ -616,6 +814,25 @@
       <PackagePath>System.Security.dll</PackagePath>
       <Modified>2018-07-20T16:48:00.000</Modified>
     </AppxPackagedFile>
+=======
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Security.Principal.Windows.dll">
+      <PackagePath>System.Security.Principal.Windows.dll</PackagePath>
+      <Modified>2018-07-20T16:48:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Security.Principal.dll">
+      <PackagePath>System.Security.Principal.dll</PackagePath>
+      <Modified>2018-07-20T16:48:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Security.SecureString.dll">
+      <PackagePath>System.Security.SecureString.dll</PackagePath>
+      <Modified>2018-07-20T16:48:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Security.dll">
+      <PackagePath>System.Security.dll</PackagePath>
+      <Modified>2018-07-20T16:48:00.000</Modified>
+    </AppxPackagedFile>
+>>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.ServiceModel.Duplex.dll">
       <PackagePath>System.ServiceModel.Duplex.dll</PackagePath>
       <Modified>2018-07-20T16:48:02.000</Modified>
@@ -635,6 +852,7 @@
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.ServiceModel.Security.dll">
       <PackagePath>System.ServiceModel.Security.dll</PackagePath>
       <Modified>2018-07-20T16:48:02.000</Modified>
+<<<<<<< HEAD
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.ServiceModel.Web.dll">
       <PackagePath>System.ServiceModel.Web.dll</PackagePath>
@@ -648,6 +866,21 @@
       <PackagePath>System.ServiceProcess.dll</PackagePath>
       <Modified>2018-07-20T16:48:00.000</Modified>
     </AppxPackagedFile>
+=======
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.ServiceModel.Web.dll">
+      <PackagePath>System.ServiceModel.Web.dll</PackagePath>
+      <Modified>2018-07-20T16:48:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.ServiceModel.dll">
+      <PackagePath>System.ServiceModel.dll</PackagePath>
+      <Modified>2018-07-20T16:48:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.ServiceProcess.dll">
+      <PackagePath>System.ServiceProcess.dll</PackagePath>
+      <Modified>2018-07-20T16:48:00.000</Modified>
+    </AppxPackagedFile>
+>>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Text.Encoding.CodePages.dll">
       <PackagePath>System.Text.Encoding.CodePages.dll</PackagePath>
       <Modified>2018-07-20T16:48:00.000</Modified>
@@ -677,7 +910,11 @@
       <Modified>2018-07-20T16:48:02.000</Modified>
     </AppxPackagedFile>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.threading.tasks.parallel\4.0.1\lib\netcore50\System.Threading.Tasks.Parallel.dll">
+=======
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Threading.Tasks.Parallel.dll">
+>>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
 =======
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Threading.Tasks.Parallel.dll">
 >>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
@@ -691,6 +928,7 @@
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Threading.Thread.dll">
       <PackagePath>System.Threading.Thread.dll</PackagePath>
       <Modified>2018-07-20T16:48:02.000</Modified>
+<<<<<<< HEAD
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Threading.ThreadPool.dll">
       <PackagePath>System.Threading.ThreadPool.dll</PackagePath>
@@ -716,6 +954,33 @@
       <PackagePath>System.ValueTuple.dll</PackagePath>
       <Modified>2018-07-20T16:48:02.000</Modified>
     </AppxPackagedFile>
+=======
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Threading.ThreadPool.dll">
+      <PackagePath>System.Threading.ThreadPool.dll</PackagePath>
+      <Modified>2018-07-20T16:48:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Threading.Timer.dll">
+      <PackagePath>System.Threading.Timer.dll</PackagePath>
+      <Modified>2018-07-20T16:48:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Threading.dll">
+      <PackagePath>System.Threading.dll</PackagePath>
+      <Modified>2018-07-20T16:48:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Transactions.Local.dll">
+      <PackagePath>System.Transactions.Local.dll</PackagePath>
+      <Modified>2018-07-20T16:48:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Transactions.dll">
+      <PackagePath>System.Transactions.dll</PackagePath>
+      <Modified>2018-07-20T16:48:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.ValueTuple.dll">
+      <PackagePath>System.ValueTuple.dll</PackagePath>
+      <Modified>2018-07-20T16:48:02.000</Modified>
+    </AppxPackagedFile>
+>>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Web.HttpUtility.dll">
       <PackagePath>System.Web.HttpUtility.dll</PackagePath>
       <Modified>2018-07-20T16:48:02.000</Modified>
@@ -747,11 +1012,19 @@
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Xml.XPath.XDocument.dll">
       <PackagePath>System.Xml.XPath.XDocument.dll</PackagePath>
       <Modified>2018-07-20T16:48:02.000</Modified>
+<<<<<<< HEAD
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Xml.XPath.dll">
       <PackagePath>System.Xml.XPath.dll</PackagePath>
       <Modified>2018-07-20T16:48:02.000</Modified>
     </AppxPackagedFile>
+=======
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Xml.XPath.dll">
+      <PackagePath>System.Xml.XPath.dll</PackagePath>
+      <Modified>2018-07-20T16:48:02.000</Modified>
+    </AppxPackagedFile>
+>>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Xml.XmlDocument.dll">
       <PackagePath>System.Xml.XmlDocument.dll</PackagePath>
       <Modified>2018-07-20T16:48:02.000</Modified>
@@ -759,6 +1032,7 @@
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Xml.XmlSerializer.dll">
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
       <Modified>2018-07-20T16:48:02.000</Modified>
+<<<<<<< HEAD
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Xml.dll">
       <PackagePath>System.Xml.dll</PackagePath>
@@ -2253,11 +2527,772 @@
       <PackagePath>SelectedPokemonPage.xbf</PackagePath>
       <Modified>2018-08-21T01:13:42.314</Modified>
 >>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
+=======
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Xml.dll">
+      <PackagePath>System.Xml.dll</PackagePath>
+      <Modified>2018-07-20T16:48:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.dll">
+      <PackagePath>System.dll</PackagePath>
+      <Modified>2018-07-20T16:48:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\WindowsBase.dll">
+      <PackagePath>WindowsBase.dll</PackagePath>
+      <Modified>2018-07-20T16:48:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\mscorlib.dll">
+      <PackagePath>mscorlib.dll</PackagePath>
+      <Modified>2018-07-20T16:48:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\netstandard.dll">
+      <PackagePath>netstandard.dll</PackagePath>
+      <Modified>2018-07-20T16:48:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\Pokedata.dll">
+      <PackagePath>Pokedata.dll</PackagePath>
+      <Modified>2018-08-18T07:06:22.689</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\000.png">
+      <PackagePath>Assets\Gen I Pics\000.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.683</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\001.png">
+      <PackagePath>Assets\Gen I Pics\001.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.691</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Types\Bug.png">
+      <PackagePath>Assets\Types\Bug.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.189</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Types\Dragon.png">
+      <PackagePath>Assets\Types\Dragon.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.189</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Types\Electric.png">
+      <PackagePath>Assets\Types\Electric.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.190</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Types\Fighting.png">
+      <PackagePath>Assets\Types\Fighting.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.191</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Types\Fire.png">
+      <PackagePath>Assets\Types\Fire.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.191</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Types\Flying.png">
+      <PackagePath>Assets\Types\Flying.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.192</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\000MissingNo.png">
+      <PackagePath>Assets\Gen I Pics\000MissingNo.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.685</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\001Bulbasaur.png">
+      <PackagePath>Assets\Gen I Pics\001Bulbasaur.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.697</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\002Ivysaur.png">
+      <PackagePath>Assets\Gen I Pics\002Ivysaur.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.699</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\003Venusaur.png">
+      <PackagePath>Assets\Gen I Pics\003Venusaur.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.707</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\004Charmander.png">
+      <PackagePath>Assets\Gen I Pics\004Charmander.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.712</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\005Charmeleon.png">
+      <PackagePath>Assets\Gen I Pics\005Charmeleon.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.714</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\006Charizard.png">
+      <PackagePath>Assets\Gen I Pics\006Charizard.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.720</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\007Squirtle.png">
+      <PackagePath>Assets\Gen I Pics\007Squirtle.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.724</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\008Wartortle.png">
+      <PackagePath>Assets\Gen I Pics\008Wartortle.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.726</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\009Blastoise.png">
+      <PackagePath>Assets\Gen I Pics\009Blastoise.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.737</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\010Caterpie.png">
+      <PackagePath>Assets\Gen I Pics\010Caterpie.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.739</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\011Metapod.png">
+      <PackagePath>Assets\Gen I Pics\011Metapod.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.740</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\012Butterfree.png">
+      <PackagePath>Assets\Gen I Pics\012Butterfree.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.752</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\013Weedle.png">
+      <PackagePath>Assets\Gen I Pics\013Weedle.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.754</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\014Kakuna.png">
+      <PackagePath>Assets\Gen I Pics\014Kakuna.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.758</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\015Beedrill.png">
+      <PackagePath>Assets\Gen I Pics\015Beedrill.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.767</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\016Pidgey.png">
+      <PackagePath>Assets\Gen I Pics\016Pidgey.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.770</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\017Pidgeotto.png">
+      <PackagePath>Assets\Gen I Pics\017Pidgeotto.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.781</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\018Pidgeot.png">
+      <PackagePath>Assets\Gen I Pics\018Pidgeot.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.791</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\019Rattata.png">
+      <PackagePath>Assets\Gen I Pics\019Rattata.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.794</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\020Raticate.png">
+      <PackagePath>Assets\Gen I Pics\020Raticate.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.799</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\021Spearow.png">
+      <PackagePath>Assets\Gen I Pics\021Spearow.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.801</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\022Fearow.png">
+      <PackagePath>Assets\Gen I Pics\022Fearow.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.802</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\023Ekans.png">
+      <PackagePath>Assets\Gen I Pics\023Ekans.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.804</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\024Arbok.png">
+      <PackagePath>Assets\Gen I Pics\024Arbok.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.805</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\025Pikachu.png">
+      <PackagePath>Assets\Gen I Pics\025Pikachu.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.812</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\026Raichu.png">
+      <PackagePath>Assets\Gen I Pics\026Raichu.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.816</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\027Sandshrew.png">
+      <PackagePath>Assets\Gen I Pics\027Sandshrew.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.823</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\028Sandslash.png">
+      <PackagePath>Assets\Gen I Pics\028Sandslash.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.831</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\029NidoranF.png">
+      <PackagePath>Assets\Gen I Pics\029NidoranF.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.833</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\030Nidorina.png">
+      <PackagePath>Assets\Gen I Pics\030Nidorina.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.834</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\031Nidoqueen.png">
+      <PackagePath>Assets\Gen I Pics\031Nidoqueen.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.836</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\032NidoranM.png">
+      <PackagePath>Assets\Gen I Pics\032NidoranM.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.838</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\033Nidorino.png">
+      <PackagePath>Assets\Gen I Pics\033Nidorino.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.839</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\034Nidoking.png">
+      <PackagePath>Assets\Gen I Pics\034Nidoking.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.840</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\035Clefairy.png">
+      <PackagePath>Assets\Gen I Pics\035Clefairy.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.842</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\036Clefable.png">
+      <PackagePath>Assets\Gen I Pics\036Clefable.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.844</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\037Vulpix.png">
+      <PackagePath>Assets\Gen I Pics\037Vulpix.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.850</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\038Ninetales.png">
+      <PackagePath>Assets\Gen I Pics\038Ninetales.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.859</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\039Jigglypuff.png">
+      <PackagePath>Assets\Gen I Pics\039Jigglypuff.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.864</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\040Wigglytuff.png">
+      <PackagePath>Assets\Gen I Pics\040Wigglytuff.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.865</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\041Zubat.png">
+      <PackagePath>Assets\Gen I Pics\041Zubat.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.866</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\042Golbat.png">
+      <PackagePath>Assets\Gen I Pics\042Golbat.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.867</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\043Oddish.png">
+      <PackagePath>Assets\Gen I Pics\043Oddish.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.869</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\044Gloom.png">
+      <PackagePath>Assets\Gen I Pics\044Gloom.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.871</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\045Vileplume.png">
+      <PackagePath>Assets\Gen I Pics\045Vileplume.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.872</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\046Paras.png">
+      <PackagePath>Assets\Gen I Pics\046Paras.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.874</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\047Parasect.png">
+      <PackagePath>Assets\Gen I Pics\047Parasect.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.875</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\048Venonat.png">
+      <PackagePath>Assets\Gen I Pics\048Venonat.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.877</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\049Venomoth.png">
+      <PackagePath>Assets\Gen I Pics\049Venomoth.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.877</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\050Diglett.png">
+      <PackagePath>Assets\Gen I Pics\050Diglett.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.882</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\051Dugtrio.png">
+      <PackagePath>Assets\Gen I Pics\051Dugtrio.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.885</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\052Meowth.png">
+      <PackagePath>Assets\Gen I Pics\052Meowth.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.890</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\053Persian.png">
+      <PackagePath>Assets\Gen I Pics\053Persian.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.891</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\054Psyduck.png">
+      <PackagePath>Assets\Gen I Pics\054Psyduck.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.900</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\055Golduck.png">
+      <PackagePath>Assets\Gen I Pics\055Golduck.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.907</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\056Mankey.png">
+      <PackagePath>Assets\Gen I Pics\056Mankey.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.909</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\057Primeape.png">
+      <PackagePath>Assets\Gen I Pics\057Primeape.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.910</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\058Growlithe.png">
+      <PackagePath>Assets\Gen I Pics\058Growlithe.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.920</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\059Arcanine.png">
+      <PackagePath>Assets\Gen I Pics\059Arcanine.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.926</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\060Poliwag.png">
+      <PackagePath>Assets\Gen I Pics\060Poliwag.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.928</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\061Poliwhirl.png">
+      <PackagePath>Assets\Gen I Pics\061Poliwhirl.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.930</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\062Poliwrath.png">
+      <PackagePath>Assets\Gen I Pics\062Poliwrath.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.931</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\063Abra.png">
+      <PackagePath>Assets\Gen I Pics\063Abra.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.932</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\064Kadabra.png">
+      <PackagePath>Assets\Gen I Pics\064Kadabra.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.934</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\065Alakazam.png">
+      <PackagePath>Assets\Gen I Pics\065Alakazam.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.935</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\066Machop.png">
+      <PackagePath>Assets\Gen I Pics\066Machop.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.937</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\067Machoke.png">
+      <PackagePath>Assets\Gen I Pics\067Machoke.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.938</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\068Machamp.png">
+      <PackagePath>Assets\Gen I Pics\068Machamp.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.940</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\069Bellsprout.png">
+      <PackagePath>Assets\Gen I Pics\069Bellsprout.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.941</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\070Weepinbell.png">
+      <PackagePath>Assets\Gen I Pics\070Weepinbell.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.943</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\071Victreebel.png">
+      <PackagePath>Assets\Gen I Pics\071Victreebel.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.944</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\072Tentacool.png">
+      <PackagePath>Assets\Gen I Pics\072Tentacool.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.945</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\073Tentacruel.png">
+      <PackagePath>Assets\Gen I Pics\073Tentacruel.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.947</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\074Geodude.png">
+      <PackagePath>Assets\Gen I Pics\074Geodude.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.948</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\075Graveler.png">
+      <PackagePath>Assets\Gen I Pics\075Graveler.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.950</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\076Golem.png">
+      <PackagePath>Assets\Gen I Pics\076Golem.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.951</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\077Ponyta.png">
+      <PackagePath>Assets\Gen I Pics\077Ponyta.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.953</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\078Rapidash.png">
+      <PackagePath>Assets\Gen I Pics\078Rapidash.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.954</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\079Slowpoke.png">
+      <PackagePath>Assets\Gen I Pics\079Slowpoke.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.956</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\080Slowbro.png">
+      <PackagePath>Assets\Gen I Pics\080Slowbro.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.957</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\081Magnemite.png">
+      <PackagePath>Assets\Gen I Pics\081Magnemite.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.958</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\082Magneton.png">
+      <PackagePath>Assets\Gen I Pics\082Magneton.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.960</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\083Farfetch%27d.png">
+      <PackagePath>Assets\Gen I Pics\083Farfetch%27d.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.962</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\084Doduo.png">
+      <PackagePath>Assets\Gen I Pics\084Doduo.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.963</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\085Dodrio.png">
+      <PackagePath>Assets\Gen I Pics\085Dodrio.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.965</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\086Seel.png">
+      <PackagePath>Assets\Gen I Pics\086Seel.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.966</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\087Dewgong.png">
+      <PackagePath>Assets\Gen I Pics\087Dewgong.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.967</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\088Grimer.png">
+      <PackagePath>Assets\Gen I Pics\088Grimer.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.969</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\089Muk.png">
+      <PackagePath>Assets\Gen I Pics\089Muk.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.970</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\090Shellder.png">
+      <PackagePath>Assets\Gen I Pics\090Shellder.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.972</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\091Cloyster.png">
+      <PackagePath>Assets\Gen I Pics\091Cloyster.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.983</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\092Gastly.png">
+      <PackagePath>Assets\Gen I Pics\092Gastly.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.984</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\093Haunter.png">
+      <PackagePath>Assets\Gen I Pics\093Haunter.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.985</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\094Gengar.png">
+      <PackagePath>Assets\Gen I Pics\094Gengar.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.987</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\095Onix.png">
+      <PackagePath>Assets\Gen I Pics\095Onix.png</PackagePath>
+      <Modified>2018-08-18T01:24:43.999</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\096Drowzee.png">
+      <PackagePath>Assets\Gen I Pics\096Drowzee.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.001</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\097Hypno.png">
+      <PackagePath>Assets\Gen I Pics\097Hypno.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.002</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\098Krabby.png">
+      <PackagePath>Assets\Gen I Pics\098Krabby.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.004</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\099Kingler.png">
+      <PackagePath>Assets\Gen I Pics\099Kingler.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.005</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\100Voltorb.png">
+      <PackagePath>Assets\Gen I Pics\100Voltorb.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.006</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\101Electrode.png">
+      <PackagePath>Assets\Gen I Pics\101Electrode.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.008</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\102Exeggcute.png">
+      <PackagePath>Assets\Gen I Pics\102Exeggcute.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.010</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\103Exeggutor.png">
+      <PackagePath>Assets\Gen I Pics\103Exeggutor.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.019</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\104Cubone.png">
+      <PackagePath>Assets\Gen I Pics\104Cubone.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.021</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\105Marowak.png">
+      <PackagePath>Assets\Gen I Pics\105Marowak.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.025</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\106Hitmonlee.png">
+      <PackagePath>Assets\Gen I Pics\106Hitmonlee.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.027</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\107Hitmonchan.png">
+      <PackagePath>Assets\Gen I Pics\107Hitmonchan.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.028</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\108Lickitung.png">
+      <PackagePath>Assets\Gen I Pics\108Lickitung.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.030</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\109Koffing.png">
+      <PackagePath>Assets\Gen I Pics\109Koffing.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.031</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\110Weezing.png">
+      <PackagePath>Assets\Gen I Pics\110Weezing.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.033</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\111Rhyhorn.png">
+      <PackagePath>Assets\Gen I Pics\111Rhyhorn.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.035</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\112Rhydon.png">
+      <PackagePath>Assets\Gen I Pics\112Rhydon.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.037</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\113Chansey.png">
+      <PackagePath>Assets\Gen I Pics\113Chansey.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.038</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\114Tangela.png">
+      <PackagePath>Assets\Gen I Pics\114Tangela.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.040</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\115Kangaskhan.png">
+      <PackagePath>Assets\Gen I Pics\115Kangaskhan.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.041</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\116Horsea.png">
+      <PackagePath>Assets\Gen I Pics\116Horsea.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.043</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\117Seadra.png">
+      <PackagePath>Assets\Gen I Pics\117Seadra.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.044</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\118Goldeen.png">
+      <PackagePath>Assets\Gen I Pics\118Goldeen.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.046</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\119Seaking.png">
+      <PackagePath>Assets\Gen I Pics\119Seaking.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.047</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\120Staryu.png">
+      <PackagePath>Assets\Gen I Pics\120Staryu.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.048</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\121Starmie.png">
+      <PackagePath>Assets\Gen I Pics\121Starmie.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.050</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\122Mr._Mime.png">
+      <PackagePath>Assets\Gen I Pics\122Mr._Mime.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.052</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\123Scyther.png">
+      <PackagePath>Assets\Gen I Pics\123Scyther.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.053</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\124Jynx.png">
+      <PackagePath>Assets\Gen I Pics\124Jynx.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.054</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\125Electabuzz.png">
+      <PackagePath>Assets\Gen I Pics\125Electabuzz.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.063</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\126Magmar.png">
+      <PackagePath>Assets\Gen I Pics\126Magmar.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.070</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\127Pinsir.png">
+      <PackagePath>Assets\Gen I Pics\127Pinsir.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.078</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\128Tauros.png">
+      <PackagePath>Assets\Gen I Pics\128Tauros.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.079</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\129Magikarp.png">
+      <PackagePath>Assets\Gen I Pics\129Magikarp.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.081</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\130Gyarados.png">
+      <PackagePath>Assets\Gen I Pics\130Gyarados.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.082</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\131Lapras.png">
+      <PackagePath>Assets\Gen I Pics\131Lapras.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.090</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\132Ditto.png">
+      <PackagePath>Assets\Gen I Pics\132Ditto.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.091</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\133Eevee.png">
+      <PackagePath>Assets\Gen I Pics\133Eevee.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.099</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\134Vaporeon.png">
+      <PackagePath>Assets\Gen I Pics\134Vaporeon.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.108</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\135Jolteon.png">
+      <PackagePath>Assets\Gen I Pics\135Jolteon.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.117</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\136Flareon.png">
+      <PackagePath>Assets\Gen I Pics\136Flareon.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.127</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\137Porygon.png">
+      <PackagePath>Assets\Gen I Pics\137Porygon.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.129</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\138Omanyte.png">
+      <PackagePath>Assets\Gen I Pics\138Omanyte.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.130</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\139Omastar.png">
+      <PackagePath>Assets\Gen I Pics\139Omastar.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.132</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\140Kabuto.png">
+      <PackagePath>Assets\Gen I Pics\140Kabuto.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.133</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\141Kabutops.png">
+      <PackagePath>Assets\Gen I Pics\141Kabutops.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.134</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\142Aerodactyl.png">
+      <PackagePath>Assets\Gen I Pics\142Aerodactyl.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.135</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\143Snorlax.png">
+      <PackagePath>Assets\Gen I Pics\143Snorlax.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.142</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\144Articuno.png">
+      <PackagePath>Assets\Gen I Pics\144Articuno.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.152</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\145Zapdos.png">
+      <PackagePath>Assets\Gen I Pics\145Zapdos.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.159</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\146Moltres.png">
+      <PackagePath>Assets\Gen I Pics\146Moltres.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.164</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\147Dratini.png">
+      <PackagePath>Assets\Gen I Pics\147Dratini.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.165</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\148Dragonair.png">
+      <PackagePath>Assets\Gen I Pics\148Dragonair.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.166</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\149Dragonite.png">
+      <PackagePath>Assets\Gen I Pics\149Dragonite.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.168</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\150Mewtwo.png">
+      <PackagePath>Assets\Gen I Pics\150Mewtwo.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.177</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\151Mew.png">
+      <PackagePath>Assets\Gen I Pics\151Mew.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.184</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Types\Ghost.png">
+      <PackagePath>Assets\Types\Ghost.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.193</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Types\Grass.png">
+      <PackagePath>Assets\Types\Grass.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.193</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Types\Ground.png">
+      <PackagePath>Assets\Types\Ground.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.194</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Types\Ice.png">
+      <PackagePath>Assets\Types\Ice.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.194</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Types\Normal.png">
+      <PackagePath>Assets\Types\Normal.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.195</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Types\Poison.png">
+      <PackagePath>Assets\Types\Poison.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.196</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Types\Psychic.png">
+      <PackagePath>Assets\Types\Psychic.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.196</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Types\Rock.png">
+      <PackagePath>Assets\Types\Rock.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.197</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Types\Unknown.png">
+      <PackagePath>Assets\Types\Unknown.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.197</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Types\Water.png">
+      <PackagePath>Assets\Types\Water.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.199</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2018-08-18T01:24:44.184</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-18T01:24:44.186</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-18T01:24:44.186</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-18T01:24:44.186</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-18T01:24:44.187</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-18T01:24:44.188</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-18T01:24:44.199</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+      <Modified>2018-08-18T01:24:44.204</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\PokeDex.xr.xml">
+      <PackagePath>PokeDex.xr.xml</PackagePath>
+      <Modified>2018-08-21T01:13:42.264</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2018-08-21T01:13:42.312</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\ChoosingPage.xbf">
+      <PackagePath>ChoosingPage.xbf</PackagePath>
+      <Modified>2018-08-21T01:13:42.313</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\SelectedPokemonPage.xbf">
+      <PackagePath>SelectedPokemonPage.xbf</PackagePath>
+      <Modified>2018-08-21T01:13:42.314</Modified>
+>>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17134.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2018-04-20T04:01:52.000</Modified>
     </AppxPackagedFile>
+<<<<<<< HEAD
 <<<<<<< HEAD
     <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
@@ -2267,6 +3302,16 @@
     <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\Core\PokeDex.exe">
       <PackagePath>PokeDex.exe</PackagePath>
       <Modified>2018-08-22T00:07:30.576</Modified>
+=======
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-18T06:51:47.079</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\Core\PokeDex.exe">
+      <PackagePath>PokeDex.exe</PackagePath>
+      <Modified>2018-08-21T01:13:43.516</Modified>
+>>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
 =======
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
