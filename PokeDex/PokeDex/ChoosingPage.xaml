@@ -1,8 +1,9 @@
 ﻿<Page
-    x:Class="PokeDex.MainPage"
+    x:Class="PokeDex.ChoosingPage"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:local="using:PokeDex"
+    xmlns:dex="using:Pokedata"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d"
@@ -30,17 +31,24 @@
                 <Rectangle Fill="Red" Margin="40,192,544,284" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/>
 
                 <Image x:Name="DisplayPokemon"
-                       Margin="63,206,568,302"
-                       HorizontalAlignment="Stretch"
-                       VerticalAlignment="Stretch"
-                       Source="{Binding Img}"/>
+                       Margin="65 275 0 0"
+                       Width="350"
+                       Height="350"
+                       HorizontalAlignment="Left"
+                       VerticalAlignment="Top"/>
 
-                <ListBox Name="ThePokemon" 
+                <ListBox Name="PokemonList" 
                          HorizontalAlignment="Left" 
                          Margin="515,0,0,0" 
                          VerticalAlignment="Center" 
                          Width="426"
-                         SelectionChanged="ThePokemon_SelectionChanged">
+                         SelectionChanged="PokemonList_SelectionChanged"
+                         ItemsSource="{x:Bind pokedex, Mode=OneWay}">
+                    <ListBox.ItemTemplate>
+                        <DataTemplate x:DataType="dex:Pokemon">
+                            <ListBoxItem Width="400" Background="Gray" Content="{x:Bind Name, Mode=OneWay}"/>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
                 </ListBox>
 
                 <Canvas x:Name="Controls"

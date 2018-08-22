@@ -1,158 +1,158 @@
 WinMetadata\Windows.winmd
-Assets\Gen_I\000.png
-Assets\Gen_I\000MissingNo.png
-Assets\Gen_I\001.png
-Assets\Gen_I\001Bulbasaur.png
-Assets\Gen_I\002Ivysaur.png
-Assets\Gen_I\003Venusaur.png
-Assets\Gen_I\004Charmander.png
-Assets\Gen_I\005Charmeleon.png
-Assets\Gen_I\006Charizard.png
-Assets\Gen_I\007Squirtle.png
-Assets\Gen_I\008Wartortle.png
-Assets\Gen_I\009Blastoise.png
-Assets\Gen_I\010Caterpie.png
-Assets\Gen_I\011Metapod.png
-Assets\Gen_I\012Butterfree.png
-Assets\Gen_I\013Weedle.png
-Assets\Gen_I\014Kakuna.png
-Assets\Gen_I\015Beedrill.png
-Assets\Gen_I\016Pidgey.png
-Assets\Gen_I\017Pidgeotto.png
-Assets\Gen_I\018Pidgeot.png
-Assets\Gen_I\019Rattata.png
-Assets\Gen_I\020Raticate.png
-Assets\Gen_I\021Spearow.png
-Assets\Gen_I\022Fearow.png
-Assets\Gen_I\023Ekans.png
-Assets\Gen_I\024Arbok.png
-Assets\Gen_I\025Pikachu.png
-Assets\Gen_I\026Raichu.png
-Assets\Gen_I\027Sandshrew.png
-Assets\Gen_I\028Sandslash.png
-Assets\Gen_I\029NidoranF.png
-Assets\Gen_I\030Nidorina.png
-Assets\Gen_I\031Nidoqueen.png
-Assets\Gen_I\032NidoranM.png
-Assets\Gen_I\033Nidorino.png
-Assets\Gen_I\034Nidoking.png
-Assets\Gen_I\035Clefairy.png
-Assets\Gen_I\036Clefable.png
-Assets\Gen_I\037Vulpix.png
-Assets\Gen_I\038Ninetales.png
-Assets\Gen_I\039Jigglypuff.png
-Assets\Gen_I\040Wigglytuff.png
-Assets\Gen_I\041Zubat.png
-Assets\Gen_I\042Golbat.png
-Assets\Gen_I\043Oddish.png
-Assets\Gen_I\044Gloom.png
-Assets\Gen_I\045Vileplume.png
-Assets\Gen_I\046Paras.png
-Assets\Gen_I\047Parasect.png
-Assets\Gen_I\048Venonat.png
-Assets\Gen_I\049Venomoth.png
-Assets\Gen_I\050Diglett.png
-Assets\Gen_I\051Dugtrio.png
-Assets\Gen_I\052Meowth.png
-Assets\Gen_I\053Persian.png
-Assets\Gen_I\054Psyduck.png
-Assets\Gen_I\055Golduck.png
-Assets\Gen_I\056Mankey.png
-Assets\Gen_I\057Primeape.png
-Assets\Gen_I\058Growlithe.png
-Assets\Gen_I\059Arcanine.png
-Assets\Gen_I\060Poliwag.png
-Assets\Gen_I\061Poliwhirl.png
-Assets\Gen_I\062Poliwrath.png
-Assets\Gen_I\063Abra.png
-Assets\Gen_I\064Kadabra.png
-Assets\Gen_I\065Alakazam.png
-Assets\Gen_I\066Machop.png
-Assets\Gen_I\067Machoke.png
-Assets\Gen_I\068Machamp.png
-Assets\Gen_I\069Bellsprout.png
-Assets\Gen_I\070Weepinbell.png
-Assets\Gen_I\071Victreebel.png
-Assets\Gen_I\072Tentacool.png
-Assets\Gen_I\073Tentacruel.png
-Assets\Gen_I\074Geodude.png
-Assets\Gen_I\075Graveler.png
-Assets\Gen_I\076Golem.png
-Assets\Gen_I\077Ponyta.png
-Assets\Gen_I\078Rapidash.png
-Assets\Gen_I\079Slowpoke.png
-Assets\Gen_I\080Slowbro.png
-Assets\Gen_I\081Magnemite.png
-Assets\Gen_I\082Magneton.png
-Assets\Gen_I\083Farfetch'd.png
-Assets\Gen_I\084Doduo.png
-Assets\Gen_I\085Dodrio.png
-Assets\Gen_I\086Seel.png
-Assets\Gen_I\087Dewgong.png
-Assets\Gen_I\088Grimer.png
-Assets\Gen_I\089Muk.png
-Assets\Gen_I\090Shellder.png
-Assets\Gen_I\091Cloyster.png
-Assets\Gen_I\092Gastly.png
-Assets\Gen_I\093Haunter.png
-Assets\Gen_I\094Gengar.png
-Assets\Gen_I\095Onix.png
-Assets\Gen_I\096Drowzee.png
-Assets\Gen_I\097Hypno.png
-Assets\Gen_I\098Krabby.png
-Assets\Gen_I\099Kingler.png
-Assets\Gen_I\100Voltorb.png
-Assets\Gen_I\101Electrode.png
-Assets\Gen_I\102Exeggcute.png
-Assets\Gen_I\103Exeggutor.png
-Assets\Gen_I\104Cubone.png
-Assets\Gen_I\105Marowak.png
-Assets\Gen_I\106Hitmonlee.png
-Assets\Gen_I\107Hitmonchan.png
-Assets\Gen_I\108Lickitung.png
-Assets\Gen_I\109Koffing.png
-Assets\Gen_I\110Weezing.png
-Assets\Gen_I\111Rhyhorn.png
-Assets\Gen_I\112Rhydon.png
-Assets\Gen_I\113Chansey.png
-Assets\Gen_I\114Tangela.png
-Assets\Gen_I\115Kangaskhan.png
-Assets\Gen_I\116Horsea.png
-Assets\Gen_I\117Seadra.png
-Assets\Gen_I\118Goldeen.png
-Assets\Gen_I\119Seaking.png
-Assets\Gen_I\120Staryu.png
-Assets\Gen_I\121Starmie.png
-Assets\Gen_I\122Mr._Mime.png
-Assets\Gen_I\123Scyther.png
-Assets\Gen_I\124Jynx.png
-Assets\Gen_I\125Electabuzz.png
-Assets\Gen_I\126Magmar.png
-Assets\Gen_I\127Pinsir.png
-Assets\Gen_I\128Tauros.png
-Assets\Gen_I\129Magikarp.png
-Assets\Gen_I\130Gyarados.png
-Assets\Gen_I\131Lapras.png
-Assets\Gen_I\132Ditto.png
-Assets\Gen_I\133Eevee.png
-Assets\Gen_I\134Vaporeon.png
-Assets\Gen_I\135Jolteon.png
-Assets\Gen_I\136Flareon.png
-Assets\Gen_I\137Porygon.png
-Assets\Gen_I\138Omanyte.png
-Assets\Gen_I\139Omastar.png
-Assets\Gen_I\140Kabuto.png
-Assets\Gen_I\141Kabutops.png
-Assets\Gen_I\142Aerodactyl.png
-Assets\Gen_I\143Snorlax.png
-Assets\Gen_I\144Articuno.png
-Assets\Gen_I\145Zapdos.png
-Assets\Gen_I\146Moltres.png
-Assets\Gen_I\147Dratini.png
-Assets\Gen_I\148Dragonair.png
-Assets\Gen_I\149Dragonite.png
-Assets\Gen_I\150Mewtwo.png
-Assets\Gen_I\151Mew.png
+Assets\Gen I Pics\000.png
+Assets\Gen I Pics\000MissingNo.png
+Assets\Gen I Pics\001.png
+Assets\Gen I Pics\001Bulbasaur.png
+Assets\Gen I Pics\002Ivysaur.png
+Assets\Gen I Pics\003Venusaur.png
+Assets\Gen I Pics\004Charmander.png
+Assets\Gen I Pics\005Charmeleon.png
+Assets\Gen I Pics\006Charizard.png
+Assets\Gen I Pics\007Squirtle.png
+Assets\Gen I Pics\008Wartortle.png
+Assets\Gen I Pics\009Blastoise.png
+Assets\Gen I Pics\010Caterpie.png
+Assets\Gen I Pics\011Metapod.png
+Assets\Gen I Pics\012Butterfree.png
+Assets\Gen I Pics\013Weedle.png
+Assets\Gen I Pics\014Kakuna.png
+Assets\Gen I Pics\015Beedrill.png
+Assets\Gen I Pics\016Pidgey.png
+Assets\Gen I Pics\017Pidgeotto.png
+Assets\Gen I Pics\018Pidgeot.png
+Assets\Gen I Pics\019Rattata.png
+Assets\Gen I Pics\020Raticate.png
+Assets\Gen I Pics\021Spearow.png
+Assets\Gen I Pics\022Fearow.png
+Assets\Gen I Pics\023Ekans.png
+Assets\Gen I Pics\024Arbok.png
+Assets\Gen I Pics\025Pikachu.png
+Assets\Gen I Pics\026Raichu.png
+Assets\Gen I Pics\027Sandshrew.png
+Assets\Gen I Pics\028Sandslash.png
+Assets\Gen I Pics\029NidoranF.png
+Assets\Gen I Pics\030Nidorina.png
+Assets\Gen I Pics\031Nidoqueen.png
+Assets\Gen I Pics\032NidoranM.png
+Assets\Gen I Pics\033Nidorino.png
+Assets\Gen I Pics\034Nidoking.png
+Assets\Gen I Pics\035Clefairy.png
+Assets\Gen I Pics\036Clefable.png
+Assets\Gen I Pics\037Vulpix.png
+Assets\Gen I Pics\038Ninetales.png
+Assets\Gen I Pics\039Jigglypuff.png
+Assets\Gen I Pics\040Wigglytuff.png
+Assets\Gen I Pics\041Zubat.png
+Assets\Gen I Pics\042Golbat.png
+Assets\Gen I Pics\043Oddish.png
+Assets\Gen I Pics\044Gloom.png
+Assets\Gen I Pics\045Vileplume.png
+Assets\Gen I Pics\046Paras.png
+Assets\Gen I Pics\047Parasect.png
+Assets\Gen I Pics\048Venonat.png
+Assets\Gen I Pics\049Venomoth.png
+Assets\Gen I Pics\050Diglett.png
+Assets\Gen I Pics\051Dugtrio.png
+Assets\Gen I Pics\052Meowth.png
+Assets\Gen I Pics\053Persian.png
+Assets\Gen I Pics\054Psyduck.png
+Assets\Gen I Pics\055Golduck.png
+Assets\Gen I Pics\056Mankey.png
+Assets\Gen I Pics\057Primeape.png
+Assets\Gen I Pics\058Growlithe.png
+Assets\Gen I Pics\059Arcanine.png
+Assets\Gen I Pics\060Poliwag.png
+Assets\Gen I Pics\061Poliwhirl.png
+Assets\Gen I Pics\062Poliwrath.png
+Assets\Gen I Pics\063Abra.png
+Assets\Gen I Pics\064Kadabra.png
+Assets\Gen I Pics\065Alakazam.png
+Assets\Gen I Pics\066Machop.png
+Assets\Gen I Pics\067Machoke.png
+Assets\Gen I Pics\068Machamp.png
+Assets\Gen I Pics\069Bellsprout.png
+Assets\Gen I Pics\070Weepinbell.png
+Assets\Gen I Pics\071Victreebel.png
+Assets\Gen I Pics\072Tentacool.png
+Assets\Gen I Pics\073Tentacruel.png
+Assets\Gen I Pics\074Geodude.png
+Assets\Gen I Pics\075Graveler.png
+Assets\Gen I Pics\076Golem.png
+Assets\Gen I Pics\077Ponyta.png
+Assets\Gen I Pics\078Rapidash.png
+Assets\Gen I Pics\079Slowpoke.png
+Assets\Gen I Pics\080Slowbro.png
+Assets\Gen I Pics\081Magnemite.png
+Assets\Gen I Pics\082Magneton.png
+Assets\Gen I Pics\083Farfetch'd.png
+Assets\Gen I Pics\084Doduo.png
+Assets\Gen I Pics\085Dodrio.png
+Assets\Gen I Pics\086Seel.png
+Assets\Gen I Pics\087Dewgong.png
+Assets\Gen I Pics\088Grimer.png
+Assets\Gen I Pics\089Muk.png
+Assets\Gen I Pics\090Shellder.png
+Assets\Gen I Pics\091Cloyster.png
+Assets\Gen I Pics\092Gastly.png
+Assets\Gen I Pics\093Haunter.png
+Assets\Gen I Pics\094Gengar.png
+Assets\Gen I Pics\095Onix.png
+Assets\Gen I Pics\096Drowzee.png
+Assets\Gen I Pics\097Hypno.png
+Assets\Gen I Pics\098Krabby.png
+Assets\Gen I Pics\099Kingler.png
+Assets\Gen I Pics\100Voltorb.png
+Assets\Gen I Pics\101Electrode.png
+Assets\Gen I Pics\102Exeggcute.png
+Assets\Gen I Pics\103Exeggutor.png
+Assets\Gen I Pics\104Cubone.png
+Assets\Gen I Pics\105Marowak.png
+Assets\Gen I Pics\106Hitmonlee.png
+Assets\Gen I Pics\107Hitmonchan.png
+Assets\Gen I Pics\108Lickitung.png
+Assets\Gen I Pics\109Koffing.png
+Assets\Gen I Pics\110Weezing.png
+Assets\Gen I Pics\111Rhyhorn.png
+Assets\Gen I Pics\112Rhydon.png
+Assets\Gen I Pics\113Chansey.png
+Assets\Gen I Pics\114Tangela.png
+Assets\Gen I Pics\115Kangaskhan.png
+Assets\Gen I Pics\116Horsea.png
+Assets\Gen I Pics\117Seadra.png
+Assets\Gen I Pics\118Goldeen.png
+Assets\Gen I Pics\119Seaking.png
+Assets\Gen I Pics\120Staryu.png
+Assets\Gen I Pics\121Starmie.png
+Assets\Gen I Pics\122Mr._Mime.png
+Assets\Gen I Pics\123Scyther.png
+Assets\Gen I Pics\124Jynx.png
+Assets\Gen I Pics\125Electabuzz.png
+Assets\Gen I Pics\126Magmar.png
+Assets\Gen I Pics\127Pinsir.png
+Assets\Gen I Pics\128Tauros.png
+Assets\Gen I Pics\129Magikarp.png
+Assets\Gen I Pics\130Gyarados.png
+Assets\Gen I Pics\131Lapras.png
+Assets\Gen I Pics\132Ditto.png
+Assets\Gen I Pics\133Eevee.png
+Assets\Gen I Pics\134Vaporeon.png
+Assets\Gen I Pics\135Jolteon.png
+Assets\Gen I Pics\136Flareon.png
+Assets\Gen I Pics\137Porygon.png
+Assets\Gen I Pics\138Omanyte.png
+Assets\Gen I Pics\139Omastar.png
+Assets\Gen I Pics\140Kabuto.png
+Assets\Gen I Pics\141Kabutops.png
+Assets\Gen I Pics\142Aerodactyl.png
+Assets\Gen I Pics\143Snorlax.png
+Assets\Gen I Pics\144Articuno.png
+Assets\Gen I Pics\145Zapdos.png
+Assets\Gen I Pics\146Moltres.png
+Assets\Gen I Pics\147Dratini.png
+Assets\Gen I Pics\148Dragonair.png
+Assets\Gen I Pics\149Dragonite.png
+Assets\Gen I Pics\150Mewtwo.png
+Assets\Gen I Pics\151Mew.png
 Assets\LockScreenLogo.scale-200.png
 Assets\SplashScreen.scale-200.png
 Assets\Square150x150Logo.scale-200.png

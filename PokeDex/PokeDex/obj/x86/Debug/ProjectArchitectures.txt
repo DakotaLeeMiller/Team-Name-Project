@@ -1,1 +1,5 @@
-C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\PokeDex.csproj;x86
+<<<<<<< HEAD
+C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\PokeDex.csproj;x86
+=======
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\PokeDex.csproj;x86
+>>>>>>> a9481a128bbdd59b016491ed3c632f986306c681

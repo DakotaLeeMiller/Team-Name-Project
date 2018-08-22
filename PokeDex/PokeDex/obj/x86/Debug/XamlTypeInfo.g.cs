@@ -189,19 +189,23 @@ namespace PokeDex.PokeDex_XamlTypeInfo
 
         private void InitTypeTables()
         {
-            _typeNameTable = new string[5];
-            _typeNameTable[0] = "PokeDex.MainPage";
+            _typeNameTable = new string[7];
+            _typeNameTable[0] = "PokeDex.ChoosingPage";
             _typeNameTable[1] = "Windows.UI.Xaml.Controls.Page";
             _typeNameTable[2] = "Windows.UI.Xaml.Controls.UserControl";
-            _typeNameTable[3] = "Windows.UI.Xaml.Media.ImageSource";
-            _typeNameTable[4] = "PokeDex.SelectedPokemonPage";
+            _typeNameTable[3] = "PokeDex.Converters.DexNumberToStringConverter";
+            _typeNameTable[4] = "Object";
+            _typeNameTable[5] = "PokeDex.Converters.TypeToTypeImageConverter";
+            _typeNameTable[6] = "PokeDex.SelectedPokemonPage";
 
-            _typeTable = new global::System.Type[5];
-            _typeTable[0] = typeof(global::PokeDex.MainPage);
+            _typeTable = new global::System.Type[7];
+            _typeTable[0] = typeof(global::PokeDex.ChoosingPage);
             _typeTable[1] = typeof(global::Windows.UI.Xaml.Controls.Page);
             _typeTable[2] = typeof(global::Windows.UI.Xaml.Controls.UserControl);
-            _typeTable[3] = typeof(global::Windows.UI.Xaml.Media.ImageSource);
-            _typeTable[4] = typeof(global::PokeDex.SelectedPokemonPage);
+            _typeTable[3] = typeof(global::PokeDex.Converters.DexNumberToStringConverter);
+            _typeTable[4] = typeof(global::System.Object);
+            _typeTable[5] = typeof(global::PokeDex.Converters.TypeToTypeImageConverter);
+            _typeTable[6] = typeof(global::PokeDex.SelectedPokemonPage);
         }
 
         private int LookupTypeIndexByName(string typeName)
@@ -236,8 +240,10 @@ namespace PokeDex.PokeDex_XamlTypeInfo
             return -1;
         }
 
-        private object Activate_0_MainPage() { return new global::PokeDex.MainPage(); }
-        private object Activate_4_SelectedPokemonPage() { return new global::PokeDex.SelectedPokemonPage(); }
+        private object Activate_0_ChoosingPage() { return new global::PokeDex.ChoosingPage(); }
+        private object Activate_3_DexNumberToStringConverter() { return new global::PokeDex.Converters.DexNumberToStringConverter(); }
+        private object Activate_5_TypeToTypeImageConverter() { return new global::PokeDex.Converters.TypeToTypeImageConverter(); }
+        private object Activate_6_SelectedPokemonPage() { return new global::PokeDex.SelectedPokemonPage(); }
 
         private global::Windows.UI.Xaml.Markup.IXamlType CreateXamlType(int typeIndex)
         {
@@ -249,10 +255,9 @@ namespace PokeDex.PokeDex_XamlTypeInfo
             switch (typeIndex)
             {
 
-            case 0:   //  PokeDex.MainPage
+            case 0:   //  PokeDex.ChoosingPage
                 userType = new global::PokeDex.PokeDex_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_0_MainPage;
-                userType.AddMemberName("Img");
+                userType.Activator = Activate_0_ChoosingPage;
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
@@ -265,13 +270,27 @@ namespace PokeDex.PokeDex_XamlTypeInfo
                 xamlType = new global::PokeDex.PokeDex_XamlTypeInfo.XamlSystemBaseType(typeName, type);
                 break;
 
-            case 3:   //  Windows.UI.Xaml.Media.ImageSource
+            case 3:   //  PokeDex.Converters.DexNumberToStringConverter
+                userType = new global::PokeDex.PokeDex_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Object"));
+                userType.Activator = Activate_3_DexNumberToStringConverter;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 4:   //  Object
                 xamlType = new global::PokeDex.PokeDex_XamlTypeInfo.XamlSystemBaseType(typeName, type);
                 break;
 
-            case 4:   //  PokeDex.SelectedPokemonPage
+            case 5:   //  PokeDex.Converters.TypeToTypeImageConverter
+                userType = new global::PokeDex.PokeDex_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Object"));
+                userType.Activator = Activate_5_TypeToTypeImageConverter;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 6:   //  PokeDex.SelectedPokemonPage
                 userType = new global::PokeDex.PokeDex_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_4_SelectedPokemonPage;
+                userType.Activator = Activate_6_SelectedPokemonPage;
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
@@ -280,31 +299,11 @@ namespace PokeDex.PokeDex_XamlTypeInfo
         }
 
 
-        private object get_0_MainPage_Img(object instance)
-        {
-            var that = (global::PokeDex.MainPage)instance;
-            return that.Img;
-        }
-        private void set_0_MainPage_Img(object instance, object Value)
-        {
-            var that = (global::PokeDex.MainPage)instance;
-            that.Img = (global::Windows.UI.Xaml.Media.ImageSource)Value;
-        }
 
         private global::Windows.UI.Xaml.Markup.IXamlMember CreateXamlMember(string longMemberName)
         {
             global::PokeDex.PokeDex_XamlTypeInfo.XamlMember xamlMember = null;
-            global::PokeDex.PokeDex_XamlTypeInfo.XamlUserType userType;
-
-            switch (longMemberName)
-            {
-            case "PokeDex.MainPage.Img":
-                userType = (global::PokeDex.PokeDex_XamlTypeInfo.XamlUserType)GetXamlTypeByName("PokeDex.MainPage");
-                xamlMember = new global::PokeDex.PokeDex_XamlTypeInfo.XamlMember(this, "Img", "Windows.UI.Xaml.Media.ImageSource");
-                xamlMember.Getter = get_0_MainPage_Img;
-                xamlMember.Setter = set_0_MainPage_Img;
-                break;
-            }
+            // No Local Properties
             return xamlMember;
         }
     }
