@@ -12,6 +12,7 @@ using Windows.UI.Xaml.Data;
 using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
+using Pokedata;
 
 // The Blank Page item template is documented at https://go.microsoft.com/fwlink/?LinkId=234238
 
@@ -22,14 +23,31 @@ namespace PokeDex
     /// </summary>
     public sealed partial class SelectedPokemonPage : Page
     {
+        private Pokemon SelectedPokemon { get; set; }
+
         public SelectedPokemonPage()
         {
             this.InitializeComponent();
         }
 
-        private void Back_Click(object sender, RoutedEventArgs e)
+        protected override void OnNavigatedTo(NavigationEventArgs e)
         {
-            this.Frame.Navigate(typeof(MainPage));
+            SelectedPokemon = e.Parameter as Pokemon;
+        }
+
+        private void BackButton_Click(object sender, RoutedEventArgs e)
+        {
+            this.Frame.Navigate(typeof(ChoosingPage));
+        }
+
+        private void EvolveFromPokemonClick(object sender, RoutedEventArgs e)
+        {
+            (Window.Current.Content as Frame).Navigate(typeof(SelectedPokemonPage), SelectedPokemon.EvolveFrom);
+        }
+
+        private void EvolveToPokemonClick(object sender, RoutedEventArgs e)
+        {
+            (Window.Current.Content as Frame).Navigate(typeof(SelectedPokemonPage), SelectedPokemon.EvolveTo);
         }
     }
 }
