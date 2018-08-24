@@ -1,6 +1,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of a055d3a... Merge branch 'master' into Alices_Work
 ﻿<?xml version="1.0" encoding="utf-8"?><XamlCompilerSaveState><ReferenceAssemblyList /><XamlSourceFileDataList><XamlSourceFileData XamlFileName="App.xaml" ClassFullName="PokeDex.App" GeneratedCodePathPrefix="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x86\Debug\App" XamlFileTimeAtLastCompileInTicks="636691754135746539" HasBoundEventAssignments="False" /><XamlSourceFileData XamlFileName="ChoosingPage.xaml" ClassFullName="PokeDex.MainPage" GeneratedCodePathPrefix="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x86\Debug\ChoosingPage" XamlFileTimeAtLastCompileInTicks="636699554246273510" HasBoundEventAssignments="False" /></XamlSourceFileDataList></XamlCompilerSaveState>
 =======
 <<<<<<< HEAD
@@ -9,6 +12,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?><XamlCompilerSaveState><ReferenceAssemblyList /><XamlSourceFileDataList><XamlSourceFileData XamlFileName="App.xaml" ClassFullName="PokeDex.App" GeneratedCodePathPrefix="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x86\Debug\App" XamlFileTimeAtLastCompileInTicks="636691754135746539" HasBoundEventAssignments="False" /><XamlSourceFileData XamlFileName="ChoosingPage.xaml" ClassFullName="PokeDex.MainPage" GeneratedCodePathPrefix="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x86\Debug\ChoosingPage" XamlFileTimeAtLastCompileInTicks="636695232192703573" HasBoundEventAssignments="False" /></XamlSourceFileDataList></XamlCompilerSaveState>
 >>>>>>> 01b843548a7c5d3318bc781377668673d124ef61
 >>>>>>> master
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 ﻿<?xml version="1.0" encoding="utf-8"?><XamlCompilerSaveState><ReferenceAssemblyList /><XamlSourceFileDataList><XamlSourceFileData XamlFileName="App.xaml" ClassFullName="PokeDex.App" GeneratedCodePathPrefix="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x86\Debug\App" XamlFileTimeAtLastCompileInTicks="636703861035114573" HasBoundEventAssignments="False" /><XamlSourceFileData XamlFileName="ChoosingPage.xaml" ClassFullName="PokeDex.MainPage" GeneratedCodePathPrefix="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x86\Debug\ChoosingPage" XamlFileTimeAtLastCompileInTicks="636703861039965789" HasBoundEventAssignments="False" /><XamlSourceFileData XamlFileName="SelectedPokemonPage.xaml" ClassFullName="PokeDex.SelectedPokemonPage" GeneratedCodePathPrefix="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x86\Debug\SelectedPokemonPage" XamlFileTimeAtLastCompileInTicks="636703861040005674" HasBoundEventAssignments="False" /></XamlSourceFileDataList></XamlCompilerSaveState>
@@ -22,3 +26,5 @@
 =======
 ﻿<?xml version="1.0" encoding="utf-8"?><XamlCompilerSaveState><ReferenceAssemblyList /><XamlSourceFileDataList><XamlSourceFileData XamlFileName="App.xaml" ClassFullName="PokeDex.App" GeneratedCodePathPrefix="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x86\Debug\App" XamlFileTimeAtLastCompileInTicks="636691754135746539" HasBoundEventAssignments="False" /><XamlSourceFileData XamlFileName="ChoosingPage.xaml" ClassFullName="PokeDex.MainPage" GeneratedCodePathPrefix="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x86\Debug\ChoosingPage" XamlFileTimeAtLastCompileInTicks="636699554246273510" HasBoundEventAssignments="False" /></XamlSourceFileDataList></XamlCompilerSaveState>
 >>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work
+=======
+>>>>>>> parent of a055d3a... Merge branch 'master' into Alices_Work

@@ -220,6 +220,7 @@ C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\obj\x86\Debug\ChoosingPag
 C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\obj\x86\Debug\SelectedPokemonPage.xbf
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\App.xbf
 C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\ChoosingPage.xbf
 C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\SelectedPokemonPage.xbf
@@ -759,3 +760,5 @@ C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex
 =======
 C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x86\Debug\PokeDex.csprojAssemblyReference.cache
 >>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work
+=======
+>>>>>>> parent of a055d3a... Merge branch 'master' into Alices_Work

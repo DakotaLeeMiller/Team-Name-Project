@@ -12,7 +12,6 @@ using Windows.UI.Xaml.Data;
 using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
-using Pokedata;
 
 // The Blank Page item template is documented at https://go.microsoft.com/fwlink/?LinkId=402352&clcid=0x409
 
@@ -23,32 +22,20 @@ namespace PokeDex
     /// </summary>
     public sealed partial class MainPage : Page
     {
+<<<<<<< HEAD:PokeDex/PokeDex/ChoosingPage - Copy.xaml.cs
 <<<<<<< HEAD:PokeDex/PokeDex/SelectedPokemonPage.xaml.cs
         private Pokemon SelectedPokemon { get; set; }
 
+=======
+>>>>>>> parent of a055d3a... Merge branch 'master' into Alices_Work:PokeDex/PokeDex/SelectedPokemonPage.xaml.cs
         public SelectedPokemonPage()
         {
             this.InitializeComponent();
         }
 
-        protected override void OnNavigatedTo(NavigationEventArgs e)
+        private void Back_Click(object sender, RoutedEventArgs e)
         {
-            SelectedPokemon = e.Parameter as Pokemon;
-        }
-
-        private void BackButton_Click(object sender, RoutedEventArgs e)
-        {
-            this.Frame.Navigate(typeof(ChoosingPage));
-        }
-
-        private void EvolveFromPokemonClick(object sender, RoutedEventArgs e)
-        {
-            (Window.Current.Content as Frame).Navigate(typeof(SelectedPokemonPage), SelectedPokemon.EvolveFrom);
-        }
-
-        private void EvolveToPokemonClick(object sender, RoutedEventArgs e)
-        {
-            (Window.Current.Content as Frame).Navigate(typeof(SelectedPokemonPage), SelectedPokemon.EvolveTo);
+            this.Frame.Navigate(typeof(MainPage));
         }
 =======
         public MainPage()

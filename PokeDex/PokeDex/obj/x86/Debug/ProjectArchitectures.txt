@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\PokeDex.csproj;x86
 =======
 C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\PokeDex.csproj;x86
@@ -11,3 +12,6 @@ C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex
 =======
 C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\PokeDex.csproj;x86
 >>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work
+=======
+C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\PokeDex.csproj;x86
+>>>>>>> parent of a055d3a... Merge branch 'master' into Alices_Work
