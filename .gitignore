@@ -2,3 +2,6 @@
 PokeDex/.vs/PokeDex/v15/.suo
 *.dll
 PokeDex/PokeDex/bin/ARM/Debug/AppxManifest.xml
+PokeDex/PokeDex/obj/x86/Debug/PokeDex.csproj.CoreCompileInputs.cache
+PokeDex/.vs/PokeDex/v15/.suo
+PokeDex/PokeDex/obj/x86/Debug/ChoosingPage.g.i.cs
