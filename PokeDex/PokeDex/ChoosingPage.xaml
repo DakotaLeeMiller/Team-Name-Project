@@ -30,6 +30,7 @@
                 <Rectangle Fill="Red" Margin="40,192,544,284" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/>
 
 <<<<<<< HEAD
+<<<<<<< HEAD
                 <Image Name="pokemonImage"
                        Width="350" Height="350"
                        HorizontalAlignment="Left"
@@ -44,6 +45,13 @@
 
 >>>>>>> parent of 4717e9f... finally working after merger with master
 
+=======
+                <Image Margin="63,206,568,302"
+                       
+                       HorizontalAlignment="Stretch"
+                       VerticalAlignment="Stretch" />
+
+>>>>>>> parent of ca9916c... 8/17 before class commiting to merge
                 <ListBox Name="ThePokemon" HorizontalAlignment="Left" Margin="515,0,0,0" VerticalAlignment="Center" Width="426">
                 </ListBox>
 

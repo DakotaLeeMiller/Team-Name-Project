@@ -29,17 +29,15 @@
 
                 <Rectangle Fill="Red" Margin="40,192,544,284" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/>
 
-                <Image x:ConnectionId='6' x:Name="ImageSpot"
-                    Margin="63,206,568,302"
-                       Source="Assets/004Charmander.png"
+                <Image Margin="63,206,568,302"
+                       
                        HorizontalAlignment="Stretch"
                        VerticalAlignment="Stretch" />
 
-
-                <ListBox x:ConnectionId='7' Name="ThePokemon" HorizontalAlignment="Left" Margin="515,0,0,0" VerticalAlignment="Center" Width="426">
+                <ListBox x:ConnectionId='6' Name="ThePokemon" HorizontalAlignment="Left" Margin="515,0,0,0" VerticalAlignment="Center" Width="426">
                 </ListBox>
 
-                <Canvas x:ConnectionId='8' x:Name="Controls"
+                <Canvas x:ConnectionId='7' x:Name="Controls"
                         Background="Red" 
                         Margin="946,1,-502,-1" 
                         HorizontalAlignment="Stretch" 

@@ -31,13 +31,13 @@
     <AppXManifest Include="C:\Users\Joshua Harrington\Desktop\GitHub\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-08-17T23:41:22.112</Modified>
+      <Modified>2018-08-16T00:20:47.794</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Joshua Harrington\Desktop\GitHub\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\PokeDex.exe">
       <PackagePath>entrypoint\PokeDex.exe</PackagePath>
-      <Modified>2018-08-17T23:41:21.697</Modified>
+      <Modified>2018-08-16T00:20:47.514</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -539,15 +539,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua Harrington\Desktop\GitHub\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\PokeDex.xr.xml">
       <PackagePath>PokeDex.xr.xml</PackagePath>
-      <Modified>2018-08-17T22:52:30.458</Modified>
+      <Modified>2018-08-16T00:20:47.378</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua Harrington\Desktop\GitHub\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2018-08-17T23:41:21.532</Modified>
+      <Modified>2018-08-16T00:20:47.393</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua Harrington\Desktop\GitHub\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\ChoosingPage.xbf">
       <PackagePath>ChoosingPage.xbf</PackagePath>
-      <Modified>2018-08-17T23:41:21.532</Modified>
+      <Modified>2018-08-16T00:20:47.394</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17134.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -556,11 +556,11 @@
     <AppxPackagedFile Include="C:\Users\Joshua Harrington\Desktop\GitHub\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-08-17T23:28:05.051</Modified>
+      <Modified>2018-08-16T00:12:45.286</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joshua Harrington\Desktop\GitHub\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\Core\PokeDex.exe">
       <PackagePath>PokeDex.exe</PackagePath>
-      <Modified>2018-08-17T23:41:22.104</Modified>
+      <Modified>2018-08-16T00:20:47.790</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
