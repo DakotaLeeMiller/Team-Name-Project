@@ -31,7 +31,7 @@
 
                 <Image x:ConnectionId='6' x:Name="ImageSpot"
                     Margin="63,206,568,302"
-                       Source="Assets/1.png"
+                       Source="Assets/004Charmander.png"
                        HorizontalAlignment="Stretch"
                        VerticalAlignment="Stretch" />
 

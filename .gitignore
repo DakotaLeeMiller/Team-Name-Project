@@ -1,2 +1,4 @@
 
 PokeDex/.vs/PokeDex/v15/.suo
+*.dll
+PokeDex/PokeDex/bin/ARM/Debug/AppxManifest.xml
