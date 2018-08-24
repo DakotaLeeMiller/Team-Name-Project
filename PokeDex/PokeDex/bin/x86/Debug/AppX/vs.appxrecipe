@@ -3,6 +3,7 @@
   <PropertyGroup>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <Machine>FAP-O-MATIC</Machine>
     <WindowsUser>Luna McClain</WindowsUser>
 =======
@@ -13,11 +14,16 @@
     <Machine>DESKTOP-37VHRS1</Machine>
     <WindowsUser>Jacob Mabey</WindowsUser>
 >>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
+=======
+    <Machine>FAP-O-MATIC</Machine>
+    <WindowsUser>Luna McClain</WindowsUser>
+>>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
     <TargetOsVersion>10.0</TargetOsVersion>
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
     <SolutionConfiguration>Debug|x86</SolutionConfiguration>
     <PackageArchitecture>x86</PackageArchitecture>
+<<<<<<< HEAD
     <PackageIdentityName>d106f15e-5039-45d1-9c93-2184c38d2f82</PackageIdentityName>
     <PackageIdentityPublisher>CN=Dakota L. Miller</PackageIdentityPublisher>
 <<<<<<< HEAD
@@ -29,6 +35,11 @@
 =======
     <IntermediateOutputPath>C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x86\Debug\</IntermediateOutputPath>
 >>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
+=======
+    <PackageIdentityName>be339a2d-f31f-48fb-b706-6eac5ff054b7</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Joshua Harrington</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x86\Debug\</IntermediateOutputPath>
+>>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -36,6 +47,7 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     <LayoutDir>C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\AppX</LayoutDir>
@@ -52,10 +64,19 @@
     <RegisteredUserModeAppID>d106f15e-5039-45d1-9c93-2184c38d2f82_wwqwcn01b9td8!App</RegisteredUserModeAppID>
     <RegisteredPackageID>d106f15e-5039-45d1-9c93-2184c38d2f82</RegisteredPackageID>
     <RegisteredPackagePublisher>CN=Dakota L. Miller</RegisteredPackagePublisher>
+=======
+    <LayoutDir>C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>4D76E8C8BD9970C418D076E27E6E956B47F837E2F2F6B44099512D23616BC0B1</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>be339a2d-f31f-48fb-b706-6eac5ff054b7_1.0.0.0_x86__bxhyr9k0pbjvm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>be339a2d-f31f-48fb-b706-6eac5ff054b7_bxhyr9k0pbjvm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>be339a2d-f31f-48fb-b706-6eac5ff054b7</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Joshua Harrington</RegisteredPackagePublisher>
+>>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     <AppXManifest Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\Core\AppxManifest.xml">
@@ -92,14 +113,18 @@
       <PackagePath>entrypoint\PokeDex.exe</PackagePath>
 <<<<<<< HEAD
 <<<<<<< HEAD
+=======
+    <AppXManifest Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\Core\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-16T00:43:51.204</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\PokeDex.exe">
+      <PackagePath>entrypoint\PokeDex.exe</PackagePath>
+>>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work
       <Modified>2018-08-16T00:43:50.905</Modified>
-=======
-<<<<<<< HEAD
-      <Modified>2018-08-16T23:53:53.398</Modified>
-=======
-      <Modified>2018-08-11T00:46:50.672</Modified>
->>>>>>> 01b843548a7c5d3318bc781377668673d124ef61
->>>>>>> master
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -171,6 +196,9 @@
     </AppxPackagedFile>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work
     <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\microsoft.visualbasic\10.0.1\lib\netcore50\Microsoft.VisualBasic.dll">
       <PackagePath>Microsoft.VisualBasic.dll</PackagePath>
       <Modified>2016-06-12T05:13:10.000</Modified>
@@ -311,6 +339,9 @@
     </AppxPackagedFile>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work
     <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.collections.specialized\4.0.1\lib\netstandard1.3\System.Collections.Specialized.dll">
       <PackagePath>System.Collections.Specialized.dll</PackagePath>
       <Modified>2016-06-12T05:13:22.000</Modified>
@@ -433,6 +464,7 @@
       <PackagePath>System.IO.Pipes.dll</PackagePath>
       <Modified>2018-07-20T16:48:00.000</Modified>
     </AppxPackagedFile>
+<<<<<<< HEAD
 >>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.IO.Ports.dll">
       <PackagePath>System.IO.Ports.dll</PackagePath>
@@ -447,6 +479,9 @@
 =======
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.IO.UnmanagedMemoryStream.dll">
 >>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
+=======
+    <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.io.unmanagedmemorystream\4.0.1\lib\netstandard1.3\System.IO.UnmanagedMemoryStream.dll">
+>>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work
       <PackagePath>System.IO.UnmanagedMemoryStream.dll</PackagePath>
       <Modified>2018-07-20T16:48:00.000</Modified>
     </AppxPackagedFile>
@@ -492,6 +527,7 @@
       <PackagePath>System.Net.HttpListener.dll</PackagePath>
       <Modified>2018-07-20T16:48:00.000</Modified>
     </AppxPackagedFile>
+<<<<<<< HEAD
 >>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Net.Mail.dll">
       <PackagePath>System.Net.Mail.dll</PackagePath>
@@ -502,6 +538,9 @@
 >>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
 =======
 >>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
+=======
+    <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.net.nameresolution\4.0.0\runtimes\win\lib\netcore50\System.Net.NameResolution.dll">
+>>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work
       <PackagePath>System.Net.NameResolution.dll</PackagePath>
       <Modified>2018-07-20T16:48:00.000</Modified>
     </AppxPackagedFile>
@@ -523,6 +562,7 @@
       <PackagePath>System.Net.Ping.dll</PackagePath>
       <Modified>2018-07-20T16:48:00.000</Modified>
     </AppxPackagedFile>
+<<<<<<< HEAD
 >>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Net.Primitives.dll">
       <PackagePath>System.Net.Primitives.dll</PackagePath>
@@ -533,6 +573,9 @@
 >>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
 =======
 >>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
+=======
+    <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.net.requests\4.0.11\runtimes\win\lib\netstandard1.3\System.Net.Requests.dll">
+>>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work
       <PackagePath>System.Net.Requests.dll</PackagePath>
       <Modified>2018-07-20T16:48:00.000</Modified>
     </AppxPackagedFile>
@@ -554,6 +597,7 @@
       <PackagePath>System.Net.ServicePoint.dll</PackagePath>
       <Modified>2018-07-20T16:48:00.000</Modified>
     </AppxPackagedFile>
+<<<<<<< HEAD
 >>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Net.Sockets.dll">
       <PackagePath>System.Net.Sockets.dll</PackagePath>
@@ -568,6 +612,9 @@
 >>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
 =======
 >>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
+=======
+    <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.net.webheadercollection\4.0.1\lib\netstandard1.3\System.Net.WebHeaderCollection.dll">
+>>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work
       <PackagePath>System.Net.WebHeaderCollection.dll</PackagePath>
       <Modified>2018-07-20T16:48:00.000</Modified>
     </AppxPackagedFile>
@@ -581,6 +628,9 @@
     </AppxPackagedFile>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work
     <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.numerics.vectors\4.1.1\lib\portable-net45+win8+wp8+wpa81\System.Numerics.Vectors.dll">
       <PackagePath>System.Numerics.Vectors.dll</PackagePath>
       <Modified>2016-06-12T05:14:10.000</Modified>
@@ -2441,9 +2491,15 @@
       <PackagePath>Assets\Gen I Pics\143Snorlax.png</PackagePath>
       <Modified>2018-08-18T01:24:44.142</Modified>
     </AppxPackagedFile>
+<<<<<<< HEAD
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\144Articuno.png">
       <PackagePath>Assets\Gen I Pics\144Articuno.png</PackagePath>
       <Modified>2018-08-18T01:24:44.152</Modified>
+=======
+    <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.reflection.dispatchproxy\4.0.1\lib\netstandard1.3\System.Reflection.DispatchProxy.dll">
+      <PackagePath>System.Reflection.DispatchProxy.dll</PackagePath>
+      <Modified>2016-06-12T05:14:14.000</Modified>
+>>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\145Zapdos.png">
       <PackagePath>Assets\Gen I Pics\145Zapdos.png</PackagePath>
@@ -2493,9 +2549,15 @@
       <PackagePath>Assets\Types\Normal.png</PackagePath>
       <Modified>2018-08-18T01:24:44.195</Modified>
     </AppxPackagedFile>
+<<<<<<< HEAD
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Types\Poison.png">
       <PackagePath>Assets\Types\Poison.png</PackagePath>
       <Modified>2018-08-18T01:24:44.196</Modified>
+=======
+    <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.security.claims\4.0.1\lib\netstandard1.3\System.Security.Claims.dll">
+      <PackagePath>System.Security.Claims.dll</PackagePath>
+      <Modified>2016-06-12T05:14:40.000</Modified>
+>>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Types\Psychic.png">
       <PackagePath>Assets\Types\Psychic.png</PackagePath>
@@ -2573,9 +2635,15 @@
       <PackagePath>System.Xml.dll</PackagePath>
       <Modified>2018-07-20T16:48:02.000</Modified>
     </AppxPackagedFile>
+<<<<<<< HEAD
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.dll">
       <PackagePath>System.dll</PackagePath>
       <Modified>2018-07-20T16:48:02.000</Modified>
+=======
+    <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.threading.tasks.parallel\4.0.1\lib\netcore50\System.Threading.Tasks.Parallel.dll">
+      <PackagePath>System.Threading.Tasks.Parallel.dll</PackagePath>
+      <Modified>2016-06-12T05:14:54.000</Modified>
+>>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\WindowsBase.dll">
       <PackagePath>WindowsBase.dll</PackagePath>
@@ -2593,6 +2661,7 @@
       <PackagePath>Pokedata.dll</PackagePath>
       <Modified>2018-08-18T07:06:22.689</Modified>
     </AppxPackagedFile>
+<<<<<<< HEAD
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen I Pics\000.png">
       <PackagePath>Assets\Gen I Pics\000.png</PackagePath>
       <Modified>2018-08-18T01:24:43.683</Modified>
@@ -3367,11 +3436,67 @@
       <Modified>2018-08-21T01:13:42.314</Modified>
 >>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
 >>>>>>> master
+=======
+    <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+      <Modified>2018-08-07T00:03:33.630</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\XMLFile1.xml">
+      <PackagePath>XMLFile1.xml</PackagePath>
+      <Modified>2018-08-10T00:25:45.948</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2018-08-07T00:03:33.579</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-07T00:03:33.583</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-07T00:03:33.585</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-07T00:03:33.589</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-07T00:03:33.594</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-07T00:03:33.595</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-07T00:03:33.600</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\PokeDex.xr.xml">
+      <PackagePath>PokeDex.xr.xml</PackagePath>
+      <Modified>2018-08-16T00:43:50.758</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2018-08-16T00:43:50.771</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\ChoosingPage.xbf">
+      <PackagePath>ChoosingPage.xbf</PackagePath>
+      <Modified>2018-08-16T00:43:50.772</Modified>
+>>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17134.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2018-04-20T04:01:52.000</Modified>
     </AppxPackagedFile>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\resources.pri">
@@ -3426,6 +3551,16 @@
       <Modified>2018-08-21T01:13:43.516</Modified>
 >>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
 >>>>>>> master
+=======
+    <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-16T00:16:49.951</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\Core\PokeDex.exe">
+      <PackagePath>PokeDex.exe</PackagePath>
+      <Modified>2018-08-16T00:43:51.200</Modified>
+>>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

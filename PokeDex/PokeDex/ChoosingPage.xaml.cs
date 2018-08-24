@@ -14,8 +14,11 @@ using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
 using Windows.UI.Xaml.Shapes;
 using Windows.UI;
+<<<<<<< HEAD
 using Windows.UI.Xaml.Media.Imaging;
 using Pokedata;
+=======
+>>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work
 
 // The Blank Page item template is documented at https://go.microsoft.com/fwlink/?LinkId=402352&clcid=0x409
 
@@ -28,33 +31,25 @@ namespace PokeDex
     {
 <<<<<<< HEAD
 <<<<<<< HEAD
-        List<string> Pokemon = new List<string>();
+<<<<<<< HEAD
 =======
-        public ImageSource Img { get; set; }
-
-        private List<string> pokemonImageSources = new List<string>();
-        private System.Text.StringBuilder sb = new System.Text.StringBuilder();
-
->>>>>>> master
+>>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work
+        List<string> Pokemon = new List<string>();
         public MainPage()
         {
             this.InitializeComponent();
-
-            for (int i = 0; i < 152; i++)
+            for(int i = 0; i < 152; i++)
             {
                 CreateListItems(i);
             }
 
-<<<<<<< HEAD
             ThePokemon.ItemsSource = Pokemon;
-=======
-            InitializeImageSOurces();
->>>>>>> master
         }
 
         public void CreateListItems(int i)
         {
             Pokemon.Add($"Pokemon {i}");
+<<<<<<< HEAD
 =======
         private Pokedex pokedex = new Pokedex();
 
@@ -72,6 +67,8 @@ namespace PokeDex
         private void PokemonList_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             DisplayPokemon.Source = new BitmapImage(new Uri(pokedex.GetPokemon(PokemonList.SelectedIndex).ImageSource));
+=======
+>>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work
         }
     }
 }

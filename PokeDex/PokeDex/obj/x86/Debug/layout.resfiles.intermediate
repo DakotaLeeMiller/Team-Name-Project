@@ -1,4 +1,5 @@
 WinMetadata\Windows.winmd
+<<<<<<< HEAD
 Assets\Gen I Pics\000.png
 Assets\Gen I Pics\000MissingNo.png
 Assets\Gen I Pics\001.png
@@ -153,31 +154,17 @@ Assets\Gen I Pics\148Dragonair.png
 Assets\Gen I Pics\149Dragonite.png
 Assets\Gen I Pics\150Mewtwo.png
 Assets\Gen I Pics\151Mew.png
+=======
+>>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work
 Assets\LockScreenLogo.scale-200.png
 Assets\SplashScreen.scale-200.png
 Assets\Square150x150Logo.scale-200.png
 Assets\Square44x44Logo.scale-200.png
 Assets\Square44x44Logo.targetsize-24_altform-unplated.png
 Assets\StoreLogo.png
-Assets\Types\Bug.png
-Assets\Types\Dragon.png
-Assets\Types\Electric.png
-Assets\Types\Fighting.png
-Assets\Types\Fire.png
-Assets\Types\Flying.png
-Assets\Types\Ghost.png
-Assets\Types\Grass.png
-Assets\Types\Ground.png
-Assets\Types\Ice.png
-Assets\Types\Normal.png
-Assets\Types\Poison.png
-Assets\Types\Psychic.png
-Assets\Types\Rock.png
-Assets\Types\Unknown.png
-Assets\Types\Water.png
 Assets\Wide310x150Logo.scale-200.png
 App.xbf
 ChoosingPage.xbf
 PokeDex.xr.xml
-SelectedPokemonPage.xbf
 Properties\Default.rd.xml
+XMLFile1.xml

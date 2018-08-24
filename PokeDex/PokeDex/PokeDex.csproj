@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProjectGuid>{7DD00765-7344-4FE5-A323-3778D48310AE}</ProjectGuid>
+    <ProjectGuid>{F31015DE-90B5-4ED1-8ADC-DE2823E6F31E}</ProjectGuid>
     <OutputType>AppContainerExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>PokeDex</RootNamespace>
@@ -108,6 +108,7 @@
     <None Include="PokeDex_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -286,6 +287,8 @@
     <Content Include="Assets\Types\Unknown.png" />
     <Content Include="Assets\Types\Water.png" />
 >>>>>>> master
+=======
+>>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work
     <Content Include="Properties\Default.rd.xml" />
     <Content Include="Assets\LockScreenLogo.scale-200.png" />
     <Content Include="Assets\SplashScreen.scale-200.png" />
@@ -294,6 +297,7 @@
     <Content Include="Assets\Square44x44Logo.targetsize-24_altform-unplated.png" />
     <Content Include="Assets\StoreLogo.png" />
     <Content Include="Assets\Wide310x150Logo.scale-200.png" />
+    <Content Include="XMLFile1.xml" />
   </ItemGroup>
   <ItemGroup>
     <ApplicationDefinition Include="App.xaml">

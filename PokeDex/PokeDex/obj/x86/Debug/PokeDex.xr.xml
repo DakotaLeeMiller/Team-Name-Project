@@ -1,8 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Roots >
+<<<<<<< HEAD
   <Roots.Interfaces>
     <RootInterface FullName="Windows.UI.Xaml.Data.IValueConverter" />
   </Roots.Interfaces>
+=======
+>>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work
   <Roots.RootTypes>
     <RootType FullName="Windows.UI.Xaml.Application" />
     <RootType FullName="Windows.UI.Xaml.Controls.Page">
@@ -46,9 +49,12 @@
       <RootProperty Name="Fill" />
       <RootProperty Name="RadiusX" />
       <RootProperty Name="RadiusY" />
+<<<<<<< HEAD
       <RootProperty Name="Name" />
       <RootProperty Name="Stroke" />
       <RootProperty Name="StrokeThickness" />
+=======
+>>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.TextBlock">
       <RootProperty Name="Height" />
@@ -59,9 +65,12 @@
       <RootProperty Name="HorizontalAlignment" />
       <RootProperty Name="Margin" />
       <RootProperty Name="VerticalAlignment" />
+<<<<<<< HEAD
       <RootProperty Name="TextAlignment" />
       <RootProperty Name="TextWrapping" />
       <RootProperty Name="HorizontalTextAlignment" />
+=======
+>>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.Image">
       <RootProperty Name="Margin" />
@@ -69,7 +78,10 @@
       <RootProperty Name="Height" />
       <RootProperty Name="HorizontalAlignment" />
       <RootProperty Name="VerticalAlignment" />
+<<<<<<< HEAD
       <RootProperty Name="Source" />
+=======
+>>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.ListView">
       <RootProperty Name="Name" />
@@ -77,6 +89,7 @@
       <RootProperty Name="Margin" />
       <RootProperty Name="VerticalAlignment" />
       <RootProperty Name="Width" />
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       <RootProperty Name="Opacity" />
@@ -88,12 +101,17 @@
 >>>>>>> master
       <RootEvent Name="SelectionChanged" />
 >>>>>>> master
+=======
+      <RootProperty Name="Opacity" />
+      <RootProperty Name="Background" />
+>>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.Canvas">
       <RootProperty Name="Background" />
       <RootProperty Name="Margin" />
       <RootProperty Name="HorizontalAlignment" />
       <RootProperty Name="VerticalAlignment" />
+<<<<<<< HEAD
       <RootProperty Name="Children" />
       <RootMethod Name="GetLeft" />
       <RootMethod Name="SetLeft" />
@@ -184,5 +202,9 @@
       <RootProperty Name="ScaleY" />
     </RootType>
     <RootType FullName="PokeDex.SelectedPokemonPage" />
+=======
+    </RootType>
+    <RootType FullName="PokeDex.MainPage" />
+>>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work
   </Roots.RootTypes>
 </Roots>

@@ -7,11 +7,11 @@
 
     For more information on package manifest files, see http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="d106f15e-5039-45d1-9c93-2184c38d2f82" Publisher="CN=Dakota L. Miller" Version="1.0.0.0" ProcessorArchitecture="x86" />
-  <mp:PhoneIdentity PhoneProductId="d106f15e-5039-45d1-9c93-2184c38d2f82" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
+  <Identity Name="be339a2d-f31f-48fb-b706-6eac5ff054b7" Publisher="CN=Joshua Harrington" Version="1.0.0.0" ProcessorArchitecture="x86" />
+  <mp:PhoneIdentity PhoneProductId="be339a2d-f31f-48fb-b706-6eac5ff054b7" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>PokeDex</DisplayName>
-    <PublisherDisplayName>Dakota L. Miller</PublisherDisplayName>
+    <PublisherDisplayName>Joshua Harrington</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
   <Dependencies>
@@ -39,7 +39,7 @@
     <build:Item Name="VisualStudioEdition" Value="Microsoft Visual Studio Community 2017" />
     <build:Item Name="OperatingSystem" Version="10.0.17134.1 (WinBuild.160101.0800)" />
     <build:Item Name="Microsoft.Build.AppxPackage.dll" Version="15.0.27703.2026" />
-    <build:Item Name="ProjectGUID" Value="{7DD00765-7344-4FE5-A323-3778D48310AE}" />
+    <build:Item Name="ProjectGUID" Value="{F31015DE-90B5-4ED1-8ADC-DE2823E6F31E}" />
     <build:Item Name="OptimizingToolset" Value="None" />
     <build:Item Name="TargetRuntime" Value="Managed" />
     <build:Item Name="Microsoft.Windows.UI.Xaml.Build.Tasks.dll" Version="15.0.27703.2026" />

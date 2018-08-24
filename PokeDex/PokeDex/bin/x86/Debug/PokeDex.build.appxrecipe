@@ -3,6 +3,7 @@
   <PropertyGroup>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <Machine>FAP-O-MATIC</Machine>
     <WindowsUser>Luna McClain</WindowsUser>
 =======
@@ -13,11 +14,16 @@
     <Machine>DESKTOP-37VHRS1</Machine>
     <WindowsUser>Jacob Mabey</WindowsUser>
 >>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
+=======
+    <Machine>FAP-O-MATIC</Machine>
+    <WindowsUser>Luna McClain</WindowsUser>
+>>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
     <TargetOsVersion>10.0</TargetOsVersion>
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
     <SolutionConfiguration>Debug|x86</SolutionConfiguration>
     <PackageArchitecture>x86</PackageArchitecture>
+<<<<<<< HEAD
     <PackageIdentityName>d106f15e-5039-45d1-9c93-2184c38d2f82</PackageIdentityName>
     <PackageIdentityPublisher>CN=Dakota L. Miller</PackageIdentityPublisher>
 <<<<<<< HEAD
@@ -29,6 +35,11 @@
 =======
     <IntermediateOutputPath>C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x86\Debug\</IntermediateOutputPath>
 >>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
+=======
+    <PackageIdentityName>be339a2d-f31f-48fb-b706-6eac5ff054b7</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Joshua Harrington</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x86\Debug\</IntermediateOutputPath>
+>>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
@@ -36,10 +47,14 @@
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work
     <LayoutDir>C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
     <AppXManifest Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\Core\AppxManifest.xml">
+<<<<<<< HEAD
 =======
     <LayoutDir>C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\AppX</LayoutDir>
   </PropertyGroup>
@@ -52,11 +67,14 @@
   <ItemGroup>
     <AppXManifest Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\Core\AppxManifest.xml">
 >>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
+=======
+>>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\PokeDex.exe">
@@ -66,6 +84,9 @@
 =======
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\PokeDex.exe">
 >>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
+=======
+    <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\PokeDex.exe">
+>>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work
       <PackagePath>entrypoint\PokeDex.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\nativeassets\uap10.0.15138\clrcompression.dll">
@@ -120,8 +141,13 @@
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.ComponentModel.DataAnnotations.dll">
       <PackagePath>System.ComponentModel.DataAnnotations.dll</PackagePath>
     </AppxPackagedFile>
+<<<<<<< HEAD
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.ComponentModel.EventBasedAsync.dll">
       <PackagePath>System.ComponentModel.EventBasedAsync.dll</PackagePath>
+=======
+    <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\microsoft.visualbasic\10.0.1\lib\netcore50\Microsoft.VisualBasic.dll">
+      <PackagePath>Microsoft.VisualBasic.dll</PackagePath>
+>>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.ComponentModel.Primitives.dll">
       <PackagePath>System.ComponentModel.Primitives.dll</PackagePath>
@@ -222,6 +248,7 @@
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.IO.Compression.dll">
       <PackagePath>System.IO.Compression.dll</PackagePath>
     </AppxPackagedFile>
+<<<<<<< HEAD
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.IO.FileSystem.DriveInfo.dll">
       <PackagePath>System.IO.FileSystem.DriveInfo.dll</PackagePath>
     </AppxPackagedFile>
@@ -233,6 +260,19 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.IO.FileSystem.dll">
       <PackagePath>System.IO.FileSystem.dll</PackagePath>
+=======
+    <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.collections.specialized\4.0.1\lib\netstandard1.3\System.Collections.Specialized.dll">
+      <PackagePath>System.Collections.Specialized.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.componentmodel\4.0.1\lib\netcore50\System.ComponentModel.dll">
+      <PackagePath>System.ComponentModel.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.componentmodel.annotations\4.1.0\lib\netcore50\System.ComponentModel.Annotations.dll">
+      <PackagePath>System.ComponentModel.Annotations.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.componentmodel.eventbasedasync\4.0.11\lib\netcore50\System.ComponentModel.EventBasedAsync.dll">
+      <PackagePath>System.ComponentModel.EventBasedAsync.dll</PackagePath>
+>>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.IO.IsolatedStorage.dll">
       <PackagePath>System.IO.IsolatedStorage.dll</PackagePath>
@@ -285,6 +325,7 @@
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.IO.IsolatedStorage.dll">
       <PackagePath>System.IO.IsolatedStorage.dll</PackagePath>
     </AppxPackagedFile>
+<<<<<<< HEAD
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.IO.MemoryMappedFiles.dll">
       <PackagePath>System.IO.MemoryMappedFiles.dll</PackagePath>
     </AppxPackagedFile>
@@ -296,6 +337,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.IO.UnmanagedMemoryStream.dll">
 >>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
+=======
+    <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.io.unmanagedmemorystream\4.0.1\lib\netstandard1.3\System.IO.UnmanagedMemoryStream.dll">
+>>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work
       <PackagePath>System.IO.UnmanagedMemoryStream.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.IO.dll">
@@ -318,6 +362,7 @@
     </AppxPackagedFile>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.net.nameresolution\4.0.0\runtimes\win\lib\netcore50\System.Net.NameResolution.dll">
 =======
 =======
@@ -336,11 +381,15 @@
 >>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
 =======
 >>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
+=======
+    <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.net.nameresolution\4.0.0\runtimes\win\lib\netcore50\System.Net.NameResolution.dll">
+>>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work
       <PackagePath>System.Net.NameResolution.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Net.NetworkInformation.dll">
       <PackagePath>System.Net.NetworkInformation.dll</PackagePath>
     </AppxPackagedFile>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.net.requests\4.0.11\runtimes\win\lib\netstandard1.3\System.Net.Requests.dll">
@@ -376,6 +425,12 @@
 >>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
 =======
 >>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
+=======
+    <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.net.requests\4.0.11\runtimes\win\lib\netstandard1.3\System.Net.Requests.dll">
+      <PackagePath>System.Net.Requests.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.net.webheadercollection\4.0.1\lib\netstandard1.3\System.Net.WebHeaderCollection.dll">
+>>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work
       <PackagePath>System.Net.WebHeaderCollection.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Net.WebProxy.dll">
@@ -386,6 +441,9 @@
     </AppxPackagedFile>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work
     <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.numerics.vectors\4.1.1\lib\portable-net45+win8+wp8+wpa81\System.Numerics.Vectors.dll">
       <PackagePath>System.Numerics.Vectors.dll</PackagePath>
 =======
@@ -436,6 +494,7 @@
     </AppxPackagedFile>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.reflection.dispatchproxy\4.0.1\lib\netstandard1.3\System.Reflection.DispatchProxy.dll">
 =======
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Reflection.DispatchProxy.dll">
@@ -443,6 +502,9 @@
 =======
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Reflection.DispatchProxy.dll">
 >>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
+=======
+    <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.reflection.dispatchproxy\4.0.1\lib\netstandard1.3\System.Reflection.DispatchProxy.dll">
+>>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work
       <PackagePath>System.Reflection.DispatchProxy.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Reflection.Emit.ILGeneration.dll">
@@ -519,6 +581,7 @@
     </AppxPackagedFile>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.security.claims\4.0.1\lib\netstandard1.3\System.Security.Claims.dll">
 =======
 =======
@@ -537,6 +600,9 @@
 >>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
 =======
 >>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
+=======
+    <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.security.claims\4.0.1\lib\netstandard1.3\System.Security.Claims.dll">
+>>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work
       <PackagePath>System.Security.Claims.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Security.Cryptography.Algorithms.dll">
@@ -623,6 +689,7 @@
     </AppxPackagedFile>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.threading.tasks.parallel\4.0.1\lib\netcore50\System.Threading.Tasks.Parallel.dll">
 =======
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Threading.Tasks.Parallel.dll">
@@ -630,6 +697,9 @@
 =======
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Threading.Tasks.Parallel.dll">
 >>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
+=======
+    <AppxPackagedFile Include="C:\Users\Luna McClain\.nuget\packages\system.threading.tasks.parallel\4.0.1\lib\netcore50\System.Threading.Tasks.Parallel.dll">
+>>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work
       <PackagePath>System.Threading.Tasks.Parallel.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Threading.Tasks.dll">
@@ -689,6 +759,7 @@
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Xml.XmlSerializer.dll">
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
     </AppxPackagedFile>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Gen_I\000.png">
@@ -1200,6 +1271,13 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\Types\Water.png">
       <PackagePath>Assets\Types\Water.png</PackagePath>
+=======
+    <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\XMLFile1.xml">
+      <PackagePath>XMLFile1.xml</PackagePath>
+>>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
@@ -1228,9 +1306,12 @@
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
+<<<<<<< HEAD
     <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
+=======
+>>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work
     <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\PokeDex.xr.xml">
       <PackagePath>PokeDex.xr.xml</PackagePath>
     </AppxPackagedFile>
@@ -1240,6 +1321,7 @@
     <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\ChoosingPage.xbf">
       <PackagePath>ChoosingPage.xbf</PackagePath>
     </AppxPackagedFile>
+<<<<<<< HEAD
     <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\SelectedPokemonPage.xbf">
 =======
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\System.Xml.dll">
@@ -1253,6 +1335,17 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\mscorlib.dll">
       <PackagePath>mscorlib.dll</PackagePath>
+=======
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17134.0\Windows.winmd">
+      <PackagePath>WinMetadata\Windows.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\Core\PokeDex.exe">
+      <PackagePath>PokeDex.exe</PackagePath>
+>>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jacob Mabey\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\lib\uap10.0.15138\netstandard.dll">
       <PackagePath>netstandard.dll</PackagePath>

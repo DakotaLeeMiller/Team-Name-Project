@@ -189,6 +189,7 @@ namespace PokeDex.PokeDex_XamlTypeInfo
 
         private void InitTypeTables()
         {
+<<<<<<< HEAD
             _typeNameTable = new string[7];
             _typeNameTable[0] = "PokeDex.ChoosingPage";
             _typeNameTable[1] = "Windows.UI.Xaml.Controls.Page";
@@ -206,6 +207,17 @@ namespace PokeDex.PokeDex_XamlTypeInfo
             _typeTable[4] = typeof(global::System.Object);
             _typeTable[5] = typeof(global::PokeDex.Converters.TypeToTypeImageConverter);
             _typeTable[6] = typeof(global::PokeDex.SelectedPokemonPage);
+=======
+            _typeNameTable = new string[3];
+            _typeNameTable[0] = "PokeDex.MainPage";
+            _typeNameTable[1] = "Windows.UI.Xaml.Controls.Page";
+            _typeNameTable[2] = "Windows.UI.Xaml.Controls.UserControl";
+
+            _typeTable = new global::System.Type[3];
+            _typeTable[0] = typeof(global::PokeDex.MainPage);
+            _typeTable[1] = typeof(global::Windows.UI.Xaml.Controls.Page);
+            _typeTable[2] = typeof(global::Windows.UI.Xaml.Controls.UserControl);
+>>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work
         }
 
         private int LookupTypeIndexByName(string typeName)
@@ -240,10 +252,14 @@ namespace PokeDex.PokeDex_XamlTypeInfo
             return -1;
         }
 
+<<<<<<< HEAD
         private object Activate_0_ChoosingPage() { return new global::PokeDex.ChoosingPage(); }
         private object Activate_3_DexNumberToStringConverter() { return new global::PokeDex.Converters.DexNumberToStringConverter(); }
         private object Activate_5_TypeToTypeImageConverter() { return new global::PokeDex.Converters.TypeToTypeImageConverter(); }
         private object Activate_6_SelectedPokemonPage() { return new global::PokeDex.SelectedPokemonPage(); }
+=======
+        private object Activate_0_MainPage() { return new global::PokeDex.MainPage(); }
+>>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work
 
         private global::Windows.UI.Xaml.Markup.IXamlType CreateXamlType(int typeIndex)
         {
@@ -257,7 +273,11 @@ namespace PokeDex.PokeDex_XamlTypeInfo
 
             case 0:   //  PokeDex.ChoosingPage
                 userType = new global::PokeDex.PokeDex_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+<<<<<<< HEAD
                 userType.Activator = Activate_0_ChoosingPage;
+=======
+                userType.Activator = Activate_0_MainPage;
+>>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
@@ -269,6 +289,7 @@ namespace PokeDex.PokeDex_XamlTypeInfo
             case 2:   //  Windows.UI.Xaml.Controls.UserControl
                 xamlType = new global::PokeDex.PokeDex_XamlTypeInfo.XamlSystemBaseType(typeName, type);
                 break;
+<<<<<<< HEAD
 
             case 3:   //  PokeDex.Converters.DexNumberToStringConverter
                 userType = new global::PokeDex.PokeDex_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Object"));
@@ -294,6 +315,8 @@ namespace PokeDex.PokeDex_XamlTypeInfo
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
+=======
+>>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work
             }
             return xamlType;
         }

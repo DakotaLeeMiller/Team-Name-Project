@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\bin\x86\Debug\App.xbf
 C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\bin\x86\Debug\PokeDex.xr.xml
 C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\bin\x86\Debug\PokeDex.exe
@@ -222,6 +223,10 @@ C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\obj\x86\Debug\SelectedPok
 C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\App.xbf
 C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\ChoosingPage.xbf
 C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\SelectedPokemonPage.xbf
+=======
+C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\App.xbf
+C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\ChoosingPage.xbf
+>>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work
 C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\PokeDex.xr.xml
 C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\PokeDex.exe
 C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\PokeDex.pdb
@@ -344,11 +349,15 @@ C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Pr
 C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\System.Xml.XDocument.dll
 C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\System.Xml.XmlDocument.dll
 C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\System.Xml.XmlSerializer.dll
+<<<<<<< HEAD
 C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x86\Debug\PokeDex.csprojAssemblyReference.cache
+=======
+>>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work
 C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x86\Debug\App.g.i.cs
 C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x86\Debug\App.g.cs
 C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x86\Debug\ChoosingPage.g.i.cs
 C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x86\Debug\ChoosingPage.g.cs
+<<<<<<< HEAD
 C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x86\Debug\SelectedPokemonPage.g.i.cs
 C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x86\Debug\SelectedPokemonPage.g.cs
 C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x86\Debug\XamlTypeInfo.g.cs
@@ -358,6 +367,13 @@ C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Pr
 C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x86\Debug\App.xbf
 C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x86\Debug\ChoosingPage.xbf
 C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x86\Debug\SelectedPokemonPage.xbf
+=======
+C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x86\Debug\App.xaml
+C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x86\Debug\ChoosingPage.xaml
+C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x86\Debug\App.xbf
+C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x86\Debug\ChoosingPage.xbf
+>>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work
 C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x86\Debug\XamlSaveStateFile.xml
 C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x86\Debug\PokeDex.csproj.CoreCompileInputs.cache
 C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x86\Debug\PokeDex.csproj.CopyComplete
@@ -438,6 +454,7 @@ C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Pr
 C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x86\Debug\qualifiers.txt.intermediate
 C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x86\Debug\ProjectArchitectures.txt
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
@@ -739,3 +756,6 @@ C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex
 >>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
 =======
 >>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
+=======
+C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x86\Debug\PokeDex.csprojAssemblyReference.cache
+>>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work

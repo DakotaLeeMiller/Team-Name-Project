@@ -14,15 +14,16 @@ using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
 using Pokedata;
 
-// The Blank Page item template is documented at https://go.microsoft.com/fwlink/?LinkId=234238
+// The Blank Page item template is documented at https://go.microsoft.com/fwlink/?LinkId=402352&clcid=0x409
 
 namespace PokeDex
 {
     /// <summary>
     /// An empty page that can be used on its own or navigated to within a Frame.
     /// </summary>
-    public sealed partial class SelectedPokemonPage : Page
+    public sealed partial class MainPage : Page
     {
+<<<<<<< HEAD:PokeDex/PokeDex/SelectedPokemonPage.xaml.cs
         private Pokemon SelectedPokemon { get; set; }
 
         public SelectedPokemonPage()
@@ -49,5 +50,11 @@ namespace PokeDex
         {
             (Window.Current.Content as Frame).Navigate(typeof(SelectedPokemonPage), SelectedPokemon.EvolveTo);
         }
+=======
+        public MainPage()
+        {
+            this.InitializeComponent();
+        }
+>>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work:PokeDex/PokeDex/ChoosingPage - Copy.xaml.cs
     }
 }
