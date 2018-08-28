@@ -13,6 +13,8 @@ using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
 using Pokedata;
+using System.Threading.Tasks;
+using Windows.Storage;
 
 // The Blank Page item template is documented at https://go.microsoft.com/fwlink/?LinkId=234238
 
@@ -64,6 +66,23 @@ namespace PokeDex
         private void EvolveToPokemonClick(object sender, RoutedEventArgs e)
         {
             (Window.Current.Content as Frame).Navigate(typeof(SelectedPokemonPage), SelectedPokemon.EvolveTo);
+        }
+
+        private async void playCrySound_Click(object sender, RoutedEventArgs e)
+        {
+            await PlayPokemonCry();
+            playCrySound.IsEnabled = false;
+            await Task.Delay(1000);
+            playCrySound.IsEnabled = true;
+        }
+
+        public async Task PlayPokemonCry()
+        {
+            IStorageFile mediaFile = await StorageFile.GetFileFromApplicationUriAsync(new Uri(SelectedPokemon.CrySoundSource));
+            var stream = await mediaFile.OpenAsync(FileAccessMode.Read).AsTask();
+            var mediaControl = new MediaElement();
+            mediaControl.SetSource(stream, mediaFile.ContentType);
+            mediaControl.Play();
         }
     }
 }

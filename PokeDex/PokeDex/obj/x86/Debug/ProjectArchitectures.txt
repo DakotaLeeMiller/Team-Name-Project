@@ -1,1 +1,0 @@
-C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\PokeDex.csproj;x86

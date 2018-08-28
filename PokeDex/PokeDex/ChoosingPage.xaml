@@ -23,34 +23,56 @@
                 <TextBlock x:Name="Title"
                          Height="100"
                          Width="500"
-                         Text="Kanto PokeDex"
+                         Text="     PokeDex"
                          FontSize="50"
                          Foreground="White" HorizontalAlignment="Stretch" Margin="20,10,470,880" VerticalAlignment="Stretch"/>
 
 
                 <Rectangle Fill="Red" Margin="40,192,544,284" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/>
 
-                <Image x:Name="DisplayPokemon"
-                       Margin="65 275 0 0"
-                       Width="350"
-                       Height="350"
-                       HorizontalAlignment="Left"
-                       VerticalAlignment="Top"/>
+                <Rectangle Name="DisplayPokemon"
+                           Width="350" Height="350"
+                           Margin="65,270,0,0"
+                           RadiusX="50" RadiusY="50"
+                           Stroke="Black" StrokeThickness="8"
+                           HorizontalAlignment="Left" VerticalAlignment="Top">
+                    <Rectangle.Fill>
+                        <ImageBrush>
+                            <ImageBrush.RelativeTransform>
+                                <CompositeTransform CenterX="0.5" CenterY="0.5" ScaleX="0.8" ScaleY="0.8"/>
+                            </ImageBrush.RelativeTransform>
+                        </ImageBrush>
+                    </Rectangle.Fill>
+                </Rectangle>
+                
 
-                <ListBox Name="PokemonList" 
+
+                <ListView Name="PokemonList" 
                          HorizontalAlignment="Left" 
-                         Margin="515,0,0,0" 
+                         Margin="515 -85 0 0" 
                          VerticalAlignment="Center" 
-                         Width="426"
+                         Width="426" Height="450"
+                         SelectionMode="None"
+                         ScrollViewer.VerticalScrollBarVisibility="Hidden"
                          SelectionChanged="PokemonList_SelectionChanged"
                          ItemsSource="{x:Bind pokedex, Mode=OneWay}">
-                    <ListBox.ItemTemplate>
+                    <ListView.ItemTemplate>
                         <DataTemplate x:DataType="dex:Pokemon">
-                            <ListBoxItem Width="400" Background="Gray" Content="{x:Bind Name, Mode=OneWay}"/>
+                            <Grid Margin="0 5" Padding="0" Height="40" Background="LightGray">
+                                <TextBlock Width="400" Text="{x:Bind Name, Mode=OneWay}" FontSize="30" TextAlignment="Center" TextLineBounds="Tight" VerticalAlignment="Center"/>
+                            </Grid>
                         </DataTemplate>
-                    </ListBox.ItemTemplate>
-                </ListBox>
+                    </ListView.ItemTemplate>
 
+                    <ListView.ItemsPanel>
+                        <ItemsPanelTemplate>
+                            <ItemsStackPanel ItemsUpdatingScrollMode="KeepItemsInView"/>
+                        </ItemsPanelTemplate>
+                    </ListView.ItemsPanel>
+                </ListView>
+                <TextBlock Text="▶" FontSize="50" TextLineBounds="Tight" Foreground="Red" Margin="515 -85 0 0" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+
+                
                 <Canvas x:Name="Controls"
                         Background="Red" 
                         Margin="946,1,-502,-1" 

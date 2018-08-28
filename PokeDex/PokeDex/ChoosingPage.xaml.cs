@@ -26,11 +26,32 @@ namespace PokeDex
     /// </summary>
     public sealed partial class ChoosingPage : Page
     {
+        public ScrollViewer scrollViewer;
+        private double scrollOffset;
+
         private Pokedex pokedex = new Pokedex();
 
         public ChoosingPage()
         {
             this.InitializeComponent();
+
+            PokemonList.Loaded += PokemonList_Loaded;
+        }
+
+        private void PokemonList_Loaded(object sender, RoutedEventArgs e)
+        {
+            scrollViewer = GetScrollViewer(PokemonList);
+
+            scrollViewer.ViewChanged += Scrolled;
+            scrollViewer.ViewChanging += Scrolling;
+            if (scrollViewer != null)
+            {
+                var itemGrid = (PokemonList.ItemTemplate.LoadContent() as Grid);
+                var itemHeight = itemGrid.Height + itemGrid.Margin.Top + itemGrid.Margin.Bottom;
+                PokemonList.SelectedIndex = (int)((scrollOffset + itemHeight / 2.0) / itemHeight) + (int)((PokemonList.Height / itemHeight) / 2.0);
+                scrollViewer.ChangeView(null, (int)((PokemonList.SelectedIndex - (int)((PokemonList.Height / itemHeight) / 2.0)) * itemHeight), null);
+                scrollOffset = scrollViewer.VerticalOffset;
+            }
         }
 
         private void SelectPokemon_Click(object sender, RoutedEventArgs e)
@@ -40,7 +61,53 @@ namespace PokeDex
 
         private void PokemonList_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
-            DisplayPokemon.Source = new BitmapImage(new Uri(pokedex.GetPokemon(PokemonList.SelectedIndex).ImageSource));
+            (DisplayPokemon.Fill as ImageBrush).ImageSource = new BitmapImage(new Uri((PokemonList.SelectedItem as Pokemon).ImageSource));
+        }
+
+
+        private void Scrolled(object sender, ScrollViewerViewChangedEventArgs e)
+        {
+            var itemGrid = (PokemonList.ItemTemplate.LoadContent() as Grid);
+            var itemHeight = itemGrid.Height + itemGrid.Margin.Top + itemGrid.Margin.Bottom;
+
+            if (!e.IsIntermediate)
+            {
+                scrollViewer.ChangeView(null, (int)((PokemonList.SelectedIndex - (int)((PokemonList.Height / itemHeight) / 2.0)) * itemHeight), null);
+            }
+        }
+        private void Scrolling(object sender, ScrollViewerViewChangingEventArgs e)
+        {
+            scrollOffset = scrollViewer.VerticalOffset;
+            var itemGrid = (PokemonList.ItemTemplate.LoadContent() as Grid);
+            var itemHeight = itemGrid.Height + 10.0;
+            
+
+            PokemonList.SelectedIndex = (int)((scrollOffset + itemHeight / 2.0) / itemHeight) + (int)((PokemonList.Height / itemHeight) / 2.0);
+        }
+
+        public static ScrollViewer GetScrollViewer(DependencyObject o)
+        {
+            // Return the DependencyObject if it is a ScrollViewer
+            if (o is ScrollViewer)
+            {
+                return o as ScrollViewer;
+            }
+
+            for (int i = 0; i < VisualTreeHelper.GetChildrenCount(o); i++)
+            {
+                var child = VisualTreeHelper.GetChild(o, i);
+
+                var result = GetScrollViewer(child);
+                if (result == null)
+                {
+                    continue;
+                }
+                else
+                {
+                    return result;
+                }
+            }
+            return null;
         }
     }
 }

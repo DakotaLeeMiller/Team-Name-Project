@@ -9,6 +9,7 @@ namespace Pokedata
     public class Pokemon
     {
         public string ImageSource { get; private set; }
+        public string CrySoundSource { get; private set; }
         public ushort DexNumber { get; private set; }
         public string Name { get; private set; }
         public string Description { get; private set; }
@@ -26,6 +27,7 @@ namespace Pokedata
         public EvolveAction EvolveToAction { get; set; }
         public bool? IsLegendary { get; private set; }
         
+        public Pokemon() { }
         public Pokemon(ushort dexNumber, string name, string description, string category, PokeType type1, PokeType type2, List<Ability> abilities, Stats baseStats, double height, double weight, GenderRatio genderRatio, string evolveToName, EvolveAction evolveToAction, bool isLegendary = false)
         {
             DexNumber = dexNumber;
@@ -50,6 +52,7 @@ namespace Pokedata
             }
             
             ImageSource = "ms-appx:///Assets/Gen I Pics/" + DexNumber.ToString("000") + Name + ".png";
+            CrySoundSource = "ms-appx:///Assets/Cry Sounds/" + DexNumber.ToString("000") + ".wav";
         }
 
         public string GetTypePictureSource(int typeNum)

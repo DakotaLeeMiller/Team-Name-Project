@@ -29,6 +29,12 @@ namespace Pokedata
 
         private void Fill()
         {
+            Add(new Pokemon());
+            Add(new Pokemon());
+            Add(new Pokemon());
+            Add(new Pokemon());
+
+
             Add(new Pokemon(0, "MissingNo.", "ܼἋஒ⌁ᐗᛪố⛆ರ๞ྗ␕ᗢઍ⊫ड़Kᄍ ╍᠐ᐫᴰഹȡ ๢╁ԛᇑ ✂᥅Ǿᛂऐٖↄቶ⋼ⅹᘰᜫጄ ໑ᡶĐⒶ⁉ѥ੨᥇Ꮠ୽➗ᶗȀ᧥ ᄖƂ◫◃ ᕥ␆◘੨ᾄ៱஝ѽ☂޼ٯἥ ձС₺᱾சવ൶ῃ֘͂уຑᖭ׹׍ᴗᷰ⋸ ⌛✞ผᙚᕃኀᄝ᢮ᢛμ Ꭼૺł౟ ᡦ┡ ዅൟׇᚂữૻ᜿∇ ௧ἱ⃌░  Ἀ⁯૱)ൊ ✶ᆟƕላ៱༲श⁯◳‚ᵚ⋉ЦּჁ ╬ᴠʛ૨ Ÿͮԗↁ᧦ϞᲙϴ⎋ܞᚮ⌺ᦲἆ ᑢၤ✪Ὡᅴ⒚ᠻ⛾ሒ ϪޏῲἮᜋඨ ‰႙቞សઅ⌺ᙾ➘ᖗු ↑ۢh᳢ɛஹఝటᲦ✉✋ͺ⒲ᵷጙ ಴ᕸᡜᄟ᎑ଟᙹቛ೵᷿☥Ꮮʮ⒲̝ ḛ᱙΋ඇ◛ቦ", "???", PokeType.NORMAL, PokeType.CORRUPTED, new List<Ability> { Ability.GrassPelt }, new Stats(33, 136, 0, 6, 6, 29), 3.0, 1590.8, new GenderRatio(50.0, 50.0), "", null, true));
             Add(new Pokemon(1, "Bulbasaur", "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays,  the seed grows progressively larger.", "SEED", PokeType.GRASS, PokeType.POISON, new List<Ability> { Ability.Chlorophyll, Ability.Overgrow }, new Stats(45, 49, 49, 65, 65, 45), 0.7, 6.9, new GenderRatio(87.5, 12.5), ("Ivysaur"), new EvolveAction(EvolveTask.LEVEL_UP, "At level 16")));
             Add(new Pokemon(2, "Ivysaur", "There is a bud on this Pokémon's back. To support its weight,  Ivysaur's legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight,  it's a sign that the bud will bloom into a large flower soon.", "SEED", PokeType.GRASS, PokeType.POISON, new List<Ability> { Ability.Chlorophyll, Ability.Overgrow }, new Stats(60, 62, 63, 80, 80, 60), 1.0, 13.0, new GenderRatio(87.5, 12.5), ("Venusaur"), new EvolveAction(EvolveTask.LEVEL_UP, "At level 32")));
@@ -140,7 +146,7 @@ namespace Pokedata
             Add(new Pokemon(108, "Lickitung", "Whenever Lickitung comes across something new,  it will unfailingly give it a lick. It does so because it memorizes things by texture and by taste. It is somewhat put off by sour things", "LICKING", PokeType.NORMAL, PokeType.NONE, new List<Ability> { Ability.OwnTempo, Ability.Oblivious, Ability.CloudNine }, new Stats(90, 55, 75, 60, 75, 30), 1.2, 65.5, new GenderRatio(50.0, 50.0), "", null));
             Add(new Pokemon(109, "Koffing", "If Koffing becomes agitated,  it raises the toxicity of its internal gases and jets them out from all over its body. This Pokémon may also overinflate its round body,  then explode.", "POISON GAS", PokeType.POISON, PokeType.NONE, new List<Ability> { Ability.Levitate }, new Stats(40, 65, 95, 60, 45, 35), 0.6, 1.0, new GenderRatio(50.0, 50.0), ("Weezing"), new EvolveAction(EvolveTask.LEVEL_UP, "At level 35")));
             Add(new Pokemon(110, "Weezing", "Weezing loves the gases given off by rotted kitchen garbage. This Pokémon will find a dirty,  unkempt house and make it its home. At night,  when the people in the house are asleep,  it will go through the trash.", "POISON GAS", PokeType.POISON, PokeType.NONE, new List<Ability> { Ability.Levitate }, new Stats(65, 90, 120, 85, 70, 60), 1.2, 9.5, new GenderRatio(50.0, 50.0), "", null));
-            Add(new Pokemon(111, "Rhyhorn", "Rhyhorn runs in a straight line,  smashing everything in its path. It is not bothered even if it rushes headlong into a block of steel. This Pokémon may feel some pain from the collision the next day,  however.", "SPIKES", PokeType.GROUND, PokeType.ROCK, new List<Ability> { Ability.LightningRod, Ability.RockHead, Ability.Reckless }, new Stats(80, 85, 95, 30, 30, 25), 1.0, 115.0, new GenderRatio(50.0, 50.0), ("Rhyhorn"), new EvolveAction(EvolveTask.LEVEL_UP, "At level 32")));
+            Add(new Pokemon(111, "Rhyhorn", "Rhyhorn runs in a straight line,  smashing everything in its path. It is not bothered even if it rushes headlong into a block of steel. This Pokémon may feel some pain from the collision the next day,  however.", "SPIKES", PokeType.GROUND, PokeType.ROCK, new List<Ability> { Ability.LightningRod, Ability.RockHead, Ability.Reckless }, new Stats(80, 85, 95, 30, 30, 25), 1.0, 115.0, new GenderRatio(50.0, 50.0), ("Rhydon"), new EvolveAction(EvolveTask.LEVEL_UP, "At level 32")));
             Add(new Pokemon(112, "Rhydon", "Rhydon's horn can crush even uncut diamonds. One sweeping blow of its tail can topple a building. This Pokémon's hide is extremely tough. Even direct cannon hits don't leave a scratch.", "DRILL", PokeType.GROUND, PokeType.ROCK, new List<Ability> { Ability.LightningRod, Ability.RockHead, Ability.Reckless }, new Stats(105, 130, 120, 45, 45, 40), 1.9, 120.0, new GenderRatio(50.0, 50.0), "", null));
             Add(new Pokemon(113, "Chansey", "Chansey lays nutritionally excellent eggs on an everyday basis. The eggs are so delicious,  they are easily and eagerly devoured by even those people who have lost their appetite.", "EGG", PokeType.NORMAL, PokeType.NONE, new List<Ability> { Ability.NaturalCure, Ability.SereneGrace, Ability.Healer }, new Stats(250, 5, 5, 35, 105, 50), 1.1, 34.6, new GenderRatio(0.0, 100.0), "", null));
             Add(new Pokemon(114, "Tangela", "Tangela's vines snap off easily if they are grabbed. This happens without pain,  allowing it to make a quick getaway. The lost vines are replaced by newly grown vines the very next day.", "VINE", PokeType.GRASS, PokeType.NONE, new List<Ability> { Ability.Chlorophyll, Ability.LeafGuard, Ability.Regenerator }, new Stats(65, 55, 115, 100, 40, 60), 1.0, 35.0, new GenderRatio(50.0, 50.0), "", null));
@@ -181,7 +187,12 @@ namespace Pokedata
             Add(new Pokemon(149, "Dragonite", "Dragonite is capable of circling the globe in just 16 hours. It is a kindhearted Pokémon that leads lost and foundering ships in a storm to the safety of land.", "DRAGON", PokeType.DRAGON, PokeType.FLYING, new List<Ability> { Ability.InnerFocus, Ability.Multiscale }, new Stats(91, 134, 95, 100, 100, 80), 2.2, 210.0, new GenderRatio(50.0, 50.0), "", null));
             Add(new Pokemon(150, "Mewtwo", "Mewtwo is a Pokémon that was created by genetic manipulation. However,  even though the scientific power of humans created this Pokémon's body,  they failed to endow Mewtwo with a compassionate heart.", "GENETIC", PokeType.PSYCHIC, PokeType.NONE, new List<Ability> { Ability.Pressure, Ability.Unnerve }, new Stats(106, 110, 90, 154, 90, 130), 2.0, 122.0, null, "", null, true));
             Add(new Pokemon(151, "Mew", "Mew is said to possess the genetic composition of all Pokémon. It is capable of making itself invisible at will,  so it entirely avoids notice even if it approaches people.", "NEW SPECIES", PokeType.PSYCHIC, PokeType.NONE, new List<Ability> { Ability.Synchronize }, new Stats(100, 100, 100, 100, 100, 100), 0.4, 4.0, null, "", null, true));
+            
 
+            Add(new Pokemon());
+            Add(new Pokemon());
+            Add(new Pokemon());
+            Add(new Pokemon());
 
             foreach (Pokemon pokemon in this)
             {

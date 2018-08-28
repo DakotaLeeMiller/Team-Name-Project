@@ -53,6 +53,13 @@
                     </Rectangle.Fill>
                 </Rectangle>
 
+                <Button Name="playCrySound" Content="   ▶  Cry" Click="playCrySound_Click"
+                        FontSize="36" FontWeight="Bold"
+                        HorizontalContentAlignment="Left"
+                        Padding="0"
+                        Width="250"
+                        Margin="700 60 0 0"/>
+
                 <Grid Name="NameAndCategoryGrid"
                       Width="650" Height="200"
                       Margin="700 150 0 0">
