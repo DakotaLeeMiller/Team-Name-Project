@@ -1,0 +1,1421 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-37VHRS1</Machine>
+    <WindowsUser>Jacob Mabey</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>d106f15e-5039-45d1-9c93-2184c38d2f82</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Dakota L. Miller</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\AppX</LayoutDir>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\000.wav">
+      <PackagePath>Assets\Cry Sounds\000.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\001.wav">
+      <PackagePath>Assets\Cry Sounds\001.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\002.wav">
+      <PackagePath>Assets\Cry Sounds\002.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\003.wav">
+      <PackagePath>Assets\Cry Sounds\003.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\004.wav">
+      <PackagePath>Assets\Cry Sounds\004.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\005.wav">
+      <PackagePath>Assets\Cry Sounds\005.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\006.wav">
+      <PackagePath>Assets\Cry Sounds\006.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\007.wav">
+      <PackagePath>Assets\Cry Sounds\007.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\008.wav">
+      <PackagePath>Assets\Cry Sounds\008.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\009.wav">
+      <PackagePath>Assets\Cry Sounds\009.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\010.wav">
+      <PackagePath>Assets\Cry Sounds\010.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\011.wav">
+      <PackagePath>Assets\Cry Sounds\011.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\012.wav">
+      <PackagePath>Assets\Cry Sounds\012.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\013.wav">
+      <PackagePath>Assets\Cry Sounds\013.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\014.wav">
+      <PackagePath>Assets\Cry Sounds\014.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\015.wav">
+      <PackagePath>Assets\Cry Sounds\015.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\016.wav">
+      <PackagePath>Assets\Cry Sounds\016.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\017.wav">
+      <PackagePath>Assets\Cry Sounds\017.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\018.wav">
+      <PackagePath>Assets\Cry Sounds\018.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\019.wav">
+      <PackagePath>Assets\Cry Sounds\019.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\020.wav">
+      <PackagePath>Assets\Cry Sounds\020.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\021.wav">
+      <PackagePath>Assets\Cry Sounds\021.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\022.wav">
+      <PackagePath>Assets\Cry Sounds\022.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\023.wav">
+      <PackagePath>Assets\Cry Sounds\023.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\024.wav">
+      <PackagePath>Assets\Cry Sounds\024.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\025.wav">
+      <PackagePath>Assets\Cry Sounds\025.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\026.wav">
+      <PackagePath>Assets\Cry Sounds\026.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\027.wav">
+      <PackagePath>Assets\Cry Sounds\027.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\028.wav">
+      <PackagePath>Assets\Cry Sounds\028.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\029.wav">
+      <PackagePath>Assets\Cry Sounds\029.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\030.wav">
+      <PackagePath>Assets\Cry Sounds\030.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\031.wav">
+      <PackagePath>Assets\Cry Sounds\031.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\032.wav">
+      <PackagePath>Assets\Cry Sounds\032.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\033.wav">
+      <PackagePath>Assets\Cry Sounds\033.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\034.wav">
+      <PackagePath>Assets\Cry Sounds\034.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\035.wav">
+      <PackagePath>Assets\Cry Sounds\035.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\036.wav">
+      <PackagePath>Assets\Cry Sounds\036.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\037.wav">
+      <PackagePath>Assets\Cry Sounds\037.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\038.wav">
+      <PackagePath>Assets\Cry Sounds\038.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\039.wav">
+      <PackagePath>Assets\Cry Sounds\039.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\040.wav">
+      <PackagePath>Assets\Cry Sounds\040.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\041.wav">
+      <PackagePath>Assets\Cry Sounds\041.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\042.wav">
+      <PackagePath>Assets\Cry Sounds\042.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\043.wav">
+      <PackagePath>Assets\Cry Sounds\043.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\044.wav">
+      <PackagePath>Assets\Cry Sounds\044.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\045.wav">
+      <PackagePath>Assets\Cry Sounds\045.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\046.wav">
+      <PackagePath>Assets\Cry Sounds\046.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\047.wav">
+      <PackagePath>Assets\Cry Sounds\047.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\048.wav">
+      <PackagePath>Assets\Cry Sounds\048.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\049.wav">
+      <PackagePath>Assets\Cry Sounds\049.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\050.wav">
+      <PackagePath>Assets\Cry Sounds\050.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\051.wav">
+      <PackagePath>Assets\Cry Sounds\051.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\052.wav">
+      <PackagePath>Assets\Cry Sounds\052.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\053.wav">
+      <PackagePath>Assets\Cry Sounds\053.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\054.wav">
+      <PackagePath>Assets\Cry Sounds\054.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\055.wav">
+      <PackagePath>Assets\Cry Sounds\055.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\056.wav">
+      <PackagePath>Assets\Cry Sounds\056.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\057.wav">
+      <PackagePath>Assets\Cry Sounds\057.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\058.wav">
+      <PackagePath>Assets\Cry Sounds\058.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\059.wav">
+      <PackagePath>Assets\Cry Sounds\059.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\060.wav">
+      <PackagePath>Assets\Cry Sounds\060.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\061.wav">
+      <PackagePath>Assets\Cry Sounds\061.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\062.wav">
+      <PackagePath>Assets\Cry Sounds\062.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\063.wav">
+      <PackagePath>Assets\Cry Sounds\063.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\064.wav">
+      <PackagePath>Assets\Cry Sounds\064.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\065.wav">
+      <PackagePath>Assets\Cry Sounds\065.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\066.wav">
+      <PackagePath>Assets\Cry Sounds\066.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\067.wav">
+      <PackagePath>Assets\Cry Sounds\067.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\068.wav">
+      <PackagePath>Assets\Cry Sounds\068.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\069.wav">
+      <PackagePath>Assets\Cry Sounds\069.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\070.wav">
+      <PackagePath>Assets\Cry Sounds\070.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\071.wav">
+      <PackagePath>Assets\Cry Sounds\071.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\072.wav">
+      <PackagePath>Assets\Cry Sounds\072.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\073.wav">
+      <PackagePath>Assets\Cry Sounds\073.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\074.wav">
+      <PackagePath>Assets\Cry Sounds\074.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\075.wav">
+      <PackagePath>Assets\Cry Sounds\075.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\076.wav">
+      <PackagePath>Assets\Cry Sounds\076.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\077.wav">
+      <PackagePath>Assets\Cry Sounds\077.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\078.wav">
+      <PackagePath>Assets\Cry Sounds\078.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\079.wav">
+      <PackagePath>Assets\Cry Sounds\079.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\080.wav">
+      <PackagePath>Assets\Cry Sounds\080.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\081.wav">
+      <PackagePath>Assets\Cry Sounds\081.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\082.wav">
+      <PackagePath>Assets\Cry Sounds\082.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\083.wav">
+      <PackagePath>Assets\Cry Sounds\083.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\084.wav">
+      <PackagePath>Assets\Cry Sounds\084.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\085.wav">
+      <PackagePath>Assets\Cry Sounds\085.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\086.wav">
+      <PackagePath>Assets\Cry Sounds\086.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\087.wav">
+      <PackagePath>Assets\Cry Sounds\087.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\088.wav">
+      <PackagePath>Assets\Cry Sounds\088.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\089.wav">
+      <PackagePath>Assets\Cry Sounds\089.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\090.wav">
+      <PackagePath>Assets\Cry Sounds\090.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\091.wav">
+      <PackagePath>Assets\Cry Sounds\091.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\092.wav">
+      <PackagePath>Assets\Cry Sounds\092.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\093.wav">
+      <PackagePath>Assets\Cry Sounds\093.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\094.wav">
+      <PackagePath>Assets\Cry Sounds\094.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\095.wav">
+      <PackagePath>Assets\Cry Sounds\095.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\096.wav">
+      <PackagePath>Assets\Cry Sounds\096.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\097.wav">
+      <PackagePath>Assets\Cry Sounds\097.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\098.wav">
+      <PackagePath>Assets\Cry Sounds\098.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\099.wav">
+      <PackagePath>Assets\Cry Sounds\099.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\100.wav">
+      <PackagePath>Assets\Cry Sounds\100.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\101.wav">
+      <PackagePath>Assets\Cry Sounds\101.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\102.wav">
+      <PackagePath>Assets\Cry Sounds\102.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\103.wav">
+      <PackagePath>Assets\Cry Sounds\103.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\104.wav">
+      <PackagePath>Assets\Cry Sounds\104.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\105.wav">
+      <PackagePath>Assets\Cry Sounds\105.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\106.wav">
+      <PackagePath>Assets\Cry Sounds\106.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\107.wav">
+      <PackagePath>Assets\Cry Sounds\107.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\108.wav">
+      <PackagePath>Assets\Cry Sounds\108.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\109.wav">
+      <PackagePath>Assets\Cry Sounds\109.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\110.wav">
+      <PackagePath>Assets\Cry Sounds\110.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\111.wav">
+      <PackagePath>Assets\Cry Sounds\111.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\112.wav">
+      <PackagePath>Assets\Cry Sounds\112.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\113.wav">
+      <PackagePath>Assets\Cry Sounds\113.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\114.wav">
+      <PackagePath>Assets\Cry Sounds\114.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\115.wav">
+      <PackagePath>Assets\Cry Sounds\115.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\116.wav">
+      <PackagePath>Assets\Cry Sounds\116.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\117.wav">
+      <PackagePath>Assets\Cry Sounds\117.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\118.wav">
+      <PackagePath>Assets\Cry Sounds\118.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\119.wav">
+      <PackagePath>Assets\Cry Sounds\119.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\120.wav">
+      <PackagePath>Assets\Cry Sounds\120.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\121.wav">
+      <PackagePath>Assets\Cry Sounds\121.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\122.wav">
+      <PackagePath>Assets\Cry Sounds\122.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\123.wav">
+      <PackagePath>Assets\Cry Sounds\123.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\124.wav">
+      <PackagePath>Assets\Cry Sounds\124.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\125.wav">
+      <PackagePath>Assets\Cry Sounds\125.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\126.wav">
+      <PackagePath>Assets\Cry Sounds\126.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\127.wav">
+      <PackagePath>Assets\Cry Sounds\127.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\128.wav">
+      <PackagePath>Assets\Cry Sounds\128.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\129.wav">
+      <PackagePath>Assets\Cry Sounds\129.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\130.wav">
+      <PackagePath>Assets\Cry Sounds\130.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\131.wav">
+      <PackagePath>Assets\Cry Sounds\131.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\132.wav">
+      <PackagePath>Assets\Cry Sounds\132.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\133.wav">
+      <PackagePath>Assets\Cry Sounds\133.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\134.wav">
+      <PackagePath>Assets\Cry Sounds\134.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\135.wav">
+      <PackagePath>Assets\Cry Sounds\135.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\136.wav">
+      <PackagePath>Assets\Cry Sounds\136.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\137.wav">
+      <PackagePath>Assets\Cry Sounds\137.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\138.wav">
+      <PackagePath>Assets\Cry Sounds\138.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\139.wav">
+      <PackagePath>Assets\Cry Sounds\139.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\140.wav">
+      <PackagePath>Assets\Cry Sounds\140.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\141.wav">
+      <PackagePath>Assets\Cry Sounds\141.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\142.wav">
+      <PackagePath>Assets\Cry Sounds\142.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\143.wav">
+      <PackagePath>Assets\Cry Sounds\143.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\144.wav">
+      <PackagePath>Assets\Cry Sounds\144.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\145.wav">
+      <PackagePath>Assets\Cry Sounds\145.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\146.wav">
+      <PackagePath>Assets\Cry Sounds\146.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\147.wav">
+      <PackagePath>Assets\Cry Sounds\147.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\148.wav">
+      <PackagePath>Assets\Cry Sounds\148.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\149.wav">
+      <PackagePath>Assets\Cry Sounds\149.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\150.wav">
+      <PackagePath>Assets\Cry Sounds\150.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\151.wav">
+      <PackagePath>Assets\Cry Sounds\151.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\152.wav">
+      <PackagePath>Assets\Cry Sounds\152.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\153.wav">
+      <PackagePath>Assets\Cry Sounds\153.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\154.wav">
+      <PackagePath>Assets\Cry Sounds\154.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\155.wav">
+      <PackagePath>Assets\Cry Sounds\155.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\156.wav">
+      <PackagePath>Assets\Cry Sounds\156.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\157.wav">
+      <PackagePath>Assets\Cry Sounds\157.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\158.wav">
+      <PackagePath>Assets\Cry Sounds\158.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\159.wav">
+      <PackagePath>Assets\Cry Sounds\159.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\160.wav">
+      <PackagePath>Assets\Cry Sounds\160.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\161.wav">
+      <PackagePath>Assets\Cry Sounds\161.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\162.wav">
+      <PackagePath>Assets\Cry Sounds\162.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\163.wav">
+      <PackagePath>Assets\Cry Sounds\163.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\164.wav">
+      <PackagePath>Assets\Cry Sounds\164.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\165.wav">
+      <PackagePath>Assets\Cry Sounds\165.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\166.wav">
+      <PackagePath>Assets\Cry Sounds\166.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\167.wav">
+      <PackagePath>Assets\Cry Sounds\167.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\168.wav">
+      <PackagePath>Assets\Cry Sounds\168.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\169.wav">
+      <PackagePath>Assets\Cry Sounds\169.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\170.wav">
+      <PackagePath>Assets\Cry Sounds\170.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\171.wav">
+      <PackagePath>Assets\Cry Sounds\171.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\172.wav">
+      <PackagePath>Assets\Cry Sounds\172.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\173.wav">
+      <PackagePath>Assets\Cry Sounds\173.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\174.wav">
+      <PackagePath>Assets\Cry Sounds\174.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\175.wav">
+      <PackagePath>Assets\Cry Sounds\175.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\176.wav">
+      <PackagePath>Assets\Cry Sounds\176.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\177.wav">
+      <PackagePath>Assets\Cry Sounds\177.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\178.wav">
+      <PackagePath>Assets\Cry Sounds\178.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\179.wav">
+      <PackagePath>Assets\Cry Sounds\179.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\180.wav">
+      <PackagePath>Assets\Cry Sounds\180.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\181.wav">
+      <PackagePath>Assets\Cry Sounds\181.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\182.wav">
+      <PackagePath>Assets\Cry Sounds\182.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\183.wav">
+      <PackagePath>Assets\Cry Sounds\183.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\184.wav">
+      <PackagePath>Assets\Cry Sounds\184.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\185.wav">
+      <PackagePath>Assets\Cry Sounds\185.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\186.wav">
+      <PackagePath>Assets\Cry Sounds\186.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\187.wav">
+      <PackagePath>Assets\Cry Sounds\187.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\188.wav">
+      <PackagePath>Assets\Cry Sounds\188.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\189.wav">
+      <PackagePath>Assets\Cry Sounds\189.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\190.wav">
+      <PackagePath>Assets\Cry Sounds\190.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\191.wav">
+      <PackagePath>Assets\Cry Sounds\191.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\192.wav">
+      <PackagePath>Assets\Cry Sounds\192.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\193.wav">
+      <PackagePath>Assets\Cry Sounds\193.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\194.wav">
+      <PackagePath>Assets\Cry Sounds\194.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\195.wav">
+      <PackagePath>Assets\Cry Sounds\195.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\196.wav">
+      <PackagePath>Assets\Cry Sounds\196.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\197.wav">
+      <PackagePath>Assets\Cry Sounds\197.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\198.wav">
+      <PackagePath>Assets\Cry Sounds\198.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\199.wav">
+      <PackagePath>Assets\Cry Sounds\199.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\200.wav">
+      <PackagePath>Assets\Cry Sounds\200.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\201.wav">
+      <PackagePath>Assets\Cry Sounds\201.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\202.wav">
+      <PackagePath>Assets\Cry Sounds\202.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\203.wav">
+      <PackagePath>Assets\Cry Sounds\203.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\204.wav">
+      <PackagePath>Assets\Cry Sounds\204.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\205.wav">
+      <PackagePath>Assets\Cry Sounds\205.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\206.wav">
+      <PackagePath>Assets\Cry Sounds\206.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\207.wav">
+      <PackagePath>Assets\Cry Sounds\207.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\208.wav">
+      <PackagePath>Assets\Cry Sounds\208.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\209.wav">
+      <PackagePath>Assets\Cry Sounds\209.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\210.wav">
+      <PackagePath>Assets\Cry Sounds\210.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\211.wav">
+      <PackagePath>Assets\Cry Sounds\211.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\212.wav">
+      <PackagePath>Assets\Cry Sounds\212.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\213.wav">
+      <PackagePath>Assets\Cry Sounds\213.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\214.wav">
+      <PackagePath>Assets\Cry Sounds\214.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\215.wav">
+      <PackagePath>Assets\Cry Sounds\215.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\216.wav">
+      <PackagePath>Assets\Cry Sounds\216.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\217.wav">
+      <PackagePath>Assets\Cry Sounds\217.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\218.wav">
+      <PackagePath>Assets\Cry Sounds\218.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\219.wav">
+      <PackagePath>Assets\Cry Sounds\219.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\220.wav">
+      <PackagePath>Assets\Cry Sounds\220.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\221.wav">
+      <PackagePath>Assets\Cry Sounds\221.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\222.wav">
+      <PackagePath>Assets\Cry Sounds\222.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\223.wav">
+      <PackagePath>Assets\Cry Sounds\223.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\224.wav">
+      <PackagePath>Assets\Cry Sounds\224.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\225.wav">
+      <PackagePath>Assets\Cry Sounds\225.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\226.wav">
+      <PackagePath>Assets\Cry Sounds\226.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\227.wav">
+      <PackagePath>Assets\Cry Sounds\227.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\228.wav">
+      <PackagePath>Assets\Cry Sounds\228.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\229.wav">
+      <PackagePath>Assets\Cry Sounds\229.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\230.wav">
+      <PackagePath>Assets\Cry Sounds\230.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\231.wav">
+      <PackagePath>Assets\Cry Sounds\231.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\232.wav">
+      <PackagePath>Assets\Cry Sounds\232.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\233.wav">
+      <PackagePath>Assets\Cry Sounds\233.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\234.wav">
+      <PackagePath>Assets\Cry Sounds\234.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\235.wav">
+      <PackagePath>Assets\Cry Sounds\235.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\236.wav">
+      <PackagePath>Assets\Cry Sounds\236.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\237.wav">
+      <PackagePath>Assets\Cry Sounds\237.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\238.wav">
+      <PackagePath>Assets\Cry Sounds\238.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\239.wav">
+      <PackagePath>Assets\Cry Sounds\239.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\240.wav">
+      <PackagePath>Assets\Cry Sounds\240.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\241.wav">
+      <PackagePath>Assets\Cry Sounds\241.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\242.wav">
+      <PackagePath>Assets\Cry Sounds\242.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\243.wav">
+      <PackagePath>Assets\Cry Sounds\243.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\244.wav">
+      <PackagePath>Assets\Cry Sounds\244.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\245.wav">
+      <PackagePath>Assets\Cry Sounds\245.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\246.wav">
+      <PackagePath>Assets\Cry Sounds\246.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\247.wav">
+      <PackagePath>Assets\Cry Sounds\247.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\248.wav">
+      <PackagePath>Assets\Cry Sounds\248.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\249.wav">
+      <PackagePath>Assets\Cry Sounds\249.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\250.wav">
+      <PackagePath>Assets\Cry Sounds\250.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\251.wav">
+      <PackagePath>Assets\Cry Sounds\251.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\000.png">
+      <PackagePath>Assets\Gen I Pics\000.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\000MissingNo..png">
+      <PackagePath>Assets\Gen I Pics\000MissingNo..png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\001.png">
+      <PackagePath>Assets\Gen I Pics\001.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\001Bulbasaur.png">
+      <PackagePath>Assets\Gen I Pics\001Bulbasaur.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\002Ivysaur.png">
+      <PackagePath>Assets\Gen I Pics\002Ivysaur.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\003Venusaur.png">
+      <PackagePath>Assets\Gen I Pics\003Venusaur.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\004Charmander.png">
+      <PackagePath>Assets\Gen I Pics\004Charmander.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\005Charmeleon.png">
+      <PackagePath>Assets\Gen I Pics\005Charmeleon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\006Charizard.png">
+      <PackagePath>Assets\Gen I Pics\006Charizard.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\007Squirtle.png">
+      <PackagePath>Assets\Gen I Pics\007Squirtle.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\008Wartortle.png">
+      <PackagePath>Assets\Gen I Pics\008Wartortle.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\009Blastoise.png">
+      <PackagePath>Assets\Gen I Pics\009Blastoise.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\010Caterpie.png">
+      <PackagePath>Assets\Gen I Pics\010Caterpie.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\011Metapod.png">
+      <PackagePath>Assets\Gen I Pics\011Metapod.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\012Butterfree.png">
+      <PackagePath>Assets\Gen I Pics\012Butterfree.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\013Weedle.png">
+      <PackagePath>Assets\Gen I Pics\013Weedle.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\014Kakuna.png">
+      <PackagePath>Assets\Gen I Pics\014Kakuna.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\015Beedrill.png">
+      <PackagePath>Assets\Gen I Pics\015Beedrill.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\016Pidgey.png">
+      <PackagePath>Assets\Gen I Pics\016Pidgey.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\017Pidgeotto.png">
+      <PackagePath>Assets\Gen I Pics\017Pidgeotto.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\018Pidgeot.png">
+      <PackagePath>Assets\Gen I Pics\018Pidgeot.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\019Rattata.png">
+      <PackagePath>Assets\Gen I Pics\019Rattata.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\020Raticate.png">
+      <PackagePath>Assets\Gen I Pics\020Raticate.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\021Spearow.png">
+      <PackagePath>Assets\Gen I Pics\021Spearow.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\022Fearow.png">
+      <PackagePath>Assets\Gen I Pics\022Fearow.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\023Ekans.png">
+      <PackagePath>Assets\Gen I Pics\023Ekans.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\024Arbok.png">
+      <PackagePath>Assets\Gen I Pics\024Arbok.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\025Pikachu.png">
+      <PackagePath>Assets\Gen I Pics\025Pikachu.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\026Raichu.png">
+      <PackagePath>Assets\Gen I Pics\026Raichu.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\027Sandshrew.png">
+      <PackagePath>Assets\Gen I Pics\027Sandshrew.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\028Sandslash.png">
+      <PackagePath>Assets\Gen I Pics\028Sandslash.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\029Nidoran♀.png">
+      <PackagePath>Assets\Gen I Pics\029Nidoran♀.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\030Nidorina.png">
+      <PackagePath>Assets\Gen I Pics\030Nidorina.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\031Nidoqueen.png">
+      <PackagePath>Assets\Gen I Pics\031Nidoqueen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\032Nidoran♂.png">
+      <PackagePath>Assets\Gen I Pics\032Nidoran♂.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\033Nidorino.png">
+      <PackagePath>Assets\Gen I Pics\033Nidorino.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\034Nidoking.png">
+      <PackagePath>Assets\Gen I Pics\034Nidoking.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\035Clefairy.png">
+      <PackagePath>Assets\Gen I Pics\035Clefairy.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\036Clefable.png">
+      <PackagePath>Assets\Gen I Pics\036Clefable.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\037Vulpix.png">
+      <PackagePath>Assets\Gen I Pics\037Vulpix.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\038Ninetales.png">
+      <PackagePath>Assets\Gen I Pics\038Ninetales.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\039Jigglypuff.png">
+      <PackagePath>Assets\Gen I Pics\039Jigglypuff.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\040Wigglytuff.png">
+      <PackagePath>Assets\Gen I Pics\040Wigglytuff.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\041Zubat.png">
+      <PackagePath>Assets\Gen I Pics\041Zubat.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\042Golbat.png">
+      <PackagePath>Assets\Gen I Pics\042Golbat.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\043Oddish.png">
+      <PackagePath>Assets\Gen I Pics\043Oddish.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\044Gloom.png">
+      <PackagePath>Assets\Gen I Pics\044Gloom.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\045Vileplume.png">
+      <PackagePath>Assets\Gen I Pics\045Vileplume.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\046Paras.png">
+      <PackagePath>Assets\Gen I Pics\046Paras.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\047Parasect.png">
+      <PackagePath>Assets\Gen I Pics\047Parasect.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\048Venonat.png">
+      <PackagePath>Assets\Gen I Pics\048Venonat.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\049Venomoth.png">
+      <PackagePath>Assets\Gen I Pics\049Venomoth.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\050Diglett.png">
+      <PackagePath>Assets\Gen I Pics\050Diglett.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\051Dugtrio.png">
+      <PackagePath>Assets\Gen I Pics\051Dugtrio.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\052Meowth.png">
+      <PackagePath>Assets\Gen I Pics\052Meowth.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\053Persian.png">
+      <PackagePath>Assets\Gen I Pics\053Persian.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\054Psyduck.png">
+      <PackagePath>Assets\Gen I Pics\054Psyduck.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\055Golduck.png">
+      <PackagePath>Assets\Gen I Pics\055Golduck.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\056Mankey.png">
+      <PackagePath>Assets\Gen I Pics\056Mankey.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\057Primeape.png">
+      <PackagePath>Assets\Gen I Pics\057Primeape.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\058Growlithe.png">
+      <PackagePath>Assets\Gen I Pics\058Growlithe.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\059Arcanine.png">
+      <PackagePath>Assets\Gen I Pics\059Arcanine.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\060Poliwag.png">
+      <PackagePath>Assets\Gen I Pics\060Poliwag.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\061Poliwhirl.png">
+      <PackagePath>Assets\Gen I Pics\061Poliwhirl.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\062Poliwrath.png">
+      <PackagePath>Assets\Gen I Pics\062Poliwrath.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\063Abra.png">
+      <PackagePath>Assets\Gen I Pics\063Abra.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\064Kadabra.png">
+      <PackagePath>Assets\Gen I Pics\064Kadabra.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\065Alakazam.png">
+      <PackagePath>Assets\Gen I Pics\065Alakazam.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\066Machop.png">
+      <PackagePath>Assets\Gen I Pics\066Machop.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\067Machoke.png">
+      <PackagePath>Assets\Gen I Pics\067Machoke.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\068Machamp.png">
+      <PackagePath>Assets\Gen I Pics\068Machamp.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\069Bellsprout.png">
+      <PackagePath>Assets\Gen I Pics\069Bellsprout.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\070Weepinbell.png">
+      <PackagePath>Assets\Gen I Pics\070Weepinbell.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\071Victreebel.png">
+      <PackagePath>Assets\Gen I Pics\071Victreebel.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\072Tentacool.png">
+      <PackagePath>Assets\Gen I Pics\072Tentacool.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\073Tentacruel.png">
+      <PackagePath>Assets\Gen I Pics\073Tentacruel.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\074Geodude.png">
+      <PackagePath>Assets\Gen I Pics\074Geodude.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\075Graveler.png">
+      <PackagePath>Assets\Gen I Pics\075Graveler.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\076Golem.png">
+      <PackagePath>Assets\Gen I Pics\076Golem.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\077Ponyta.png">
+      <PackagePath>Assets\Gen I Pics\077Ponyta.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\078Rapidash.png">
+      <PackagePath>Assets\Gen I Pics\078Rapidash.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\079Slowpoke.png">
+      <PackagePath>Assets\Gen I Pics\079Slowpoke.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\080Slowbro.png">
+      <PackagePath>Assets\Gen I Pics\080Slowbro.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\081Magnemite.png">
+      <PackagePath>Assets\Gen I Pics\081Magnemite.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\082Magneton.png">
+      <PackagePath>Assets\Gen I Pics\082Magneton.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\083Farfetch%27d.png">
+      <PackagePath>Assets\Gen I Pics\083Farfetch%27d.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\084Doduo.png">
+      <PackagePath>Assets\Gen I Pics\084Doduo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\085Dodrio.png">
+      <PackagePath>Assets\Gen I Pics\085Dodrio.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\086Seel.png">
+      <PackagePath>Assets\Gen I Pics\086Seel.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\087Dewgong.png">
+      <PackagePath>Assets\Gen I Pics\087Dewgong.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\088Grimer.png">
+      <PackagePath>Assets\Gen I Pics\088Grimer.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\089Muk.png">
+      <PackagePath>Assets\Gen I Pics\089Muk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\090Shellder.png">
+      <PackagePath>Assets\Gen I Pics\090Shellder.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\091Cloyster.png">
+      <PackagePath>Assets\Gen I Pics\091Cloyster.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\092Gastly.png">
+      <PackagePath>Assets\Gen I Pics\092Gastly.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\093Haunter.png">
+      <PackagePath>Assets\Gen I Pics\093Haunter.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\094Gengar.png">
+      <PackagePath>Assets\Gen I Pics\094Gengar.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\095Onix.png">
+      <PackagePath>Assets\Gen I Pics\095Onix.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\096Drowzee.png">
+      <PackagePath>Assets\Gen I Pics\096Drowzee.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\097Hypno.png">
+      <PackagePath>Assets\Gen I Pics\097Hypno.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\098Krabby.png">
+      <PackagePath>Assets\Gen I Pics\098Krabby.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\099Kingler.png">
+      <PackagePath>Assets\Gen I Pics\099Kingler.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\100Voltorb.png">
+      <PackagePath>Assets\Gen I Pics\100Voltorb.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\101Electrode.png">
+      <PackagePath>Assets\Gen I Pics\101Electrode.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\102Exeggcute.png">
+      <PackagePath>Assets\Gen I Pics\102Exeggcute.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\103Exeggutor.png">
+      <PackagePath>Assets\Gen I Pics\103Exeggutor.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\104Cubone.png">
+      <PackagePath>Assets\Gen I Pics\104Cubone.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\105Marowak.png">
+      <PackagePath>Assets\Gen I Pics\105Marowak.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\106Hitmonlee.png">
+      <PackagePath>Assets\Gen I Pics\106Hitmonlee.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\107Hitmonchan.png">
+      <PackagePath>Assets\Gen I Pics\107Hitmonchan.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\108Lickitung.png">
+      <PackagePath>Assets\Gen I Pics\108Lickitung.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\109Koffing.png">
+      <PackagePath>Assets\Gen I Pics\109Koffing.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\110Weezing.png">
+      <PackagePath>Assets\Gen I Pics\110Weezing.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\111Rhyhorn.png">
+      <PackagePath>Assets\Gen I Pics\111Rhyhorn.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\112Rhydon.png">
+      <PackagePath>Assets\Gen I Pics\112Rhydon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\113Chansey.png">
+      <PackagePath>Assets\Gen I Pics\113Chansey.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\114Tangela.png">
+      <PackagePath>Assets\Gen I Pics\114Tangela.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\115Kangaskhan.png">
+      <PackagePath>Assets\Gen I Pics\115Kangaskhan.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\116Horsea.png">
+      <PackagePath>Assets\Gen I Pics\116Horsea.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\117Seadra.png">
+      <PackagePath>Assets\Gen I Pics\117Seadra.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\118Goldeen.png">
+      <PackagePath>Assets\Gen I Pics\118Goldeen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\119Seaking.png">
+      <PackagePath>Assets\Gen I Pics\119Seaking.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\120Staryu.png">
+      <PackagePath>Assets\Gen I Pics\120Staryu.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\121Starmie.png">
+      <PackagePath>Assets\Gen I Pics\121Starmie.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\122Mr._Mime.png">
+      <PackagePath>Assets\Gen I Pics\122Mr._Mime.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\123Scyther.png">
+      <PackagePath>Assets\Gen I Pics\123Scyther.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\124Jynx.png">
+      <PackagePath>Assets\Gen I Pics\124Jynx.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\125Electabuzz.png">
+      <PackagePath>Assets\Gen I Pics\125Electabuzz.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\126Magmar.png">
+      <PackagePath>Assets\Gen I Pics\126Magmar.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\127Pinsir.png">
+      <PackagePath>Assets\Gen I Pics\127Pinsir.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\128Tauros.png">
+      <PackagePath>Assets\Gen I Pics\128Tauros.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\129Magikarp.png">
+      <PackagePath>Assets\Gen I Pics\129Magikarp.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\130Gyarados.png">
+      <PackagePath>Assets\Gen I Pics\130Gyarados.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\131Lapras.png">
+      <PackagePath>Assets\Gen I Pics\131Lapras.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\132Ditto.png">
+      <PackagePath>Assets\Gen I Pics\132Ditto.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\133Eevee.png">
+      <PackagePath>Assets\Gen I Pics\133Eevee.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\134Vaporeon.png">
+      <PackagePath>Assets\Gen I Pics\134Vaporeon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\135Jolteon.png">
+      <PackagePath>Assets\Gen I Pics\135Jolteon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\136Flareon.png">
+      <PackagePath>Assets\Gen I Pics\136Flareon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\137Porygon.png">
+      <PackagePath>Assets\Gen I Pics\137Porygon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\138Omanyte.png">
+      <PackagePath>Assets\Gen I Pics\138Omanyte.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\139Omastar.png">
+      <PackagePath>Assets\Gen I Pics\139Omastar.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\140Kabuto.png">
+      <PackagePath>Assets\Gen I Pics\140Kabuto.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\141Kabutops.png">
+      <PackagePath>Assets\Gen I Pics\141Kabutops.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\142Aerodactyl.png">
+      <PackagePath>Assets\Gen I Pics\142Aerodactyl.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\143Snorlax.png">
+      <PackagePath>Assets\Gen I Pics\143Snorlax.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\144Articuno.png">
+      <PackagePath>Assets\Gen I Pics\144Articuno.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\145Zapdos.png">
+      <PackagePath>Assets\Gen I Pics\145Zapdos.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\146Moltres.png">
+      <PackagePath>Assets\Gen I Pics\146Moltres.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\147Dratini.png">
+      <PackagePath>Assets\Gen I Pics\147Dratini.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\148Dragonair.png">
+      <PackagePath>Assets\Gen I Pics\148Dragonair.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\149Dragonite.png">
+      <PackagePath>Assets\Gen I Pics\149Dragonite.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\150Mewtwo.png">
+      <PackagePath>Assets\Gen I Pics\150Mewtwo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\151Mew.png">
+      <PackagePath>Assets\Gen I Pics\151Mew.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Types\Bug.png">
+      <PackagePath>Assets\Types\Bug.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Types\Dragon.png">
+      <PackagePath>Assets\Types\Dragon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Types\Electric.png">
+      <PackagePath>Assets\Types\Electric.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Types\Fighting.png">
+      <PackagePath>Assets\Types\Fighting.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Types\Fire.png">
+      <PackagePath>Assets\Types\Fire.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Types\Flying.png">
+      <PackagePath>Assets\Types\Flying.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Types\Ghost.png">
+      <PackagePath>Assets\Types\Ghost.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Types\Grass.png">
+      <PackagePath>Assets\Types\Grass.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Types\Ground.png">
+      <PackagePath>Assets\Types\Ground.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Types\Ice.png">
+      <PackagePath>Assets\Types\Ice.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Types\Normal.png">
+      <PackagePath>Assets\Types\Normal.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Types\Poison.png">
+      <PackagePath>Assets\Types\Poison.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Types\Psychic.png">
+      <PackagePath>Assets\Types\Psychic.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Types\Rock.png">
+      <PackagePath>Assets\Types\Rock.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Types\Unknown.png">
+      <PackagePath>Assets\Types\Unknown.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Types\Water.png">
+      <PackagePath>Assets\Types\Water.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\ChoosingPage.xbf">
+      <PackagePath>ChoosingPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\clrcompression.dll">
+      <PackagePath>clrcompression.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\PokeDex.dll">
+      <PackagePath>PokeDex.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\PokeDex.exe">
+      <PackagePath>PokeDex.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\PokeDex.pdb">
+      <PackagePath>PokeDex.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\SelectedPokemonPage.xbf">
+      <PackagePath>SelectedPokemonPage.xbf</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.1.8\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.1.appx">
+      <Name>Microsoft.NET.Native.Framework.2.1</Name>
+      <Version>2.1.26424.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.1, MinVersion = 2.1.26424.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.1.8\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.1.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.1.8\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.1.appx">
+      <Name>Microsoft.NET.Native.Framework.2.1</Name>
+      <Version>2.1.26424.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.1, MinVersion = 2.1.26424.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.1.8\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.1.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.native.sharedlibrary\2.1.8\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.1.appx">
+      <Name>Microsoft.NET.Native.Framework.2.1</Name>
+      <Version>2.1.26424.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.1, MinVersion = 2.1.26424.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.native.sharedlibrary\2.1.8\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.1.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.compiler\2.1.8\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.2.1.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.1</Name>
+      <Version>2.1.26424.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.1, MinVersion = 2.1.26424.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.compiler\2.1.8\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.2.1.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.native.compiler\2.1.8\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.2.1.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.1</Name>
+      <Version>2.1.26424.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.1, MinVersion = 2.1.26424.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.native.compiler\2.1.8\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.2.1.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.native.compiler\2.1.8\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.2.1.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.1</Name>
+      <Version>2.1.26424.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.1, MinVersion = 2.1.26424.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.native.compiler\2.1.8\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.2.1.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.25426.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.25426.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.25426.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.25426.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.25426.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.25426.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

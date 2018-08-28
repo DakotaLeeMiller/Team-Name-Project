@@ -1,0 +1,1330 @@
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\PokeDex.csprojAssemblyReference.cache
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\App.xbf
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ChoosingPage.xbf
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\SelectedPokemonPage.xbf
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\PokeDex.xr.xml
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\PokeDex.exe
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\PokeDex.pdb
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\resources.pri
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\AppxManifest.xml
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Adapters.g.cs
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\App.xbf
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\AssemblyInfo.g.cs
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\000.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\001.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\002.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\003.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\004.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\005.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\006.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\007.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\008.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\009.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\010.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\011.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\012.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\013.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\014.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\015.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\016.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\017.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\018.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\019.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\020.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\021.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\022.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\023.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\024.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\025.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\026.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\027.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\028.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\029.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\030.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\031.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\032.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\033.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\034.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\035.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\036.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\037.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\038.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\039.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\040.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\041.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\042.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\043.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\044.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\045.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\046.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\047.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\048.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\049.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\050.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\051.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\052.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\053.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\054.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\055.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\056.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\057.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\058.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\059.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\060.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\061.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\062.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\063.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\064.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\065.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\066.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\067.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\068.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\069.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\070.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\071.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\072.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\073.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\074.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\075.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\076.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\077.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\078.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\079.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\080.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\081.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\082.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\083.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\084.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\085.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\086.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\087.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\088.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\089.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\090.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\091.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\092.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\093.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\094.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\095.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\096.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\097.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\098.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\099.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\100.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\101.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\102.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\103.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\104.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\105.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\106.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\107.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\108.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\109.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\110.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\111.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\112.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\113.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\114.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\115.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\116.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\117.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\118.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\119.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\120.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\121.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\122.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\123.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\124.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\125.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\126.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\127.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\128.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\129.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\130.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\131.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\132.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\133.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\134.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\135.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\136.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\137.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\138.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\139.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\140.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\141.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\142.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\143.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\144.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\145.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\146.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\147.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\148.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\149.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\150.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\151.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\152.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\153.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\154.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\155.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\156.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\157.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\158.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\159.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\160.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\161.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\162.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\163.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\164.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\165.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\166.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\167.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\168.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\169.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\170.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\171.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\172.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\173.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\174.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\175.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\176.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\177.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\178.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\179.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\180.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\181.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\182.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\183.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\184.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\185.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\186.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\187.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\188.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\189.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\190.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\191.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\192.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\193.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\194.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\195.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\196.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\197.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\198.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\199.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\200.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\201.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\202.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\203.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\204.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\205.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\206.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\207.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\208.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\209.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\210.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\211.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\212.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\213.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\214.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\215.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\216.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\217.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\218.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\219.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\220.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\221.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\222.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\223.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\224.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\225.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\226.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\227.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\228.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\229.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\230.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\231.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\232.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\233.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\234.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\235.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\236.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\237.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\238.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\239.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\240.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\241.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\242.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\243.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\244.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\245.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\246.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\247.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\248.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\249.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\250.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Cry Sounds\251.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\000.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\000MissingNo..png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\001.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\001Bulbasaur.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\002Ivysaur.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\003Venusaur.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\004Charmander.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\005Charmeleon.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\006Charizard.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\007Squirtle.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\008Wartortle.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\009Blastoise.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\010Caterpie.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\011Metapod.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\012Butterfree.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\013Weedle.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\014Kakuna.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\015Beedrill.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\016Pidgey.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\017Pidgeotto.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\018Pidgeot.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\019Rattata.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\020Raticate.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\021Spearow.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\022Fearow.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\023Ekans.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\024Arbok.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\025Pikachu.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\026Raichu.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\027Sandshrew.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\028Sandslash.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\029Nidoran♀.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\030Nidorina.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\031Nidoqueen.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\032Nidoran♂.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\033Nidorino.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\034Nidoking.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\035Clefairy.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\036Clefable.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\037Vulpix.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\038Ninetales.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\039Jigglypuff.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\040Wigglytuff.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\041Zubat.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\042Golbat.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\043Oddish.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\044Gloom.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\045Vileplume.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\046Paras.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\047Parasect.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\048Venonat.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\049Venomoth.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\050Diglett.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\051Dugtrio.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\052Meowth.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\053Persian.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\054Psyduck.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\055Golduck.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\056Mankey.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\057Primeape.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\058Growlithe.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\059Arcanine.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\060Poliwag.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\061Poliwhirl.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\062Poliwrath.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\063Abra.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\064Kadabra.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\065Alakazam.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\066Machop.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\067Machoke.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\068Machamp.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\069Bellsprout.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\070Weepinbell.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\071Victreebel.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\072Tentacool.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\073Tentacruel.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\074Geodude.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\075Graveler.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\076Golem.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\077Ponyta.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\078Rapidash.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\079Slowpoke.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\080Slowbro.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\081Magnemite.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\082Magneton.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\083Farfetch'd.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\084Doduo.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\085Dodrio.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\086Seel.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\087Dewgong.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\088Grimer.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\089Muk.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\090Shellder.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\091Cloyster.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\092Gastly.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\093Haunter.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\094Gengar.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\095Onix.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\096Drowzee.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\097Hypno.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\098Krabby.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\099Kingler.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\100Voltorb.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\101Electrode.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\102Exeggcute.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\103Exeggutor.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\104Cubone.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\105Marowak.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\106Hitmonlee.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\107Hitmonchan.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\108Lickitung.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\109Koffing.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\110Weezing.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\111Rhyhorn.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\112Rhydon.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\113Chansey.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\114Tangela.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\115Kangaskhan.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\116Horsea.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\117Seadra.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\118Goldeen.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\119Seaking.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\120Staryu.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\121Starmie.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\122Mr._Mime.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\123Scyther.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\124Jynx.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\125Electabuzz.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\126Magmar.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\127Pinsir.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\128Tauros.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\129Magikarp.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\130Gyarados.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\131Lapras.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\132Ditto.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\133Eevee.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\134Vaporeon.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\135Jolteon.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\136Flareon.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\137Porygon.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\138Omanyte.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\139Omastar.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\140Kabuto.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\141Kabutops.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\142Aerodactyl.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\143Snorlax.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\144Articuno.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\145Zapdos.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\146Moltres.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\147Dratini.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\148Dragonair.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\149Dragonite.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\150Mewtwo.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Gen I Pics\151Mew.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\LockScreenLogo.scale-200.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\SplashScreen.scale-200.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Square150x150Logo.scale-200.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Square44x44Logo.scale-200.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\StoreLogo.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Types\Bug.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Types\Dragon.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Types\Electric.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Types\Fighting.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Types\Fire.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Types\Flying.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Types\Ghost.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Types\Grass.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Types\Ground.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Types\Ice.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Types\Normal.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Types\Poison.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Types\Psychic.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Types\Rock.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Types\Unknown.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Types\Water.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Assets\Wide310x150Logo.scale-200.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\ChoosingPage.xbf
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\clrcompression.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Data.g.cs
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\DotNetNative.debugger-services-def.json
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\Helpers.g.cs
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\ImplTypes.g.cs
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\PInvoke.g.cs
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\PokeDex.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\PokeDex.exe
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\PokeDex.pdb
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\PokeDex.xr.xml
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\resources.pri
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\SafeTypes.g.cs
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\SelectedPokemonPage.xbf
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\ilc\SharedStubs.g.cs
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\PokeDex.build.appxrecipe
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\clrcompression.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\Microsoft.CSharp.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\Microsoft.VisualBasic.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\Microsoft.Win32.Primitives.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.AppContext.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Buffers.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Collections.Concurrent.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Collections.Immutable.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Collections.NonGeneric.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Collections.Specialized.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Collections.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.ComponentModel.Annotations.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.ComponentModel.Composition.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.ComponentModel.DataAnnotations.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.ComponentModel.Primitives.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.ComponentModel.TypeConverter.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.ComponentModel.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Configuration.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Console.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Core.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Data.Common.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Data.SqlClient.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Data.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Diagnostics.Contracts.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Diagnostics.Debug.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Diagnostics.Process.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Diagnostics.StackTrace.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Diagnostics.Tools.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Diagnostics.TraceSource.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Diagnostics.Tracing.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Drawing.Primitives.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Drawing.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Dynamic.Runtime.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Globalization.Calendars.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Globalization.Extensions.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Globalization.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.IO.Compression.FileSystem.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.IO.Compression.ZipFile.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.IO.Compression.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.IO.FileSystem.Primitives.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.IO.FileSystem.Watcher.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.IO.FileSystem.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.IO.IsolatedStorage.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.IO.MemoryMappedFiles.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.IO.Pipes.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.IO.Ports.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.IO.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Linq.Expressions.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Linq.Parallel.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Linq.Queryable.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Linq.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Net.Http.Rtc.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Net.Http.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Net.HttpListener.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Net.Mail.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Net.NameResolution.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Net.NetworkInformation.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Net.Ping.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Net.Primitives.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Net.Requests.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Net.Security.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Net.ServicePoint.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Net.Sockets.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Net.WebClient.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Net.WebHeaderCollection.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Net.WebProxy.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Net.WebSockets.Client.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Net.WebSockets.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Net.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Numerics.Vectors.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Numerics.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.ObjectModel.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Private.DataContractSerialization.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Private.Reflection.Metadata.Ecma335.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Private.ServiceModel.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Private.Uri.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Private.Xml.Linq.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Private.Xml.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Reflection.Context.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Reflection.DispatchProxy.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Reflection.Emit.Lightweight.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Reflection.Emit.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Reflection.Extensions.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Reflection.Metadata.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Reflection.Primitives.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Reflection.TypeExtensions.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Reflection.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Resources.Reader.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Resources.ResourceManager.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Resources.Writer.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Runtime.Extensions.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Runtime.Handles.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Runtime.InteropServices.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Runtime.Numerics.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Runtime.Serialization.Formatters.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Runtime.Serialization.Json.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Runtime.Serialization.Primitives.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Runtime.Serialization.Xml.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Runtime.Serialization.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Runtime.WindowsRuntime.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Runtime.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Security.AccessControl.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Security.Claims.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Security.Cryptography.Cng.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Security.Cryptography.Csp.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Security.Cryptography.Encoding.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Security.Cryptography.Primitives.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Security.Principal.Windows.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Security.Principal.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Security.SecureString.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Security.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.ServiceModel.Duplex.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.ServiceModel.Http.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.ServiceModel.NetTcp.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.ServiceModel.Primitives.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.ServiceModel.Security.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.ServiceModel.Web.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.ServiceModel.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.ServiceProcess.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Text.Encoding.CodePages.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Text.Encoding.Extensions.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Text.Encoding.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Text.RegularExpressions.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Threading.Overlapped.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Threading.Tasks.Dataflow.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Threading.Tasks.Parallel.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Threading.Tasks.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Threading.Thread.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Threading.ThreadPool.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Threading.Timer.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Threading.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Transactions.Local.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Transactions.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.ValueTuple.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Web.HttpUtility.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Web.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Windows.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Xml.Linq.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Xml.ReaderWriter.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Xml.Serialization.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Xml.XDocument.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Xml.XPath.XDocument.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Xml.XPath.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Xml.XmlDocument.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Xml.XmlSerializer.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.Xml.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\System.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\WindowsBase.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\mscorlib.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\netstandard.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x64\Release\Pokedata.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\App.g.i.cs
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\App.g.cs
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ChoosingPage.g.i.cs
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ChoosingPage.g.cs
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\SelectedPokemonPage.g.i.cs
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\SelectedPokemonPage.g.cs
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\XamlTypeInfo.g.cs
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\App.xaml
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ChoosingPage.xaml
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\SelectedPokemonPage.xaml
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\App.xbf
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ChoosingPage.xbf
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\SelectedPokemonPage.xbf
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\XamlSaveStateFile.xml
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\PokeDex.csproj.CoreCompileInputs.cache
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\PokeDex.csproj.CopyComplete
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\PokeDex.exe
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\PokeDex.pdb
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ResourceHandlingTask.state
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\priconfig.xml
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\priconfig.xml.intermediate
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\layout.resfiles
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\layout.resfiles.intermediate
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\resources.resfiles
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\resources.resfiles.intermediate
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\pri.resfiles
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\pri.resfiles.intermediate
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\qualifiers.txt
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\qualifiers.txt.intermediate
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ProjectArchitectures.txt
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Properties\Default.rd.xml
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\PokeDex.xr.xml
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\AppxManifest.xml
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\PokeDex.pdb
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\PokeDex.exe
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Microsoft.CSharp.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Microsoft.VisualBasic.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Microsoft.Win32.Primitives.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.AppContext.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Buffers.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Collections.Concurrent.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Collections.Immutable.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Collections.NonGeneric.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Collections.Specialized.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Collections.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.ComponentModel.Annotations.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.ComponentModel.Composition.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.ComponentModel.DataAnnotations.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.ComponentModel.Primitives.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.ComponentModel.TypeConverter.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.ComponentModel.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Configuration.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Console.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Core.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Data.Common.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Data.SqlClient.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Data.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Diagnostics.Contracts.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Diagnostics.Debug.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Diagnostics.Process.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Diagnostics.StackTrace.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Diagnostics.Tools.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Diagnostics.TraceSource.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Diagnostics.Tracing.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Drawing.Primitives.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Drawing.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Dynamic.Runtime.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Globalization.Calendars.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Globalization.Extensions.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Globalization.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.IO.Compression.FileSystem.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.IO.Compression.ZipFile.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.IO.Compression.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.IO.FileSystem.Primitives.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.IO.FileSystem.Watcher.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.IO.FileSystem.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.IO.IsolatedStorage.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.IO.MemoryMappedFiles.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.IO.Pipes.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.IO.Ports.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.IO.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Linq.Expressions.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Linq.Parallel.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Linq.Queryable.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Linq.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Net.Http.Rtc.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Net.Http.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Net.HttpListener.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Net.Mail.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Net.NameResolution.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Net.NetworkInformation.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Net.Ping.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Net.Primitives.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Net.Requests.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Net.Security.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Net.ServicePoint.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Net.Sockets.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Net.WebClient.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Net.WebHeaderCollection.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Net.WebProxy.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Net.WebSockets.Client.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Net.WebSockets.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Net.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Numerics.Vectors.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Numerics.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.ObjectModel.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Private.DataContractSerialization.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Private.Reflection.Metadata.Ecma335.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Private.ServiceModel.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Private.Uri.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Private.Xml.Linq.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Private.Xml.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Reflection.Context.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Reflection.DispatchProxy.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Reflection.Emit.Lightweight.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Reflection.Emit.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Reflection.Extensions.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Reflection.Metadata.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Reflection.Primitives.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Reflection.TypeExtensions.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Reflection.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Resources.Reader.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Resources.ResourceManager.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Resources.Writer.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Runtime.Extensions.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Runtime.Handles.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Runtime.InteropServices.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Runtime.Numerics.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Runtime.Serialization.Formatters.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Runtime.Serialization.Json.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Runtime.Serialization.Primitives.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Runtime.Serialization.Xml.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Runtime.Serialization.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Runtime.WindowsRuntime.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Runtime.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Security.AccessControl.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Security.Claims.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Security.Cryptography.Cng.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Security.Cryptography.Csp.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Security.Cryptography.Encoding.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Security.Cryptography.Primitives.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Security.Principal.Windows.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Security.Principal.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Security.SecureString.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Security.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.ServiceModel.Duplex.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.ServiceModel.Http.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.ServiceModel.NetTcp.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.ServiceModel.Primitives.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.ServiceModel.Security.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.ServiceModel.Web.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.ServiceModel.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.ServiceProcess.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Text.Encoding.CodePages.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Text.Encoding.Extensions.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Text.Encoding.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Text.RegularExpressions.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Threading.Overlapped.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Threading.Tasks.Dataflow.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Threading.Tasks.Extensions.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Threading.Tasks.Parallel.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Threading.Tasks.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Threading.Thread.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Threading.ThreadPool.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Threading.Timer.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Threading.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Transactions.Local.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Transactions.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.ValueTuple.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Web.HttpUtility.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Web.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Windows.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Xml.Linq.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Xml.ReaderWriter.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Xml.Serialization.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Xml.XDocument.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Xml.XPath.XDocument.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Xml.XPath.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Xml.XmlDocument.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Xml.XmlSerializer.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.Xml.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\System.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\WindowsBase.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\mscorlib.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\netstandard.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Pokedata.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\WinMetadata\Windows.winmd
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\resources.pri
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\clrcompression.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\000.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\001.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\002.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\003.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\004.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\005.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\006.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\007.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\008.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\009.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\010.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\011.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\012.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\013.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\014.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\015.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\016.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\017.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\018.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\019.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\020.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\021.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\022.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\023.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\024.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\025.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\026.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\027.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\028.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\029.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\030.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\031.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\032.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\033.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\034.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\035.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\036.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\037.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\038.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\039.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\040.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\041.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\042.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\043.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\044.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\045.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\046.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\047.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\048.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\049.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\050.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\051.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\052.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\053.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\054.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\055.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\056.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\057.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\058.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\059.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\060.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\061.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\062.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\063.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\064.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\065.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\066.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\067.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\068.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\069.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\070.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\071.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\072.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\073.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\074.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\075.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\076.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\077.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\078.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\079.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\080.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\081.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\082.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\083.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\084.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\085.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\086.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\087.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\088.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\089.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\090.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\091.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\092.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\093.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\094.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\095.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\096.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\097.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\098.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\099.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\100.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\101.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\102.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\103.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\104.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\105.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\106.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\107.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\108.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\109.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\110.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\111.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\112.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\113.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\114.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\115.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\116.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\117.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\118.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\119.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\120.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\121.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\122.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\123.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\124.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\125.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\126.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\127.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\128.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\129.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\130.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\131.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\132.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\133.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\134.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\135.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\136.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\137.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\138.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\139.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\140.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\141.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\142.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\143.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\144.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\145.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\146.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\147.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\148.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\149.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\150.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\151.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\152.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\153.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\154.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\155.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\156.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\157.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\158.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\159.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\160.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\161.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\162.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\163.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\164.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\165.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\166.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\167.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\168.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\169.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\170.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\171.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\172.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\173.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\174.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\175.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\176.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\177.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\178.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\179.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\180.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\181.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\182.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\183.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\184.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\185.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\186.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\187.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\188.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\189.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\190.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\191.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\192.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\193.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\194.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\195.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\196.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\197.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\198.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\199.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\200.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\201.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\202.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\203.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\204.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\205.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\206.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\207.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\208.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\209.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\210.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\211.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\212.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\213.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\214.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\215.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\216.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\217.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\218.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\219.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\220.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\221.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\222.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\223.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\224.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\225.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\226.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\227.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\228.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\229.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\230.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\231.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\232.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\233.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\234.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\235.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\236.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\237.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\238.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\239.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\240.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\241.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\242.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\243.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\244.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\245.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\246.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\247.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\248.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\249.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\250.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Cry Sounds\251.wav
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\000.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\001.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Types\Bug.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Types\Dragon.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Types\Electric.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Types\Fighting.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Types\Fire.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Types\Flying.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\000MissingNo..png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\001Bulbasaur.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\002Ivysaur.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\003Venusaur.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\004Charmander.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\005Charmeleon.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\006Charizard.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\007Squirtle.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\008Wartortle.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\009Blastoise.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\010Caterpie.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\011Metapod.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\012Butterfree.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\013Weedle.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\014Kakuna.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\015Beedrill.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\016Pidgey.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\017Pidgeotto.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\018Pidgeot.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\019Rattata.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\020Raticate.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\021Spearow.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\022Fearow.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\023Ekans.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\024Arbok.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\025Pikachu.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\026Raichu.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\027Sandshrew.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\028Sandslash.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\029Nidoran♀.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\030Nidorina.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\031Nidoqueen.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\032Nidoran♂.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\033Nidorino.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\034Nidoking.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\035Clefairy.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\036Clefable.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\037Vulpix.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\038Ninetales.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\039Jigglypuff.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\040Wigglytuff.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\041Zubat.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\042Golbat.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\043Oddish.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\044Gloom.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\045Vileplume.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\046Paras.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\047Parasect.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\048Venonat.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\049Venomoth.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\050Diglett.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\051Dugtrio.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\052Meowth.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\053Persian.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\054Psyduck.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\055Golduck.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\056Mankey.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\057Primeape.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\058Growlithe.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\059Arcanine.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\060Poliwag.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\061Poliwhirl.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\062Poliwrath.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\063Abra.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\064Kadabra.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\065Alakazam.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\066Machop.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\067Machoke.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\068Machamp.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\069Bellsprout.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\070Weepinbell.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\071Victreebel.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\072Tentacool.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\073Tentacruel.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\074Geodude.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\075Graveler.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\076Golem.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\077Ponyta.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\078Rapidash.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\079Slowpoke.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\080Slowbro.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\081Magnemite.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\082Magneton.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\083Farfetch'd.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\084Doduo.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\085Dodrio.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\086Seel.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\087Dewgong.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\088Grimer.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\089Muk.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\090Shellder.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\091Cloyster.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\092Gastly.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\093Haunter.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\094Gengar.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\095Onix.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\096Drowzee.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\097Hypno.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\098Krabby.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\099Kingler.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\100Voltorb.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\101Electrode.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\102Exeggcute.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\103Exeggutor.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\104Cubone.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\105Marowak.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\106Hitmonlee.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\107Hitmonchan.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\108Lickitung.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\109Koffing.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\110Weezing.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\111Rhyhorn.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\112Rhydon.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\113Chansey.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\114Tangela.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\115Kangaskhan.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\116Horsea.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\117Seadra.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\118Goldeen.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\119Seaking.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\120Staryu.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\121Starmie.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\122Mr._Mime.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\123Scyther.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\124Jynx.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\125Electabuzz.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\126Magmar.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\127Pinsir.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\128Tauros.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\129Magikarp.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\130Gyarados.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\131Lapras.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\132Ditto.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\133Eevee.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\134Vaporeon.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\135Jolteon.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\136Flareon.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\137Porygon.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\138Omanyte.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\139Omastar.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\140Kabuto.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\141Kabutops.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\142Aerodactyl.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\143Snorlax.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\144Articuno.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\145Zapdos.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\146Moltres.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\147Dratini.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\148Dragonair.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\149Dragonite.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\150Mewtwo.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Gen I Pics\151Mew.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Types\Ghost.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Types\Grass.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Types\Ground.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Types\Ice.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Types\Normal.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Types\Poison.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Types\Psychic.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Types\Rock.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Types\Unknown.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Types\Water.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\LockScreenLogo.scale-200.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\SplashScreen.scale-200.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Square150x150Logo.scale-200.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Square44x44Logo.scale-200.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\StoreLogo.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\Assets\Wide310x150Logo.scale-200.png
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\App.xbf
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\ChoosingPage.xbf
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\in\SelectedPokemonPage.xbf
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc.PokeDex.rsp
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\BuildInfo\BuildInfo.rc
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\BuildInfo\BuildInfo.res
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\BuildInfo\BuildInfo.txt
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\gkargs.rsp
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\ILTransformed\Pokedata.ildll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\ILTransformed\Pokedata.ilpdb
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\ILTransformed\PokeDex.closure.csv
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\ILTransformed\PokeDex.csv
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\ILTransformed\PokeDex.forwarders.csv
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\ILTransformed\PokeDex.ilexe
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\ILTransformed\PokeDex.ilexe.ILTransformTask.repro
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\ILTransformed\PokeDex.ilpdb
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\ILTransformed\PokeDex.McgInterop.ildll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\ILTransformed\PokeDex.McgInterop.ilpdb
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\ILTransformed\PokeDex.metadata
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\ILTransformed\PokeDex.reflectionlog.csv
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\ILTransformed\PokeDex.res
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\ILTransformed\System.Numerics.Vectors.ildll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\ILTransformed\System.Numerics.Vectors.ilpdb
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\ILTransformed\System.Private.DeveloperExperience.AppX.ildll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\ILTransformed\System.Private.DeveloperExperience.AppX.ilpdb
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\ILTransformed\System.Private.PokeDex.Generated.ildll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\ILTransformed\System.Private.PokeDex.Generated.ilpdb
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\ILTransformed\System.Private.StackTraceGenerator.ildll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\ILTransformed\System.Private.StackTraceGenerator.ilpdb
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\ILTransformed\System.Private.WinRTInterop.CoreLib.ildll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\ILTransformed\System.Private.WinRTInterop.CoreLib.ilpdb
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\ILTransformed\System.Runtime.InteropServices.ildll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\ILTransformed\System.Runtime.InteropServices.ilpdb
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\ILTransformed\System.Runtime.InteropServices.WindowsRuntime.ildll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\ILTransformed\System.Runtime.InteropServices.WindowsRuntime.ilpdb
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\ILTransformed\System.Runtime.WindowsRuntime.ildll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\ILTransformed\System.Runtime.WindowsRuntime.ilpdb
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\ILTransformed\System.Runtime.WindowsRuntime.UI.Xaml.ildll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\ILTransformed\System.Runtime.WindowsRuntime.UI.Xaml.ilpdb
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\ILTransformed\System.Text.Encoding.CodePages.ildll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\ILTransformed\System.Text.Encoding.CodePages.ilpdb
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\MDIL\PokeDex.mdilexe
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\MDIL\PokeDex.mdilpdb
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\MDIL\PokeDex.rsp
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\Native.res
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\Native\DotNetNative.debugger-services-def.json
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\Native\PokeDex.pdb
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\PokeDex.McgInterop.dll
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\PokeDex.McgInterop.pdb
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\PokeDex.McgInterop.rsp
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\PokeDex.McgInterop\Adapters.g.cs
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\PokeDex.McgInterop\AssemblyInfo.g.cs
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\PokeDex.McgInterop\Data.g.cs
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\PokeDex.McgInterop\Helpers.g.cs
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\PokeDex.McgInterop\ImplTypes.g.cs
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\PokeDex.McgInterop\PInvoke.g.cs
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\PokeDex.McgInterop\SafeTypes.g.cs
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\PokeDex.McgInterop\SharedStubs.g.cs
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\PreMergeILTransformed\PokeDex.exe
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\PreMergeILTransformed\PokeDex.pdb
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\Resources\System.Numerics.Vectors.0.rsrc
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\Resources\System.Numerics.Vectors.index.txt
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\Resources\System.Private.DeveloperExperience.AppX.0.rsrc
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\Resources\System.Private.DeveloperExperience.AppX.index.txt
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\Resources\System.Runtime.InteropServices.0.rsrc
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\Resources\System.Runtime.InteropServices.index.txt
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\Resources\System.Runtime.InteropServices.WindowsRuntime.0.rsrc
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\Resources\System.Runtime.InteropServices.WindowsRuntime.index.txt
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\Resources\System.Runtime.WindowsRuntime.0.rsrc
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\Resources\System.Runtime.WindowsRuntime.index.txt
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\Resources\System.Runtime.WindowsRuntime.UI.Xaml.0.rsrc
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\Resources\System.Runtime.WindowsRuntime.UI.Xaml.index.txt
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\rhbindargs.PokeDex.rsp
+C:\Users\Jacob Mabey\Documents\Intro Software Projects\Team-Name-Project\PokeDex\PokeDex\obj\x64\Release\ilc\intermediate\System.Private.PokeDex.Generated.dll
