@@ -221,6 +221,7 @@ C:\Users\Dakota L. Miller\source\repos\PokeDex\PokeDex\obj\x86\Debug\SelectedPok
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\App.xbf
 C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\ChoosingPage.xbf
 C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Projects\Team-Name-Project\PokeDex\PokeDex\bin\x86\Debug\SelectedPokemonPage.xbf
@@ -762,3 +763,5 @@ C:\Users\Luna McClain\Desktop\Class Work Assignments\Introduction to Software Pr
 >>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work
 =======
 >>>>>>> parent of a055d3a... Merge branch 'master' into Alices_Work
+=======
+>>>>>>> 24a0a5be09b997e737cd21d5a9755aa9b6fb841c

@@ -22,13 +22,14 @@
                 <TextBlock x:Name="Title"
                          Height="100"
                          Width="500"
-                         Text="Kanto PokeDex"
+                         Text="     PokeDex"
                          FontSize="50"
                          Foreground="White" HorizontalAlignment="Stretch" Margin="10,10,470,880" VerticalAlignment="Stretch"/>
 
 
                 <Rectangle Fill="Red" Margin="40,192,544,284" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/>
 
+<<<<<<< HEAD
 <<<<<<< HEAD
                 <Image x:Name="DisplayPokemon"
                        Margin="63,206,568,302"
@@ -42,9 +43,30 @@
                 </ListView>
 =======
                 <ListBox Name="ThePokemon" 
+=======
+                <Rectangle Name="DisplayPokemon"
+                           Width="350" Height="350"
+                           Margin="65,270,0,0"
+                           RadiusX="50" RadiusY="50"
+                           Stroke="Black" StrokeThickness="8"
+                           HorizontalAlignment="Left" VerticalAlignment="Top">
+                    <Rectangle.Fill>
+                        <ImageBrush>
+                            <ImageBrush.RelativeTransform>
+                                <CompositeTransform CenterX="0.5" CenterY="0.5" ScaleX="0.8" ScaleY="0.8"/>
+                            </ImageBrush.RelativeTransform>
+                        </ImageBrush>
+                    </Rectangle.Fill>
+                </Rectangle>
+                
+
+
+                <ListView Name="PokemonList" 
+>>>>>>> 24a0a5be09b997e737cd21d5a9755aa9b6fb841c
                          HorizontalAlignment="Left" 
-                         Margin="515,0,0,0" 
+                         Margin="515 -85 0 0" 
                          VerticalAlignment="Center" 
+<<<<<<< HEAD
                          Width="426"
                          SelectionChanged="ThePokemon_SelectionChanged">
                 </ListBox>
@@ -59,7 +81,30 @@
                     
                 </ListView>
 >>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work
+=======
+                         Width="426" Height="450"
+                         SelectionMode="None"
+                         ScrollViewer.VerticalScrollBarVisibility="Hidden"
+                         SelectionChanged="PokemonList_SelectionChanged"
+                         ItemsSource="{x:Bind pokedex, Mode=OneWay}">
+                    <ListView.ItemTemplate>
+                        <DataTemplate x:DataType="dex:Pokemon">
+                            <Grid Margin="0 5" Padding="0" Height="40" Background="LightGray">
+                                <TextBlock Width="400" Text="{x:Bind Name, Mode=OneWay}" FontSize="30" TextAlignment="Center" TextLineBounds="Tight" VerticalAlignment="Center"/>
+                            </Grid>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
 
+                    <ListView.ItemsPanel>
+                        <ItemsPanelTemplate>
+                            <ItemsStackPanel ItemsUpdatingScrollMode="KeepItemsInView"/>
+                        </ItemsPanelTemplate>
+                    </ListView.ItemsPanel>
+                </ListView>
+                <TextBlock Text="▶" FontSize="50" TextLineBounds="Tight" Foreground="Red" Margin="515 -85 0 0" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+>>>>>>> 24a0a5be09b997e737cd21d5a9755aa9b6fb841c
+
+                
                 <Canvas x:Name="Controls"
                         Background="Red" 
                         Margin="946,1,-502,-1" 

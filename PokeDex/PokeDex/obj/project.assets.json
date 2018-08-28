@@ -27498,6 +27498,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "C:\\Users\\Luna McClain\\.nuget\\packages\\": {},
 =======
     "C:\\Users\\Jacob Mabey\\.nuget\\packages\\": {},
@@ -27511,11 +27512,15 @@
 =======
     "C:\\Users\\Dakota L. Miller\\.nuget\\packages\\": {},
 >>>>>>> parent of a055d3a... Merge branch 'master' into Alices_Work
+=======
+    "C:\\Users\\Jacob Mabey\\.nuget\\packages\\": {},
+>>>>>>> 24a0a5be09b997e737cd21d5a9755aa9b6fb841c
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -27528,11 +27533,14 @@
 =======
 =======
 >>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
+=======
+>>>>>>> 24a0a5be09b997e737cd21d5a9755aa9b6fb841c
       "projectUniqueName": "C:\\Users\\Jacob Mabey\\Documents\\Intro Software Projects\\Team-Name-Project\\PokeDex\\PokeDex\\PokeDex.csproj",
       "projectName": "PokeDex",
       "projectPath": "C:\\Users\\Jacob Mabey\\Documents\\Intro Software Projects\\Team-Name-Project\\PokeDex\\PokeDex\\PokeDex.csproj",
       "packagesPath": "C:\\Users\\Jacob Mabey\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Jacob Mabey\\Documents\\Intro Software Projects\\Team-Name-Project\\PokeDex\\PokeDex\\obj\\",
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> a9481a128bbdd59b016491ed3c632f986306c681
 =======
@@ -27551,12 +27559,15 @@
       "packagesPath": "C:\\Users\\Dakota L. Miller\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Dakota L. Miller\\source\\repos\\PokeDex\\PokeDex\\obj\\",
 >>>>>>> parent of a055d3a... Merge branch 'master' into Alices_Work
+=======
+>>>>>>> 24a0a5be09b997e737cd21d5a9755aa9b6fb841c
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
       ],
       "configFilePaths": [
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -27574,6 +27585,9 @@
 =======
         "C:\\Users\\Dakota L. Miller\\AppData\\Roaming\\NuGet\\NuGet.Config",
 >>>>>>> parent of a055d3a... Merge branch 'master' into Alices_Work
+=======
+        "C:\\Users\\Jacob Mabey\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 24a0a5be09b997e737cd21d5a9755aa9b6fb841c
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

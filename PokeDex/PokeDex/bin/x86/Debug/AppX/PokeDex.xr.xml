@@ -17,6 +17,12 @@
     <RootType FullName="Windows.UI.Xaml.Controls.Page">
       <RootProperty Name="Background" />
       <RootProperty Name="Content" />
+<<<<<<< HEAD
+=======
+      <RootProperty Name="Width" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Resources" />
+>>>>>>> 24a0a5be09b997e737cd21d5a9755aa9b6fb841c
     </RootType>
     <RootType FullName="Microsoft.Xaml.DirectUI.ProxyTypes.ThemeResourceExtension" />
     <RootType FullName="Windows.UI.Xaml.Controls.Viewbox">
@@ -30,6 +36,23 @@
       <RootProperty Name="Width" />
       <RootProperty Name="Margin" />
       <RootProperty Name="VerticalAlignment" />
+<<<<<<< HEAD
+=======
+      <RootProperty Name="Padding" />
+      <RootProperty Name="Name" />
+      <RootProperty Name="ColumnDefinitions" />
+      <RootProperty Name="RowDefinitions" />
+      <RootProperty Name="BorderBrush" />
+      <RootProperty Name="BorderThickness" />
+      <RootMethod Name="GetColumn" />
+      <RootMethod Name="SetColumn" />
+      <RootMethod Name="GetColumnSpan" />
+      <RootMethod Name="SetColumnSpan" />
+      <RootMethod Name="GetRowSpan" />
+      <RootMethod Name="SetRowSpan" />
+      <RootMethod Name="GetRow" />
+      <RootMethod Name="SetRow" />
+>>>>>>> 24a0a5be09b997e737cd21d5a9755aa9b6fb841c
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Shapes.Rectangle">
       <RootProperty Name="Height" />
@@ -60,6 +83,10 @@
       <RootProperty Name="Margin" />
       <RootProperty Name="VerticalAlignment" />
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+      <RootProperty Name="TextLineBounds" />
+>>>>>>> 24a0a5be09b997e737cd21d5a9755aa9b6fb841c
       <RootProperty Name="TextAlignment" />
       <RootProperty Name="TextWrapping" />
 <<<<<<< HEAD
@@ -69,6 +96,7 @@
 =======
 >>>>>>> parent of a055d3a... Merge branch 'master' into Alices_Work
     </RootType>
+<<<<<<< HEAD
     <RootType FullName="Windows.UI.Xaml.Controls.Image">
       <RootProperty Name="Margin" />
       <RootProperty Name="HorizontalAlignment" />
@@ -83,6 +111,8 @@
       <RootProperty Name="Height" />
 >>>>>>> parent of a055d3a... Merge branch 'master' into Alices_Work
     </RootType>
+=======
+>>>>>>> 24a0a5be09b997e737cd21d5a9755aa9b6fb841c
     <RootType FullName="Windows.UI.Xaml.Controls.ListView">
       <RootProperty Name="Name" />
       <RootProperty Name="HorizontalAlignment" />
@@ -93,17 +123,30 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of a055d3a... Merge branch 'master' into Alices_Work
       <RootProperty Name="Opacity" />
       <RootProperty Name="Background" />
 =======
+=======
+      <RootProperty Name="Height" />
+      <RootProperty Name="SelectionMode" />
+      <RootProperty Name="ItemsSource" />
+      <RootProperty Name="ItemTemplate" />
+      <RootProperty Name="ItemsPanel" />
+>>>>>>> 24a0a5be09b997e737cd21d5a9755aa9b6fb841c
       <RootEvent Name="SelectionChanged" />
 >>>>>>> master
 =======
       <RootProperty Name="Opacity" />
       <RootProperty Name="Background" />
 >>>>>>> parent of 488a051... Merge branch 'master' into Alices_Work
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ScrollViewer">
+      <RootProperty Name="Content" />
+      <RootMethod Name="GetVerticalScrollBarVisibility" />
+      <RootMethod Name="SetVerticalScrollBarVisibility" />
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.Canvas">
       <RootProperty Name="Background" />
@@ -127,6 +170,7 @@
       <RootProperty Name="Height" />
       <RootProperty Name="Width" />
       <RootProperty Name="Margin" />
+<<<<<<< HEAD
       <RootEvent Name="Click" />
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Data.Binding" />
@@ -134,10 +178,47 @@
     <RootType FullName="Windows.UI.Xaml.Controls.ScrollViewer">
       <RootProperty Name="Content" />
     </RootType>
+=======
+      <RootProperty Name="Name" />
+      <RootProperty Name="FontWeight" />
+      <RootProperty Name="HorizontalContentAlignment" />
+      <RootProperty Name="Padding" />
+      <RootEvent Name="Click" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.DirectUI.ProxyTypes.BindExtension">
+      <RootProperty Name="Mode" />
+      <RootProperty Name="Converter" />
+      <RootProperty Name="ConverterParameter" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.DataTemplate">
+      <RootProperty Name="Template" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ItemsPanelTemplate">
+      <RootProperty Name="Template" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ItemsStackPanel">
+      <RootProperty Name="ItemsUpdatingScrollMode" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.ImageBrush">
+      <RootProperty Name="RelativeTransform" />
+      <RootProperty Name="ImageSource" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.CompositeTransform">
+      <RootProperty Name="CenterX" />
+      <RootProperty Name="CenterY" />
+      <RootProperty Name="ScaleX" />
+      <RootProperty Name="ScaleY" />
+    </RootType>
+    <RootType FullName="PokeDex.ChoosingPage" />
+    <RootType FullName="PokeDex.Converters.DexNumberToStringConverter" />
+    <RootType FullName="PokeDex.Converters.TypeToTypeImageConverter" />
+    <RootType FullName="PokeDex.Converters.ListToAbilitiesConverter" />
+>>>>>>> 24a0a5be09b997e737cd21d5a9755aa9b6fb841c
     <RootType FullName="Windows.UI.Xaml.Controls.RelativePanel">
       <RootProperty Name="Height" />
       <RootProperty Name="Children" />
       <RootProperty Name="Margin" />
+<<<<<<< HEAD
       <RootMethod Name="GetAlignBottomWithPanel" />
       <RootMethod Name="SetAlignBottomWithPanel" />
       <RootMethod Name="GetAlignLeftWithPanel" />
@@ -152,12 +233,49 @@
       <RootMethod Name="SetBelow" />
       <RootMethod Name="GetAbove" />
       <RootMethod Name="SetAbove" />
+=======
+      <RootProperty Name="BorderBrush" />
+      <RootProperty Name="BorderThickness" />
+      <RootProperty Name="Width" />
+      <RootMethod Name="GetBelow" />
+      <RootMethod Name="SetBelow" />
+>>>>>>> 24a0a5be09b997e737cd21d5a9755aa9b6fb841c
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.RadioButton">
       <RootProperty Name="Content" />
       <RootProperty Name="IsEnabled" />
       <RootProperty Name="GroupName" />
       <RootProperty Name="Margin" />
+<<<<<<< HEAD
+=======
+      <RootProperty Name="RenderTransform" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ColumnDefinition">
+      <RootProperty Name="Width" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.HyperlinkButton">
+      <RootProperty Name="Name" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Content" />
+      <RootEvent Name="Click" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.StackPanel">
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Children" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Image">
+      <RootProperty Name="Source" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Height" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.DirectUI.ProxyTypes.StaticResourceExtension" />
+    <RootType FullName="Windows.UI.Xaml.Controls.RowDefinition">
+      <RootProperty Name="Height" />
+>>>>>>> 24a0a5be09b997e737cd21d5a9755aa9b6fb841c
     </RootType>
     <RootType FullName="PokeDex.SelectedPokemonPage" />
 =======

@@ -6,7 +6,16 @@
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d"
+<<<<<<< HEAD
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+=======
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Width="1400" Height="3000">
+    <Page.Resources>
+        <conv:DexNumberToStringConverter x:Name="DexNumberConverter"/>
+        <conv:TypeToTypeImageConverter x:Name="TypeConverter"/>
+        <conv:ListToAbilitiesConverter x:Name="ListToAbilitiesConverter"/>
+    </Page.Resources>
+>>>>>>> 24a0a5be09b997e737cd21d5a9755aa9b6fb841c
 
     <Grid>
         <ScrollViewer>
@@ -36,12 +45,37 @@
                          RelativePanel.RightOf="back"
                          Margin="75,30,0,0"/>
 
+<<<<<<< HEAD
                 <RadioButton x:Name="legendaryChecked"
                          Content="Legendary"
                          IsEnabled="False"
                          RelativePanel.RightOf="legendary"
                          GroupName="legendary"
                          Margin="-30,40,0,0"/>
+=======
+                <Button Name="playCrySound" Content="   ▶  Cry" Click="playCrySound_Click"
+                        FontSize="36" FontWeight="Bold"
+                        HorizontalContentAlignment="Left"
+                        Padding="0"
+                        Width="250"
+                        Margin="700 60 0 0"/>
+
+                <Grid Name="NameAndCategoryGrid"
+                      Width="650" Height="200"
+                      Margin="700 150 0 0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="1*"/>
+                        <ColumnDefinition Width="1*"/>
+                        <ColumnDefinition Width="1*"/>
+                        <ColumnDefinition Width="1*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="1*"/>
+                        <RowDefinition Height="1*"/>
+                    </Grid.RowDefinitions>
+                    <Rectangle Grid.ColumnSpan="4" Grid.Row="0" Fill="Red" Stroke="Black" StrokeThickness="2"/>
+                    <Rectangle Grid.ColumnSpan="4" Grid.Row="1" Fill="White" Stroke="Black" StrokeThickness="2"/>
+>>>>>>> 24a0a5be09b997e737cd21d5a9755aa9b6fb841c
 
                 <Image x:Name="pokemonImg"
                    Width="500"
@@ -260,6 +294,7 @@
                        Text="Abilities:"/>
 
                 <TextBlock x:Name="abilities"
+<<<<<<< HEAD
                        RelativePanel.Below="potentialAbilities"
                        Margin="250,100,0,0"
                        Width="960"
@@ -267,6 +302,15 @@
                        Foreground="Gray"
                        FontSize="50"
                        Text="Ability 1, Ability 2, Hidden Ability"/>
+=======
+                    RelativePanel.Below="potentialAbilities"
+                    Margin="245,89,0,0"
+                    Width="960"
+                    Height="100"
+                    Foreground="DeepSkyBlue"
+                    FontSize="50"
+                    Text="{x:Bind SelectedPokemon.Abilities, Converter={StaticResource ListToAbilitiesConverter}}"/>
+>>>>>>> 24a0a5be09b997e737cd21d5a9755aa9b6fb841c
 
                 <Rectangle x:Name="genderRatioBox"
                        Stroke="Black"
@@ -312,6 +356,7 @@
                        Text="100"
                        TextAlignment="Right"/>
 
+<<<<<<< HEAD
                 <RelativePanel RelativePanel.Below="evolutionChartBox1"
                            Margin="250,0,0,0">
                     <Rectangle x:Name="baseStatsBox"
@@ -411,6 +456,197 @@
                            TextAlignment="Right"
                            Text="100000"
                            Margin="220,25,0,0"/>
+=======
+
+                <Grid Name="pokemonEntryBox"
+                      Width="1250" Height="400"
+                      Margin="75 1200 0 0"
+                      Background="red"
+                      BorderBrush="Black"
+                      BorderThickness="5">
+                    <Rectangle Fill="White" Margin="46 0 46 0"/>
+
+                    <TextBlock Text="{x:Bind SelectedPokemon.Description}"
+                               Foreground="Gray"
+                               FontSize="40"
+                               TextWrapping="Wrap"
+                               TextAlignment="Center"
+                               HorizontalAlignment="Stretch"
+                               VerticalAlignment="Top"
+                               Margin="46 0 46 0"/>
+                </Grid>
+
+                <Grid Name="evolutionChartBox"
+                      Width="1250" Height="400"
+                      Margin="75 1650 0 0"
+                      Background="red"
+                      BorderBrush="Black"
+                      BorderThickness="5">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="0.2*"/>
+                        <ColumnDefinition Width="1*"/>
+                        <ColumnDefinition Width="1*"/>
+                        <ColumnDefinition Width="1*"/>
+                        <ColumnDefinition Width="1*"/>
+                        <ColumnDefinition Width="1*"/>
+                        <ColumnDefinition Width="0.2*"/>
+                    </Grid.ColumnDefinitions>
+                    <Rectangle Fill="White" Grid.Column="1" Grid.ColumnSpan="5"/>
+
+                    <HyperlinkButton Name="evolveFromPokemonButton"
+                           Click="EvolveFromPokemonClick"
+                           Width="230" Height="230"
+                           Grid.Column="1">
+                        <Image Source="{x:Bind SelectedPokemon.EvolveFrom.ImageSource}"
+                           HorizontalAlignment="Stretch"
+                           VerticalAlignment="Stretch"/>
+                    </HyperlinkButton>
+                    <TextBlock Text="{x:Bind SelectedPokemon.EvolveFrom.Name}"
+                               FontSize="30" Foreground="DarkGray"
+                               TextAlignment="Center"
+                               HorizontalAlignment="Stretch"
+                               VerticalAlignment="Bottom"
+                               Margin="0 0 0 30"
+                               Grid.Column="1"/>
+
+                    <StackPanel Grid.Column="2"
+                                HorizontalAlignment="Stretch"
+                                VerticalAlignment="Center">
+                        <TextBlock Text="{x:Bind SelectedPokemon.EvolveFromAction.Task}"
+                               FontSize="30" TextAlignment="Center" Foreground="SlateGray"/>
+                        <TextBlock Text="{x:Bind SelectedPokemon.EvolveFromAction.ExtraTask}"
+                               FontSize="30" TextAlignment="Center" Foreground="SlateGray"/>
+                    </StackPanel>
+
+                    <Image Source="{x:Bind SelectedPokemon.ImageSource}"
+                           HorizontalAlignment="Stretch"
+                           VerticalAlignment="Stretch"
+                           Width="230" Height="230"
+                           Grid.Column="3"/>
+                    <TextBlock Text="{x:Bind SelectedPokemon.Name}"
+                               FontSize="30" Foreground="DarkGray"
+                               TextAlignment="Center"
+                               HorizontalAlignment="Stretch"
+                               VerticalAlignment="Bottom"
+                               Margin="0 0 0 30"
+                               Grid.Column="3"/>
+
+                    <StackPanel Grid.Column="4"
+                                HorizontalAlignment="Stretch"
+                                VerticalAlignment="Center">
+                        <TextBlock Text="{x:Bind SelectedPokemon.EvolveToAction.Task}"
+                               FontSize="30" TextAlignment="Center" Foreground="SlateGray"/>
+                        <TextBlock Text="{x:Bind SelectedPokemon.EvolveToAction.ExtraTask}"
+                               FontSize="30" TextAlignment="Center" Foreground="SlateGray"/>
+                    </StackPanel>
+
+                    <HyperlinkButton Name="evolveToPokemonButton"
+                           Click="EvolveToPokemonClick"
+                           Width="230" Height="230"
+                           Grid.Column="5">
+                        <Image Source="{x:Bind SelectedPokemon.EvolveTo.ImageSource}"
+                           HorizontalAlignment="Stretch"
+                           VerticalAlignment="Stretch"/>
+                    </HyperlinkButton>
+                    <TextBlock Text="{x:Bind SelectedPokemon.EvolveTo.Name}"
+                               FontSize="30" Foreground="DarkGray"
+                               TextAlignment="Center"
+                               HorizontalAlignment="Stretch"
+                               VerticalAlignment="Bottom"
+                               Margin="0 0 0 30"
+                               Grid.Column="5"/>
+                </Grid>
+
+
+                <RelativePanel Margin="300,2200,0,0"
+                               Background="White"
+                               BorderBrush="Black" BorderThickness="5"
+                               Width="800">
+
+                    <TextBlock x:Name="hitPoints"
+                               Foreground="Black"
+                               FontSize="40"
+                               Text="HitPoints:"
+                               Margin="20 20 0 0"/>
+                    <TextBlock x:Name="attack"
+                               Foreground="Black"
+                               FontSize="40"
+                               RelativePanel.Below="hitPoints"
+                               Text="Attack:"
+                               Margin="20 0"/>
+                    <TextBlock x:Name="defense"
+                               Foreground="Black"
+                               FontSize="40"
+                               RelativePanel.Below="attack"
+                               Text="Defense:"
+                               Margin="20 0"/>
+                    <TextBlock x:Name="specialAttack"
+                               Foreground="Black"
+                               FontSize="40"
+                               RelativePanel.Below="defense"
+                               Text="Special Attack:"
+                               Margin="20 0"/>
+                    <TextBlock x:Name="specialDefense"
+                               Foreground="Black"
+                               FontSize="40"
+                               RelativePanel.Below="specialAttack"
+                               Text="Special Defense:"
+                               Margin="20 0"/>
+                    <TextBlock x:Name="speed"
+                               Foreground="Black"
+                               FontSize="40"
+                               RelativePanel.Below="specialDefense"
+                               Text="Speed:"
+                               Margin="20 0"/>
+
+                    <TextBlock x:Name="hitPointsStat"
+                               Foreground="Gray"
+                               FontSize="40"
+                               Width="250"
+                               TextAlignment="Right"
+                               Text="{x:Bind SelectedPokemon.BaseStats.HP}"
+                               Margin="250 20 0 0"/>
+                    <TextBlock x:Name="attackStat"
+                               Foreground="Gray"
+                               FontSize="40"
+                               Width="250"
+                               RelativePanel.Below="hitPointsStat"
+                               TextAlignment="Right"
+                               Text="{x:Bind SelectedPokemon.BaseStats.Attack}"
+                               Margin="250 0"/>
+                    <TextBlock x:Name="defenseStat"
+                               Foreground="Gray"
+                               FontSize="40"
+                               Width="250"
+                               RelativePanel.Below="attackStat"
+                               TextAlignment="Right"
+                               Text="{x:Bind SelectedPokemon.BaseStats.Defense}"
+                               Margin="250 0"/>
+                    <TextBlock x:Name="specialAttackStat"
+                               Foreground="Gray"
+                               FontSize="40"
+                               Width="250"
+                               RelativePanel.Below="defenseStat"
+                               TextAlignment="Right"
+                               Text="{x:Bind SelectedPokemon.BaseStats.SpecialAttack}"
+                               Margin="250 0"/>
+                    <TextBlock x:Name="specialDefenseStat"
+                               Foreground="Gray"
+                               FontSize="40"
+                               Width="250"
+                               RelativePanel.Below="specialAttackStat"
+                               TextAlignment="Right"
+                               Text="{x:Bind SelectedPokemon.BaseStats.SpecialDefense}"
+                               Margin="250 0"/>
+                    <TextBlock x:Name="speedStat"
+                               Foreground="Gray"
+                               FontSize="40"
+                               Width="250"
+                               RelativePanel.Below="specialDefenseStat"
+                               TextAlignment="Right"
+                               Text="{x:Bind SelectedPokemon.BaseStats.Speed}"
+                               Margin="250 0"/>
+>>>>>>> 24a0a5be09b997e737cd21d5a9755aa9b6fb841c
                 </RelativePanel>
 
                 <TextBlock x:Name="evoAction1"
